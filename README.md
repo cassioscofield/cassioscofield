@@ -1,4 +1,4 @@
-#### Hi, I'm Cássio Scofield, full-stack mobile developer, currently working at IBM in Rio de Janeiro - Brazil
+#### Hi, I'm Cássio Scofield, full-stack mobile developer, currently working at IBM in Rio de Janeiro
 
 #### Languages  
 
