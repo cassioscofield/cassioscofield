@@ -1,4 +1,4 @@
-#### Hi, I'm Cássio Scofield, full-stack mobile developer, currently working at IBM in Rio de Janeiro
+#### Hi, I'm Cássio Scofield, full-stack mobile developer, currently working as tech lead for PEBMED
 
 #### Languages  
 
