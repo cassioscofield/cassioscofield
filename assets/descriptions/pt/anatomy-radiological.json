@@ -1,0 +1,636 @@
+[
+    {
+        "id": "arpm",
+        "title": "Partes Moles",
+        "content": [
+            {
+                "title": "",
+                "image": [
+                    {
+                        "url": "assets/images/radiological-anatomy/pt/1.jpg",
+                        "subtitle": "Simetria mamária (setas)."
+                    }
+                ],
+                "description": [
+                    "<br><b>O que devemos procurar e avaliar?</b><br><br>1- Avaliação da simetria (transparência)<br>2- Avaliação das mamas, tecido subcutâneo, pregas cutâneas, região cervical (posição da traqueia) e região supra/infra escapular.<br>3- Descartar enfisema subcutâneo, lesões de parede X parênquima"
+                ],
+                "studyKeys": [],
+                "reference": []
+            },
+            {
+                "title": "",
+                "image": [
+                    {
+                        "url": "assets/images/radiological-anatomy/pt/2.jpg",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [
+                    "<br><b>O que devemos procurar e avaliar?</b><br><br>1- Avaliação da simetria (transparência)<br>2- Avaliação das mamas, tecido subcutâneo, pregas cutâneas, região cervical (posição da traqueia) e região supra/infra escapular.<br>3- Descartar enfisema subcutâneo, lesões de parede X parênquima"
+                ],
+                "studyKeys": [],
+                "reference": []
+            }
+        ]
+    },
+    {
+        "id": "arao",
+        "title": "Arcabouço Ósseo",
+        "content": [
+            {
+                "title": "",
+                "image": [
+                    {
+                        "url": "assets/images/radiological-anatomy/pt/3.jpg",
+                        "subtitle": "Costelas anteriores."
+                    },
+                    {
+                        "url": "assets/images/radiological-anatomy/pt/4.jpg",
+                        "subtitle": "Costelas posteriores."
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            },
+            {
+                "title": "",
+                "image": [
+                    {
+                        "url": "assets/images/radiological-anatomy/pt/5.jpg",
+                        "subtitle": "Clavículas: direita (seta azul) e esquerda (seta verde) normoposicionadas em radiografia PA."
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            },
+            {
+                "title": "",
+                "image": [
+                    {
+                        "url": "assets/images/radiological-anatomy/pt/6.jpg",
+                        "subtitle": "Esterno."
+                    },
+                    {
+                        "url": "assets/images/radiological-anatomy/pt/7.jpg",
+                        "subtitle": "Corpos vertebrais."
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            }
+        ]
+    },
+    {
+        "id": "ardp",
+        "title": "Diafragma e Espaço Pleural",
+        "content": [
+            {
+                "title": "",
+                "image": [
+                    {
+                        "url": "assets/images/radiological-anatomy/pt/8.jpg",
+                        "subtitle": "Diafragma."
+                    }
+                ],
+                "description": [
+                    "95%  DIREITO é mais elevado, por conta da estrutura hepática.",
+                    "DIREITO é contínuo.",
+                    "ESQUERDO  “desaparece” devido ao contato com o coração."
+                ],
+                "studyKeys": [],
+                "reference": []
+            },
+            {
+                "title": "",
+                "image": [
+                    {
+                        "url": "assets/images/radiological-anatomy/pt/9.jpg",
+                        "subtitle": "Diafragma."
+                    }
+                ],
+                "description": [
+                    "95%  DIREITO é mais elevado, por conta da estrutura hepática.",
+                    "DIREITO é contínuo.",
+                    "ESQUERDO  “desaparece” devido ao contato com o coração.",
+                    "*Atenção aos seios costofrênicos que devem se encontrar livres"
+                ],
+                "studyKeys": [],
+                "reference": []
+            }
+        ]
+    },
+    {
+        "id": "arf",
+        "title": "Fissuras",
+        "content": [
+            {
+                "title": "",
+                "image": [
+                    {
+                        "url": "assets/images/radiological-anatomy/pt/10.jpg",
+                        "subtitle": "Radiografias em PA e Perfil mostrando:"
+                    }
+                ],
+                "description": [
+                    "Fissura Horizontal do Pulmão Direito (Linha amarela).",
+                    "Fissuras Horizontal e Oblíqua vistas ao Perfil (Linha amarela e vermelha)."
+                ],
+                "studyKeys": [],
+                "reference": []
+            },
+            {
+                "title": "",
+                "image": [
+                    {
+                        "url": "assets/images/radiological-anatomy/pt/11.jpg",
+                        "subtitle": "Radiografia em Perfil mostrando a Fissura Oblíqua (linha amarela) que divide o pulmão esquerdo em lobos superior e inferior."
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            }
+        ]
+    },
+    {
+        "id": "arl",
+        "title": "Lobos",
+        "summary": {
+            "columns": [
+                {
+                    "title": "Pulmão Direito",
+                    "items": [
+                        {
+                            "title": "Lobo Superior",
+                            "slide": 1
+                        },
+                        {
+                            "title": "Lobo Médio",
+                            "slide": 2
+                        },
+                        {
+                            "title": "Lobo Inferior",
+                            "slide": 3
+                        }
+                    ]
+                },
+                {
+                    "title": "Pulmão Esquerdo",
+                    "items": [
+                        {
+                            "title": "Lobo Superior",
+                            "slide": 4
+                        },
+                        {
+                            "title": "Lobo Inferior",
+                            "slide": 5
+                        }
+                    ]
+                }
+            ]
+        },
+        "content": [
+            {
+                "title": "",
+                "image": [
+                    {
+                        "url": "assets/images/radiological-anatomy/pt/12.jpg",
+                        "subtitle": "Lobo Superior Direito"
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            },
+            {
+                "title": "",
+                "image": [
+                    {
+                        "url": "assets/images/radiological-anatomy/pt/13.jpg",
+                        "subtitle": "Lobo Médio Direito"
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            },
+            {
+                "title": "",
+                "image": [
+                    {
+                        "url": "assets/images/radiological-anatomy/pt/14.jpg",
+                        "subtitle": "Lobo Inferior Direito"
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            },
+            {
+                "title": "",
+                "image": [
+                    {
+                        "url": "assets/images/radiological-anatomy/pt/15.jpg",
+                        "subtitle": "Lobo Superior Esquerdo"
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            },
+            {
+                "title": "",
+                "image": [
+                    {
+                        "url": "assets/images/radiological-anatomy/pt/16.jpg",
+                        "subtitle": "Lobo Inferior Esquerdo"
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            }
+        ]
+    },
+    {
+        "id": "ars",
+        "title": "Segmentação",
+        "summary": {
+            "columns": [
+                {
+                    "title": "Pulmão Direito",
+                    "items": [
+                        {
+                            "title": "Apical (N°1)",
+                            "slide": 1
+                        },
+                        {
+                            "title": "Anterior (N°2)",
+                            "slide": 2
+                        },
+                        {
+                            "title": "Posterior (N°3)",
+                            "slide": 3
+                        },
+                        {
+                            "title": "Lateral (N°4)",
+                            "slide": 4
+                        },
+                        {
+                            "title": "Medial (N°5)",
+                            "slide": 5
+                        },
+                        {
+                            "title": "Apical (superior N°6)",
+                            "slide": 6
+                        },
+                        {
+                            "title": "Basal Medial (N°7)",
+                            "slide": 7
+                        },
+                        {
+                            "title": "Basal Anterior (N°8)",
+                            "slide": 8
+                        },
+                        {
+                            "title": "Basal Lateral (N°9)",
+                            "slide": 9
+                        },
+                        {
+                            "title": "Basal Posterior (N°10)",
+                            "slide": 10
+                        }
+                    ]
+                },
+                {
+                    "title": "Pulmão Esquerdo",
+                    "items": [
+                        {
+                            "title": "Apical Posterior (N°1 e N°3)",
+                            "slide": 11
+                        },
+                        {
+                            "title": "Anterior (Nº2)",
+                            "slide": 12
+                        },
+                        {
+                            "title": "Lingular Superior (Nº4)",
+                            "slide": 13
+                        },
+                        {
+                            "title": "Lingular Inferior (Nº5)",
+                            "slide": 14
+                        },
+                        {
+                            "title": "Apical (Superior Nº6)",
+                            "slide": 15
+                        },
+                        {
+                            "title": "Basal Ântero-Medial (N°7 e N°8)",
+                            "slide": 16
+                        },
+                        {
+                            "title": "Basal Lateral (Nº9)",
+                            "slide": 17
+                        },
+                        {
+                            "title": "Basal Posterior (Nº10)",
+                            "slide": 18
+                        }
+                    ]
+                }
+            ]
+        },
+        "content": [
+            {
+                "title": "",
+                "image": [
+                    {
+                        "url": "assets/images/radiological-anatomy/pt/17.jpg",
+                        "subtitle": "Segmento apical do lobo superior direito. (Segmento Nº1)"
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            },
+            {
+                "title": "",
+                "image": [
+                    {
+                        "url": "assets/images/radiological-anatomy/pt/18.jpg",
+                        "subtitle": "Segmento anterior do lobo superior direito. (Segmento Nº2)"
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            },
+            {
+                "title": "",
+                "image": [
+                    {
+                        "url": "assets/images/radiological-anatomy/pt/19.jpg",
+                        "subtitle": "Segmento posterior do lobo superior direito. (Segmento Nº3)"
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            },
+            {
+                "title": "",
+                "image": [
+                    {
+                        "url": "assets/images/radiological-anatomy/pt/20.jpg",
+                        "subtitle": "Segmento lateral do lobo médio. (Segmento Nº4)"
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            },
+            {
+                "title": "",
+                "image": [
+                    {
+                        "url": "assets/images/radiological-anatomy/pt/21.jpg",
+                        "subtitle": "Segmento medial do lobo médio. (Segmento Nº5)"
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            },
+            {
+                "title": "",
+                "image": [
+                    {
+                        "url": "assets/images/radiological-anatomy/pt/22.jpg",
+                        "subtitle": "Segmento superior do lobo inferior direito. (Segmento Nº6)"
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            },
+            {
+                "title": "",
+                "image": [
+                    {
+                        "url": "assets/images/radiological-anatomy/pt/23.jpg",
+                        "subtitle": "Segmento medial do lobo inferior direito. (Segmento Nº7)"
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            },
+            {
+                "title": "",
+                "image": [
+                    {
+                        "url": "assets/images/radiological-anatomy/pt/24.jpg",
+                        "subtitle": "Segmento anterior do lobo inferior direito. (Segmento Nº8)"
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            },
+            {
+                "title": "",
+                "image": [
+                    {
+                        "url": "assets/images/radiological-anatomy/pt/25.jpg",
+                        "subtitle": "Segmento lateral do lobo inferior direito. (Segmento Nº9)"
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            },
+            {
+                "title": "",
+                "image": [
+                    {
+                        "url": "assets/images/radiological-anatomy/pt/26.jpg",
+                        "subtitle": "Segmento posterior do lobo inferior direito. (Segmento Nº10)"
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            },
+            {
+                "title": "",
+                "image": [
+                    {
+                        "url": "assets/images/radiological-anatomy/pt/27.jpg",
+                        "subtitle": "Segmento apical (Nº1) posterior (Nº3) do lobo superior esquerdo. (Segmento Nº1 e Nº3)"
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            },
+            {
+                "title": "",
+                "image": [
+                    {
+                        "url": "assets/images/radiological-anatomy/pt/28.jpg",
+                        "subtitle": "Segmento anterior do lobo superior esquerdo. (Segmento Nº2)"
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            },
+            {
+                "title": "",
+                "image": [
+                    {
+                        "url": "assets/images/radiological-anatomy/pt/29.jpg",
+                        "subtitle": "Segmento lingular superior do lobo superior esquerdo. (Segmento Nº4)"
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            },
+            {
+                "title": "",
+                "image": [
+                    {
+                        "url": "assets/images/radiological-anatomy/pt/30.jpg",
+                        "subtitle": "Segmento lingular inferior do lobo superior esquerdo. (Segmento Nº5)"
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            },
+            {
+                "title": "",
+                "image": [
+                    {
+                        "url": "assets/images/radiological-anatomy/pt/31.jpg",
+                        "subtitle": "Segmento  superior do lobo inferior esquerdo. (Segmento Nº6)"
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            },
+            {
+                "title": "",
+                "image": [
+                    {
+                        "url": "assets/images/radiological-anatomy/pt/32.jpg",
+                        "subtitle": "Segmento  anteromedial (antero = Nº8 e medial = Nº7) do lobo inferior esquerdo. (Segmento Nº7 e N°8)"
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            },
+            {
+                "title": "",
+                "image": [
+                    {
+                        "url": "assets/images/radiological-anatomy/pt/33.jpg",
+                        "subtitle": "Segmento lateral do lobo inferior esquerdo. (Segmento Nº9)"
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            },
+            {
+                "title": "",
+                "image": [
+                    {
+                        "url": "assets/images/radiological-anatomy/pt/34.jpg",
+                        "subtitle": "Segmento posterior do lobo inferior esquerdo. (Segmento Nº10)"
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            }
+        ]
+    },
+    {
+        "id": "arth",
+        "title": "Traqueia e Hilos",
+        "content": [
+            {
+                "title": "",
+                "image": [
+                    {
+                        "url": "assets/images/radiological-anatomy/pt/35.jpg",
+                        "subtitle": "Traqueia (setas azuis) e hilos (setas vermelhas)."
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            },
+            {
+                "title": "",
+                "image": [
+                    {
+                        "url": "assets/images/radiological-anatomy/pt/36.jpg",
+                        "subtitle": "Traqueia (delineado pelas linhas vermelhas). "
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            }
+        ]
+    },
+    {
+        "id": "artcgv",
+        "title": "Coração e Grandes Vasos",
+        "content": [
+            {
+                "title": "",
+                "image": [
+                    {
+                        "url": "assets/images/radiological-anatomy/pt/37.jpg",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            }
+        ]
+    },
+    {
+        "id": "arm",
+        "title": "Mediastino",
+        "content": [
+            {
+                "title": "",
+                "image": [
+                    {
+                        "url": "assets/images/radiological-anatomy/pt/38.jpg",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [
+                    "<br><br><b>Divisão esquemática do mediastino proposta pela ITMIG (2017)</b><br><br>Pré-Vascular – (Anterior)<br>Superior: introito torácico. Inferior: Diafragma. Anterior: Esterno. Laterais: Pleuras parietais mediastinais. Posterior: Anterior ao pericárdio, envolvendo o coração de forma curvilínea. <br><br>Visceral – (Médio)<br>Superior: Introito torácico. Inferior: diafragma. Anterior: limites posteriores do compartimento pré-vascular. Posterior: linha vertical traçada conectando os corpos vertebrais torácicos cerca de 1 cm posterior à margem anterior dos corpos vertebrais. <br><br>Paravertebral – (Posterior)<br>Superior: Introito torácico. Inferior: diafragma. Anterior: limites posteriores do compartimento visceral. Posterolateral: linha vertical traçada contra a margem posterior da parede torácica na margem lateral dos processos transversos da coluna torácica."
+                ],
+                "studyKeys": [],
+                "reference": [
+                    "Carter et al. ITMIG Classification of Mediastinal Compartments and Multidisciplinary Approach to Mediastinal Masses. RadioGraphics 2017; 37:0000–0000"
+                ]
+            }
+        ]
+    }
+]

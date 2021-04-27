@@ -1,0 +1,704 @@
+[
+    {
+        "id": "portacath",
+        "title": "Port-a-cath",
+        "content": [
+            {
+                "title": "",
+                "image": [
+                    {
+                        "url": "assets/images/pathologies-findings/2.png",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            }
+        ]
+    },
+    {
+        "id": "marcapasso",
+        "title": "Marcapasos",
+        "content": [
+            {
+                "title": "",
+                "image": [
+                    {
+                        "url": "assets/images/pathologies-findings/3a.png",
+                        "subtitle": ""
+                    },
+                    {
+                        "url": "assets/images/pathologies-findings/3b.png",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            }
+        ]
+    },
+    {
+        "id": "cateter-shilley",
+        "title": "Catéter Shilley",
+        "content": [
+            {
+                "title": "",
+                "image": [
+                    {
+                        "url": "assets/images/pathologies-findings/4.png",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            }
+        ]
+    },
+    {
+        "id": "cateter-jugular",
+        "title": "Catéter Venoso Central",
+        "content": [
+            {
+                "title": "Catéter venoso central en yugular",
+                "image": [
+                    {
+                        "url": "assets/images/pathologies-findings/5.png",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            }
+        ]
+    },
+    {
+        "id": "canula",
+        "title": "Cánula de Traqueotomía",
+        "content": [
+            {
+                "title": "Cánula de traqueotomía metálica",
+                "image": [
+                    {
+                        "url": "assets/images/pathologies-findings/6.png",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            }
+        ]
+    },
+    {
+        "id": "tubo-orotraqueal",
+        "title": "Tubo Orotraqueal",
+        "content": [
+            {
+                "title": "",
+                "image": [
+                    {
+                        "url": "assets/images/pathologies-findings/7.png",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            }
+        ]
+    },
+    {
+        "id": "sonda-enteral",
+        "title": "Sonda Enteral",
+        "content": [
+            {
+                "title": "",
+                "image": [
+                    {
+                        "url": "assets/images/pathologies-findings/8a.png",
+                        "subtitle": ""
+                    },
+                    {
+                        "url": "assets/images/pathologies-findings/8b.png",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            }
+        ]
+    },
+    {
+        "id": "dreno-torax",
+        "title": "Drenaje Torácico",
+        "content": [
+            {
+                "title": "",
+                "image": [
+                    {
+                        "url": "assets/images/pathologies-findings/9a.png",
+                        "subtitle": ""
+                    },
+                    {
+                        "url": "assets/images/pathologies-findings/9b.png",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            }
+        ]
+    },
+    {
+        "id": "massa-lobo",
+        "title": "Masa del Lóbulo Superior Izquierdo",
+        "content": [
+            {
+                "title": "Masa del lóbulo superior izquierdo",
+                "image": [
+                    {
+                        "url": "assets/images/pathologies-findings/10a.png",
+                        "subtitle": ""
+                    },
+                    {
+                        "url": "assets/images/pathologies-findings/10b.png",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            }
+        ]
+    },
+    {
+        "id": "cardiomegalia",
+        "title": "Cardiomegalia",
+        "content": [
+            {
+                "title": "",
+                "image": [
+                    {
+                        "url": "assets/images/pathologies-findings/11a.png",
+                        "subtitle": ""
+                    },
+                    {
+                        "url": "assets/images/pathologies-findings/11b.png",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            },
+            {
+                "title": "",
+                "image": [
+                    {
+                        "url": "assets/images/pathologies-findings/12.png",
+                        "subtítulole ": " "
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            },
+            {
+                "title": "",
+                "image": [
+                    {
+                        "url": "assets/images/pathologies-findings/13.png",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            }
+        ]
+    },
+    {
+        "id": "boceladura",
+        "title": "Boceladura",
+        "content": [
+            {
+                "title": "",
+                "image": [
+                    {
+                        "url": "assets/images/pathologies-findings/14a.png",
+                        "subtitle": ""
+                    },
+                    {
+                        "url": "assets/images/pathologies-findings/14b.png",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            }
+        ]
+    },
+    {
+        "id": "pontes-sindesmofitarias",
+        "title": "Puentes Sindesmofitarios",
+        "content": [
+            {
+                "title": "",
+                "image": [
+                    {
+                        "url": "assets/images/pathologies-findings/15a.png",
+                        "subtitle": ""
+                    },
+                    {
+                        "url": "assets/images/pathologies-findings/15b.png",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            },
+            {
+                "title": "",
+                "image": [
+                    {
+                        "url": "assets/images/pathologies-findings/16a.png",
+                        "subtitle": ""
+                    },
+                    {
+                        "url": "assets/images/pathologies-findings/16b.png",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            }
+        ]
+    },
+    {
+        "id": "aorta-ateromatose",
+        "title": "Aorta Ateromatosa",
+        "content": [
+            {
+                "title": "",
+                "image": [
+                    {
+                        "url": "assets/images/pathologies-findings/17a.png",
+                        "subtitle": ""
+                    },
+                    {
+                        "url": "assets/images/pathologies-findings/17b.png",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            }
+        ]
+    },
+    {
+        "id": "incipiente-espondilose",
+        "title": "Espondilosis Dorsal Incipiente",
+        "content": [
+            {
+                "title": "Espondilosis dorsal incipiente",
+                "image": [
+                    {
+                        "url": "assets/images/pathologies-findings/18a.png",
+                        "subtitle": ""
+                    },
+                    {
+                        "url": "assets/images/pathologies-findings/18b.png",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            }
+        ]
+    },
+    {
+        "id": "massa-pulmonar",
+        "title": "Masa Pulmonar y Derrame Pleural",
+        "content": [
+            {
+                "title": "Masa pulmonar en el lóbulo inferior derecho y derrame pleural derecho",
+                "image": [
+                    {
+                        "url": "assets/images/pathologies-findings/19a.png",
+                        "subtitle": ""
+                    },
+                    {
+                        "url": "assets/images/pathologies-findings/19b.png",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            }
+        ]
+    },
+    {
+        "id": "metastase-seminoma",
+        "title": "Metástasis de Seminoma",
+        "content": [
+            {
+                "title": "Metástasis de seminoma con progresión de 30 días",
+                "image": [
+                    {
+                        "url": "assets/images/pathologies-findings/20a.png",
+                        "subtitle": ""
+                    },
+                    {
+                        "url": "assets/images/pathologies-findings/20b.png",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            }
+        ]
+    },
+    {
+        "id": "infiltrado-broncoalveolar",
+        "title": "Infiltrado Broncoalveolar",
+        "content": [
+            {
+                "title": "Infiltrado broncoalveolar difuso y bilateral",
+                "image": [
+                    {
+                        "url": "assets/images/pathologies-findings/21.png",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            }
+        ]
+    },
+    {
+        "id": "radiografia-penetrada",
+        "title": "Radiografía Demasiado Penetrada",
+        "content": [
+            {
+                "title": "",
+                "image": [
+                    {
+                        "url": "assets/images/pathologies-findings/22.png",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            }
+        ]
+    },
+    {
+        "id": "bronquiectasia",
+        "title": "Bronquiectasias y Cefalización",
+        "content": [
+            {
+                "title": "Bronquiectasias y cefalización de la trama en pacientes con EPOC",
+                "image": [
+                    {
+                        "url": "assets/images/pathologies-findings/23.png",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            }
+        ]
+    },
+    {
+        "id": "escoliose-convexa",
+        "title": "Escoliosis Convexa Diestra",
+        "content": [
+            {
+                "title": "",
+                "image": [
+                    {
+                        "url": "assets/images/pathologies-findings/24.png",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            }
+        ]
+    },
+    {
+        "id": "pulmao-hiperinsuflado",
+        "title": "Pulmón Hiperinflado",
+        "content": [
+            {
+                "title": "",
+                "image": [
+                    {
+                        "url": "assets/images/pathologies-findings/25.png",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            }
+        ]
+    },
+    {
+        "id": "cardiomegalia-congestao-vascular",
+        "title": "Cardiomegalia y Congestión Vascular",
+        "content": [
+            {
+                "title": "Cardiomegalia, congestión vascular y marcapasos",
+                "image": [
+                    {
+                        "url": "assets/images/pathologies-findings/26.png",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            },
+            {
+                "title": "Cardiomegalia y Congestión Vascular",
+                "image": [
+                    {
+                        "url": "assets/images/pathologies-findings/27.png",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            }
+        ]
+    },
+    {
+        "id": "pneumoperitônio",
+        "title": "Pneumoperitoneo",
+        "content": [
+            {
+                "title": "",
+                "image": [
+                    {
+                        "url": "assets/images/pathologies-findings/28.png",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            }
+        ]
+    },
+    {
+        "id": "derrame-pleural",
+        "title": "Derrame Pleural",
+        "content": [
+            {
+                "title": "Derrame Pleural Bilateral",
+                "image": [
+                    {
+                        "url": "assets/images/pathologies-findings/29.png",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            },
+            {
+                "title": "Derrame Pleural a la Derecha",
+                "image": [
+                    {
+                        "url": "assets/images/pathologies-findings/30a.png",
+                        "subtitle": ""
+                    },
+                    {
+                        "url": "assets/images/pathologies-findings/30b.png",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            }
+        ]
+    },
+    {
+        "id": "sondas-cateteres",
+        "title": "Sondas y Catéteres",
+        "content": [
+            {
+                "title": "1 - PICC",
+                "image": [
+                    {
+                        "url": "assets/images/pathologies-findings/sondas_cateteres_1.jpg",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [
+                    "Catéter PICC a la izquierda con fuga de contraste distal a nivel del inicio de la Vena Cava Superior (VCS). Este catéter no debe colocarse en la aurícula. Su posición ideal es en la VCS."
+                ],
+                "studyKeys": [],
+                "reference": []
+            },
+            {
+                "title": "2 - PICC",
+                "image": [
+                    {
+                        "url": "assets/images/pathologies-findings/sondas_cateteres_2.jpg",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [
+                    "catéter PICC a la derecha con punta VCS, bien posicionado"
+                ],
+                "studyKeys": [],
+                "reference": []
+            },
+            {
+                "title": "3 - TOT",
+                "image": [
+                    {
+                        "url": "assets/images/pathologies-findings/sondas_cateteres_3.jpg",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [
+                    "Tubo orotraqueal con un extremo entre T3-T4. De manera práctica, el tubo debe estar al menos 1 cm por encima de la carina y nunca selectivo. Este caso es ideal."
+                ],
+                "studyKeys": [],
+                "reference": []
+            },
+            {
+                "title": "4 - CVC",
+                "image": [
+                    {
+                        "url": "assets/images/pathologies-findings/sondas_cateteres_4.jpg",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [
+                    "Catéter venoso central - en este caso el extremo del catéter está en la aurícula derecha (posición inapropiada). Al igual que con el catéter PICC, la posición ideal es antes de la DA, en la vena cava superior."
+                ],
+                "studyKeys": [],
+                "reference": []
+            },
+            {
+                "title": "5 - Catéter de derivación del ventrículo peritoneal",
+                "image": [
+                    {
+                        "url": "assets/images/pathologies-findings/sondas_cateteres_5.jpg",
+                        "subtitle": ""
+                    },
+                    {
+                        "url": "assets/images/pathologies-findings/sondas_cateteres_5b.jpg",
+                        "subtitle": ""
+                    },
+                    {
+                        "url": "assets/images/pathologies-findings/sondas_cateteres_5c.jpg",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [
+                    "Que consiste en pasar un catéter que comunica el LCR del sistema nervioso central, pasando por las cervicales, el tórax hasta el abdomen, para ser absorbido por el peritoneo. Tres ejemplos."
+                ],
+                "studyKeys": [],
+                "reference": []
+            },
+            {
+                "title": "6 - PAC - Port-a-cath",
+                "image": [
+                    {
+                        "url": "assets/images/pathologies-findings/sondas_cateteres_6.jpg",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [
+                    "Un PAC con una punta VCS está bien posicionado. La idea es la misma para PAC, PICC y CVC. La punta debe evitar la aurícula o el ventrículo. En el informe se puede afirmar que se trata de un pozo catéter posicionado. "
+                ],
+                "studyKeys": [],
+                "reference": []
+            },
+            {
+                "title": "7 - PAC - Port-a-cath",
+                "image": [
+                    {
+                        "url": "assets/images/pathologies-findings/sondas_cateteres_7.jpg",
+                        "subtitle": ""
+                    },
+                    {
+                        "url": "assets/images/pathologies-findings/sondas_cateteres_7b.jpg",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [
+                    "PAC bien posicionado con extremo VCS. Bien posicionado. 2 ejemplos."
+                ],
+                "studyKeys": [],
+                "reference": []
+            },
+            {
+                "title": "8 - Sonda nasoenteral",
+                "image": [
+                    {
+                        "url": "assets/images/pathologies-findings/sondas_cateteres_8.jpg",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [
+                    "En este caso, la sonda está mal posicionada, con un extremo en la región del antro / píloro. Lo ideal es estar entre la segunda y la tercera porción duodenal."
+                ],
+                "studyKeys": [],
+                "reference": []
+            },
+            {
+                "title": "9 - Sonda nasoenteral",
+                "image": [
+                    {
+                        "url": "assets/images/pathologies-findings/sondas_cateteres_9.jpg",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [
+                    "En este caso la sonda está mal posicionada, con un extremo en la región de la primera porción duodenal. Lo ideal es estar entre la segunda y tercera porción duodenal."
+                ],
+                "studyKeys": [],
+                "reference": []
+            },
+            {
+                "title": "10 - Sonda nasoenteral",
+                "image": [
+                    {
+                        "url": "assets/images/pathologies-findings/sondas_cateteres_10.jpg",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [
+                    "Estómago doblado, posición inapropiada."
+                ],
+                "studyKeys": [],
+                "reference": []
+            }
+        ]
+    }
+]

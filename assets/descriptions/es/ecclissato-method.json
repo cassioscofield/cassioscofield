@@ -1,0 +1,148 @@
+[
+    {
+        "resume": "En esta aplicación les presento el método de evaluación de radiografías de tórax utilizado y perfeccionado por el profesor Dr. Paulo Cezar Leal Ecclissato, el cual ha sido impartido durante varios años en la Residencia de Radiología e Imagen Diagnóstica de la Faculdade de Medicina de Marília - FAMEMA. <br/> Con una visión única de las estructuras más periféricas desde el tórax hasta las más centrales, este método de interpretación permite una valoración integral y detallada. ",
+        "resumeReference": "Ecclissato PCL, Dias DJL, Dias ASDS, et al. Radiografía de tórax: consejos para el médico. Int J Radiol Radiat Ther. 2019; 6 (5): 179-184. DOI: 10.15406 / ijrrt. 2019.06.00243 <br/> <a href='https://medcraveonline.com/IJRRT/IJRRT-06-00243.php'> https://medcraveonline.com/IJRRT/IJRRT-06-00243.php</ a> "
+    },
+    {
+        "id": "ecclissatoagpp",
+        "title": "",
+        "label": "EVALUACIÓN DE GRÁFICOS EN PA Y PERFIL",
+        "phrase": "",
+        "summary": {
+            "image": "assets/images/ecclissato-method/pt/1.jpg",
+            "columns": [
+                {
+                    "title": "\"Hacer el análisis de rayos X de tórax desde el exterior hacia el interior\"- Dr. Paulo Ecclissato",
+                    "items": [
+                        {
+                            "title": "1 - Partes blandas",
+                            "slide": 1,
+                            "color": null
+                        },
+                        {
+                            "title": "2 - Estructura ósea",
+                            "slide": 2,
+                            "color": null
+                        },
+                        {
+                            "title": "3 - Espacio pleural y cúpulas",
+                            "slide": 3,
+                            "color": null
+                        },
+                        {
+                            "title": "4 - Pulmones e hilos",
+                            "slide": 4,
+                            "color": null
+                        },
+                        {
+                            "title": "5 - Corazón y mediastino",
+                            "slide": 5,
+                            "color": null
+                        },
+                        {
+                            "title": "Perfil y PA de gráficos normales estándar",
+                            "slide": 6,
+                            "color": null
+                        }
+                    ]
+                }
+            ]
+        },
+        "content": [
+            {
+                "title": "1 - Partes blandas (piel, subcutánea, mamas, músculos pectorales e intercostales)",
+                "image": [
+                    {
+                        "url": "assets/images/ecclissato-method/pt/2.jpg",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [
+                    "En la primera evaluación de la radiografía, observe todas las estructuras periféricas de tejido blando del marco torácico y busque cambios como: enfisema subcutáneo (común en traumatismos) o calcificaciones (p. ej., cisticercosis)."
+                ],
+                "studyKeys": [],
+                "reference": []
+            },
+            {
+                "title": "2 - Estructura ósea (estructura costal en su contorno superior / inferior, región supra / infra clavicular, escápula, PA y perfil del esternón y de la columna dorsal)",
+                "image": [
+                    {
+                        "url": "assets/images/ecclissato-method/pt/3.jpg",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [
+                    "Estructura costal en su contorno superior / inferior, región supra / infra clavicular, escápula, esternón y PA y perfil de la columna dorsal"
+                ],
+                "studyKeys": [],
+                "reference": []
+            },
+            {
+                "title": "3 - Espacio pleural y cúpulas / senos costofrénicos y piso del abdomen superior",
+                "image": [
+                    {
+                        "url": "assets/images/ecclissato-method/pt/4.jpg",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [
+                    "Hígado, ampolla gástrica, bazo y asas intestinales cuando estén presentes"
+                ],
+                "studyKeys": [],
+                "reference": []
+            },
+            {
+                "title": "4 - Pulmón (parénquima pulmonar), hilios y árbol traqueobronquial.",
+                "image": [
+                    {
+                        "url": "assets/images/ecclissato-method/pt/5.jpg",
+                        "subtitle": ""
+                    },
+                    {
+                        "url": "assets/images/ecclissato-method/pt/6.jpg",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            },
+            {
+                "title": "5 - Corazón y mediastino",
+                "image": [
+                    {
+                        "url": "assets/images/ecclissato-method/pt/7.jpg",
+                        "subtitle": ""
+                    },
+                    {
+                        "url": "assets/images/ecclissato-method/pt/8.jpg",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [
+                    "Corazón y mediastino (aorta, arterias / venas pulmonares / saco pericárdico y timo / ganglios cuando están presentes)."
+                ],
+                "studyKeys": [],
+                "reference": []
+            },
+            {
+                "title": "Perfil y PA de gráficos normales estándar",
+                "image": [
+                    {
+                        "url": "assets/images/ecclissato-method/pt/9.jpg",
+                        "subtitle": ""
+                    },
+                    {
+                        "url": "assets/images/ecclissato-method/pt/10.jpg",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [
+                    "Este es el estándar de normalidad en una radiografía de PA y Perfil que debemos tener en cuenta, una penetración bien inspirada, adecuada y alineada."
+                ],
+                "studyKeys": [],
+                "reference": []
+            }
+        ]
+    }
+]

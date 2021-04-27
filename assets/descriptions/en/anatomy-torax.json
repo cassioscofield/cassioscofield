@@ -1,0 +1,429 @@
+[{
+    "id": "atm",
+    "title": "Muscles",
+    "content": [
+        {
+            "title": "",
+            "image": [
+                {
+                    "url": "assets/images/torax-anatomy/en/1.jpg", 
+                    "subtitle": "Anterior and posterior muscles that compose the thorax."
+                }
+            ],
+            "description": [],
+            "studyKeys": [],
+            "reference": []
+        },
+        {
+            "title": "",
+            "image": [
+                {
+                    "url": "assets/images/torax-anatomy/en/2.jpg",
+                    "subtitle": "Muscles of anterior surface, sternocostal joints nerve plexus and thoracic vases."
+                }
+            ],
+            "description": [],
+            "studyKeys": ["Thoracic Outlet Syndrome and Congenital torticollis.​"],
+            "reference": []
+        },
+        {
+            "title": "",
+            "image": [
+                {
+                    "url": "assets/images/torax-anatomy/en/3.jpg",
+                    "subtitle": "Cervicothoracic transition."
+                }
+            ],
+            "description": [],
+            "studyKeys": ["Thoracic Outlet Syndrome and Congenital torticollis.​"],
+            "reference": []
+            
+        }
+    ]
+},
+{
+    "id": "atao",
+    "title": "Bone Structure",
+    "content": [
+        {
+            "title": "",
+            "image": [
+                {
+                    "url": "assets/images/torax-anatomy/en/4.jpg",
+                    "subtitle": "Bone arcade anatomy."
+                }
+            ],
+            "description": ["Bone composition of the sternum, manubrium, body and xiphoid process."],
+            "studyKeys": ["Fracture of sternum, unstable thorax, Pectus carinatum  e excavatum."],
+            "reference": []
+            
+        },
+        {
+            "title": "",
+            "image": [
+                {
+                    "url": "assets/images/torax-anatomy/en/5.gif",
+                    "subtitle": ""
+                }
+            ],
+            "description": ["Anatomy of the Ribs and Sternum : \"The ribs are long, flat, curved bones that bend around the breast a bit like the hoops of a barrel. There are twenty-four ribs, twelve on each side.\" - Blaisedell, 1904"],
+            "studyKeys": [],
+            "reference": ["Albert F. Blaisedell Our bodies and How We Live (Boston: Ginn &, 1904) 28"]
+        },
+        {
+            "title": "",
+            "image": [
+                {
+                    "url": "assets/images/torax-anatomy/en/6.jpg",
+                    "subtitle": "Anatomy of the vertebral bodies"
+                }
+            ],
+            "description": [],
+            "studyKeys": [],
+            "reference": []
+        }
+        ,
+        {
+            "title": "",
+            "image": [
+                {
+                    "url": "assets/images/torax-anatomy/en/7.jpg",
+                    "subtitle": "Anatomical details of the costal joints with the spine and sternum."
+                }
+            ],
+            "description": [],
+            "studyKeys": [],
+            "reference": []
+        }
+    ]
+},
+{
+    "id": "atdep",
+    "title": "Diaphragm and Pleural Space",
+    "content": [
+        {
+            "title": "",
+            "image": [
+                {
+                    "url": "assets/images/torax-anatomy/en/9.jpg",
+                    "subtitle": "The diaphragm, seen from above."
+                }
+            ],
+            "description": ["Note the foramen where the vena cava passes and the esophageal and aortic hiatuses."],
+            "studyKeys": ["Diaphragmatic hernias and paralysis of the phrenic nerve."],
+            "reference": ["Gray, Henry Gray's Anatomy: Descriptive and Applied (Philadelphia: Lea & Febiger, 1913) 420"]
+        },
+        {
+            "title": "",
+            "image": [
+                {
+                    "url":"assets/images/torax-anatomy/en/10.jpg",
+                    "subtitle": "The diaphragm, seen from the front."
+                }
+            ],
+            "description": ["Note that the vena cava is more to the right of the vertebral bodies. Esophagus and aorta with posterior passage, at left of the vertebral bodies. The right diaphragm is higher than the left diaphragm because of the liver."],
+            "studyKeys": [],
+            "reference": ["Gray, Henry Gray's Anatomy: Descriptive and Applied (Philadelphia: Lea & Febiger, 1913) 420"]
+        },
+        {
+            "title": "",
+            "image": [
+                {
+                    "url": "assets/images/torax-anatomy/en/11.jpg",
+                    "subtitle": "Pulmonary apex region and their  relations with the parietal and visceral pleura."
+                }
+            ],
+            "description": [],
+            "studyKeys": ["Pancoast tumor;  apical lordotic position. See it in section of radiological incidence: <b>Click here</b>"],
+            "linkedTo": { "url": "assets/descriptions/en/positions-radiological.json", "id": "pral"},
+            "reference": []
+        },
+        {
+            "title": "",
+            "image": [
+                {
+                    "url":"assets/images/torax-anatomy/en/12.jpg",
+                    "subtitle": "Lower view of the diaphragm with detail to vessels, muscles and innervation."
+                }
+            ],
+            "description": [],
+            "studyKeys": ["Diaphragmatic hernias and paralysis of the phrenic nerve."],
+            "reference": []
+        },
+        {
+            "title": "",
+            "image": [
+                {
+                    "url": "assets/images/torax-anatomy/en/13.jpg",
+                    "subtitle": "Diagram showing needle angulation for thoracentesis with a view to access to the pleural space."
+                }
+            ],
+            "description": ["Note that if the needle is too angularly cranial, there is a greater risk of nerve damage."],
+            "studyKeys": ["Thoracocentesis"],
+            "reference": []
+        }
+    ]
+},
+{
+    "id": "atpls",
+    "title": "Lungs: Lobes and Segments​",
+    "content": [
+        {
+            "title": "",
+            "image": [
+                {
+                    "url": "assets/images/torax-anatomy/en/14.jpg",
+                    "subtitle": "Anterior view of lung anatomy."
+                }
+            ],
+            "description": ["Right lung divided by horizontal fissure in upper and middle lobe.",
+                            "Right oblique fissure dividing the middle lobe from the lower.",
+                            "Left lung divided by left oblique fissure into upper and lower lobe."],
+            "studyKeys": [],
+            "reference": []
+        },
+        {
+            "title": "",
+            "image": [
+                {
+                    "url": "assets/images/torax-anatomy/en/15.jpg",
+                    "subtitle": "Posterior view of the lobar anatomy of the lung, with view to the costophrenic sinus."
+                }
+            ],
+            "description": [],
+            "studyKeys": [],
+            "reference": []
+        },
+        {
+            "title": "",
+            "image": [
+                {
+                    "url": "assets/images/torax-anatomy/en/16.jpg",
+                    "subtitle": "Segmental Anatomy."
+                }
+            ],
+            "description": ["<br><br><b>RIGHT LUNG</b><br>Upper Lobe: apical (nº1), anterior (nº2) and posterior (nº3).<br>Middle Lobe: lateral (nº4) and medial (nº5).<br>Lower Lobe: upper (nº6), medial basal (nº7), anterior basal (nº8), lateral basal (nº9) and posterior basal (nº10)",
+                            "<br><br><b>LEFT LUNG</b><br>Upper Lobe: apico-posterior (nº1 and nº3), anterior (nº2), upper lingular (nº4) and inferior lingular (nº5).<br>Lower Lobe: upper (nº6), basal antero-medial (nº8 and nº7), lateral basal (nº9) and posterior basal (nº10)."],
+            "studyKeys": [],
+            "reference": []
+        }
+    ]
+},
+{
+    "id": "atteh",
+    "title": "Trachea and Structures of Hilum",
+    "content": [
+        {
+            "title": "",
+            "image": [
+                {
+                    "url": "assets/images/torax-anatomy/en/17.jpg",
+                    "subtitle": ""
+                }
+            ],
+            "description": ["The trachea is a tube 10 to 12.5 cm long and 2.5 cm in diameter.",
+                            "It forms a tube that makes continuation to the larynx, penetrates the thorax and ends up bifurcating in the 2 main bronchi.",
+                            "It is located midway and anterior to the esophagus, and only at its termination, it deflects slightly to the right."],
+            "studyKeys": [],
+            "reference": ["Referência: Currier, Andrew F. (Ed.) The Foundation Library (New York, NY: The Educational Society, 1911)"]
+        },
+        {
+            "title": "",
+            "image": [
+                {
+                    "url": "assets/images/torax-anatomy/en/18.jpg",
+                    "subtitle": "Thyroid cartilage, cricoid, crico-thyroid membrane, trachea, bifurcation of the trachea (carina), aortic arch, pulmonary artery and esophagus."
+                }
+            ],
+            "description": [],
+            "studyKeys": [],
+            "reference": ["Cunningham, D.J. Textbook of Anatomy (New York, NY: William Wood and Co., 1903)"]
+        },
+        {
+            "title": "",
+            "image": [
+                {
+                    "url": "assets/images/torax-anatomy/en/19.jpg",
+                    "subtitle": "Illustration showing the intima mediastinal relationship of the hilum with the vessels (veins and arteries), trachea and esophagus."
+                }
+            ],
+            "description": [],
+            "studyKeys": [],
+            "reference": []
+        }
+    ]
+},
+{
+    "id": "atcgv",
+    "title": "Heart and Great Vessels",
+    "content": [
+        {
+            "title": "",
+            "image": [
+                {
+                    "url": "assets/images/torax-anatomy/en/20.jpg",
+                    "subtitle": "Diagram showing the larynx, trachea, aorta, pulmonary artery, lungs, heart and diaphragm."
+                }
+            ],
+            "description": ["Note the lingula anterior to the left ventricle and the middle lobe anterior to the atrium and right ventricle."],
+            "studyKeys": ["Felson's Principles/ Silhouette sign."],
+            "reference": ["W. Morrant Baker and Vincent Dormer Harris, Hand-Book of Physiology (Philadelphia:P. Blakiston, Son & Co., 1892) 170"]
+        },
+        {
+            "title": "",
+            "image": [
+                {
+                    "url": "assets/images/torax-anatomy/en/21.jpg",
+                    "subtitle": "Scheme showing the pulmonary and systemic circulation."
+                }
+            ],
+            "description": [],
+            "studyKeys": ["Pre and post cardiac load, cardiothoracic index and congenital malformations."],
+            "reference": []
+        },
+        {
+            "title": "",
+            "image": [
+                {
+                    "url": "assets/images/torax-anatomy/en/22.jpg",
+                    "subtitle": "Anatomical references of the cardiac projection in relation to the bone framework."
+                }
+            ],
+            "description": [],
+            "studyKeys": ["Silhouette Sign and Heart Silhouette."],
+            "reference": []
+        },
+        {
+            "title": "",
+            "image": [
+                {
+                    "url": "assets/images/torax-anatomy/en/23.jpg",
+                    "subtitle": "Aorta and its ramifications."
+                }
+            ],
+            "description": [],
+            "studyKeys": ["Aortic aneurysm and cardiomegaly."],
+            "reference": []
+        },
+        {
+            "title": "",
+            "image": [
+                {
+                    "url": "assets/images/torax-anatomy/en/24.jpg",
+                    "subtitle": " Venous drainage."
+                }
+            ],
+            "description": [],
+            "studyKeys": ["Congestive heart failure."],
+            "reference": []
+        },
+        {
+            "title": "",
+            "image": [
+                {
+                    "url": "assets/images/torax-anatomy/en/25.jpg",
+                    "subtitle": "Detail of the venous drainage of the azygos system, which resembles the design of an \"H\", located slightly forward of the thoracolumbar vertebral bodies."
+                }
+            ],
+            "description": ["Azygos - confluence of the right ascending lumbar vein and right subcostal vein (T12-L1) form the lateral \"root\" of the azygos and the medial \"root\" is derived from the inferior vena cava.",
+                            "Hemi-azygos - confluence of the left ascending lumbar and left subcostal veins to form the lateral root and the medial root is derived from the left renal vein."],
+            "studyKeys": ["Hepatic cirrhosis, Congestive heart failure and esophageal varices."],
+            "reference": []
+        },
+        {
+            "title": "",
+            "image": [
+                {
+                    "url": "assets/images/torax-anatomy/en/26.jpg",
+                    "subtitle": "Detail of the venous drainage of the azygos system, which resembles the design of an \"H\", located slightly forward of the thoracolumbar vertebral bodies."
+                }
+            ],
+            "description": ["Note the thoracic duct, in close relation with the subclavian vein and left venous brachycephalic trunk.",
+                            "This duct begins in the abdomen, in the chyle cistern, and continues to rise through the posterior mediastinum and upper thoracic opening. In part of its path, the thoracic duct enters the left brachiocephalic vein through which its contents are drained."],
+            "studyKeys": ["Chylothorax."],
+            "reference": []
+        }
+    ]
+},
+{
+    "id": "atmd",
+    "title": "Mediastinum",
+    "content": [
+        {
+            "title": "",
+            "image": [
+                {
+                "url": "assets/images/torax-anatomy/en/27.jpg",
+                "subtitle": "Schematic drawing of the anatomical division of the mediastinum in upper and lower, with anatomical frame in the sternal angle."
+                }
+            ],
+            "description": ["The lower mediastinum is usually subdivided into books: anterior, middle, and posterior.",
+                            "Attention in radiography and chest tomography there are divisions and anatomical landmarks different from those usually presented in atlas books and general anatomy texts. As for example the classic mediastinal division proposed by Felson in 1969 on chest radiography and the most recent one in 2017 of the ITMIG - International Thymic Malignancy Interest Group, for chest tomography. <b>See the next image</b>."],
+            "studyKeys": ["Anterior mediastinal mass (4 T´s)."],
+            "reference": []
+        },
+        {
+            "title": "",
+            "image": [
+                {
+                "url": "assets/images/torax-anatomy/en/28-1.jpg",
+                "subtitle": "Anterior / Pre-vascular"
+                },
+                {
+                "url": "assets/images/torax-anatomy/en/28-2.jpg",
+                "subtitle": "Medium / Visceral"
+                },
+                {
+                "url": "assets/images/torax-anatomy/en/28-3.jpg",
+                "subtitle": "Posterior / Paravertebral"
+                }
+            ],
+            "description": ["<br><b>Schematic division of the mediastinum proposed by ITMIG (2017)</b><br><br>Prevascular –<br>Superior: thoracic inlet. Inferior: diaphragm. Anterior: sternum. Lateral: parietal mediastinal pleura. Posterior: anterior aspect of the pericardium as it wraps around the heart in a curvilinear fashion.<br><br>Visceral –<br>Superior: thoracic inlet. Inferior: diaphragm. Anterior: posterior boundaries of the prevascular compartment. Posterior: vertical line connecting a point on each thoracic vertebral body 1 cm posterior to its anterior margin.<br><br>Paravertebral –<br>Superior: thoracic inlet. Inferior: diaphragm. Anterior: posterior boundaries of the visceral. Compartment. Posterolateral: vertical line against the posterior margin of the chest wall at the lateral margin of the transverse process of the thoracic spine.<br><br><b>Radiological anatomy (click to view)</b>"],
+            "studyKeys": [],
+            "linkedTo": { "url": "assets/descriptions/en/anatomy-radiological.json", "id": "arm"},
+            "reference": ["Carter et al. ITMIG Classification of Mediastinal Compartments and Multidisciplinary Approach to Mediastinal Masses. RadioGraphics 2017; 37:0000–0000"]
+        }
+    ]
+},
+{
+    "id": "atifvn",
+    "title": "Innervation/Vascularization",
+    "content": [
+        {
+            "title": "",
+            "image": [
+                {
+                "url": "assets/images/torax-anatomy/en/29.jpg",
+                "subtitle": "Anatomical section of the intercostal space showing the intima relationship of the bundle-nervous bundle projecting just below the costal arch with the passage of nerve, artery and intercostal vein."
+                }
+            ],
+            "description": [],
+            "studyKeys": [],
+            "reference": []
+        },
+        {
+            "title": "",
+            "image": [
+                {
+                "url": "assets/images/torax-anatomy/en/30.jpg",
+                "subtitle": "Anatomy of the innervation and arterial supply."
+                }
+            ],
+            "description": [],
+            "studyKeys": ["Artery of Adamkiewicz."],
+            "reference": []
+        },
+        {
+            "title": "",
+            "image": [
+                {
+                "url": "assets/images/torax-anatomy/en/31.jpg",
+                "subtitle": "Anatomy of the innervation and arterial supply."
+                }
+            ],
+            "description": ["Attention to the internal thoracic and epigastric vessels."],
+            "studyKeys": ["Mondor's syndrome."],
+            "reference": []
+        }
+    ]
+}]

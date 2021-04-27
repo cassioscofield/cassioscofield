@@ -1,0 +1,115 @@
+[{
+    "id": "prpa",
+    "title": "Posteroanterior (PA)",
+    "content": [
+        {
+            "title": "Position for obtaining image in PA",
+            "image": [
+                {
+                    "url": "assets/images/radiological-positions/1.jpg", 
+                    "subtitle": ""
+                }
+            ],
+            "description": ["Technique: Patient in orthostatic position, feet apart, weight evenly distributed over both feet, chin high, hands over hips, palms out. Rolled shoulders leaning on the Bucky to allow lateral movement of the shoulder blades, allowing better evaluation of the lung fields.",
+                            "Chest x-rays should always be obtained by maximal inspiration (inspiratory apnea), in which case the phrenic hemicuples are located between the 10th and 11th posterior costal arches."],
+            "studyKeys": [],
+            "reference": []
+        }
+    ]
+},
+{
+    "id": "prp",
+    "title": "Profile",
+    "content": [
+        {
+            "title": "Position for obtaining image in Profile",
+            "image": [
+                {
+                    "url": "assets/images/radiological-positions/2.jpg", 
+                    "subtitle": ""
+                }
+            ],
+            "description": ["Technique: Position the left side of the patient's chest in the Bucky, raise the arms above the head or place the hands on the head to disassociate the upper limbs of the thorax, centering the middle coronal plane in the center of the Bucky, seeking appropriate lateralization.",
+                            "<br>*The reason for this positioning is related to the divergence effect. Therefore, the heart that is closest to the center of Bucky will form an image closer to reality. Likewise a right profile will form a larger than normal cardiac image. imagem cardíaca maior que o normal.",
+                            "<br>Serves for what?<br><br>Verify if a doubtful image on PA / AP radiography is actually present;<br>Once an abnormality is found:<br>Define whether it is anterior or posterior;<br>Define the lobe;<br>Define if it really is in a lobe;<br>Evaluate behind the heart;<br>Evaluate behind and in front of the hilum;<br>Evaluate behind the diaphragmatic domes;"],
+            "studyKeys": [],
+            "reference": []
+        }
+    ]
+},
+{
+    "id": "prap",
+    "title": "Anteroposterior (AP)",
+    "content": [
+        {
+            "title": "Position for obtaining image in AP",
+            "image": [
+                {
+                    "url": "assets/images/radiological-positions/3.jpg", 
+                    "subtitle": ""
+                }
+            ],
+            "description": ["It should be reserved for those who can not stand. Ex: ICU bed, polytrauma, and bedridden.",
+                            "Caution: in this incidence occurs magnification of the heart and enlargement of the mediastinum."],
+            "studyKeys": [],
+            "reference": []
+        }
+    ]
+},
+{
+    "id": "pral",
+    "title": "Apical-Lordotic",
+    "content": [
+        {
+            "title": "",
+            "image": [
+                {
+                    "url": "assets/images/radiological-positions/4.jpg", 
+                    "subtitle": ""
+                }
+            ],
+            "description": ["Position: Patient with the feet about 30 cm from the image receptor, with the back arched posteriorly, causing the shoulders and head to be against Bucky. Positioning the shoulders and elbows externally so that the shoulder blades project out of the lung fields.",
+                            "The angle formed between the plane of the mean body and the image receiver should be approximately 45 degrees.",
+                            "<br>When to request?<br><br>When a partially defined image is seen behind the clavicles in the AP and PA incidences. We can use the apico-lordotic position, which promotes the \"exit\" of the clavicles of the visual field, allowing the evaluation of the structure to be investigated."],
+            "studyKeys": [],
+            "reference": []
+        }
+    ]
+},
+{
+    "id": "pro",
+    "title": "Obliques",
+    "content": [
+        {
+            "title": "",
+            "image": [
+                {
+                    "url": "assets/images/radiological-positions/5.jpg", 
+                    "subtitle": ""
+                }
+            ],
+            "description": ["<br>When to request?<br><br>When there is doubt of images that project in the lateral regions more of the thorax and that they can be superimposed to other structures. As for example, nodular images in the topography of costophrenic sinuses."],
+            "studyKeys": [],
+            "reference": []
+        }
+    ]
+},
+{
+    "id": "prdlrh",
+    "title": "Lateral Decubitus (LAURELL)",
+    "content": [
+        {
+            "title": "",
+            "image": [
+                {
+                    "url": "assets/images/radiological-positions/6.jpg", 
+                    "subtitle": ""
+                }
+            ],
+            "description": ["Technique: The incidence of Hjelm-Laurell (popular Laurell in radiology) or right or left lateral decubitus with horizontal rays is performed with the patient in lateral decubitus, the upper limbs are elevated over the head and the posterior region of the thorax is leaning on the vertical Bucky.",
+                            "<br><b>Lateral Decubitus (Hjelm-Laurell)</b><br>Differentiation of:<br>Broader leaflet thickening (atelectasis);<br>Pleural Effusion (Mobile or Locular);<br>Pneumothorax (in patients who can not make the X-ray in PA;"],
+            "studyKeys": [],
+            "reference": []
+        }
+    ]
+}]

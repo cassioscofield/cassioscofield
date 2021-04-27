@@ -1,0 +1,252 @@
+[
+    {
+        "id": "abcdefgha",
+        "title": "A",
+        "label": "AIRWAYS",
+        "phrase": "Vias aéreas",
+        "content": [
+            {
+                "image": [
+                    {
+                        "url": "assets/images/abcdefgh-method/pt/1.jpg",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [
+                    "Olhe para a traqueia e seus ramos: verifique a posição (site), o tamanho (size), a forma (shape) e a sombra (shadow).",
+                    "Mnemônico \"4s\".",
+                    "É patente ou estreita, indicando estenose ou edema? É central? (em crianças deve ser direta, mas em adultos pode se desviar para a direita devido ao arco aórtico)."
+                ],
+                "studyKeys": [],
+                "reference": [
+                    "Duong M. et al. ABC’s of Chest X-rays. TSMJ Volume 2 2001: Clinical Medicine."
+                ]
+            }
+        ]
+    },
+    {
+        "id": "abcdefghb",
+        "title": "B",
+        "label": "BONES",
+        "phrase": "Ossos",
+        "content": [
+            {
+                "image": [
+                    {
+                        "url": "assets/images/abcdefgh-method/pt/2.jpg",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [
+                    "Olhe e compare as estruturas ósseas quanto a posição, tamanho, forma, sombras e bordas: (clavículas, costelas, escápulas, vértebras torácicas e úmero).",
+                    "Alguma fratura? Usando um ponteiro, siga as bordas lisas de cada osso procurando uma interrupção radiolucente.",
+                    "Alguma lesão lítica? Procure por áreas discretas mais escuras ou uma mudança na densidade óssea.",
+                    "Alguma deformidade óssea? (Malformação de arco costal)",
+                    "Algo extra? (costelas cervicais)",
+                    "Alguma falha osséa? (ausência de arcos vertebrais posteriores em spina bífida oculta)",
+                    "Procure os desvios laterais das vértebras na escoliose."
+                ],
+                "studyKeys": [],
+                "reference": [
+                    "Duong M. et al. ABC’s of Chest X-rays. TSMJ Volume 2 2001: Clinical Medicine."
+                ]
+            }
+        ]
+    },
+    {
+        "id": "abcdefghc",
+        "title": "C",
+        "label": "CARDIAC",
+        "phrase": "Coração",
+        "content": [
+            {
+                "image": [
+                    {
+                        "url": "assets/images/abcdefgh-method/pt/3.jpg",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [
+                    "Observe a posição cardíaca, tamanho, forma, sombras e bordas.",
+                    "Posição: está localizado à direita ou à esquerda?",
+                    "Tamanho: é menos da metade do diâmetro transtorácico? (Ou seja, o maior diâmetro do coração é inferior a metade do maior diâmetro do tórax). Índice cardiotorácico < 0,5.",
+                    "Forma: é ovoide com o ápice apontando para a esquerda?",
+                    "Sombras: qualquer alteração na densidade? Algo borra a silhueta cardíaca?",
+                    "Bordas: são nítidas e bem definidas?",
+                    "Borramento da silhueta direita sugere consolidação do lobo médio.",
+                    "Borramento da silhueta esquerda sugere consolidação do lóbulo lingual."
+                ],
+                "studyKeys": [
+                    "Estudar sinal da silhueta vs silhueta cardíaca."
+                ],
+                "reference": [
+                    "Duong M. et al. ABC’s of Chest X-rays. TSMJ Volume 2 2001: Clinical Medicine."
+                ]
+            }
+        ]
+    },
+    {
+        "id": "abcdefghd",
+        "title": "D",
+        "label": "DIAPHRAGM",
+        "phrase": "Diafragma",
+        "content": [
+            {
+                "image": [
+                    {
+                        "url": "assets/images/abcdefgh-method/pt/4.jpg",
+                        "subtitle": ""
+                    },
+                    {
+                        "url": "assets/images/abcdefgh-method/pt/5.jpg",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [
+                    "Observe o contorno do diafragma; este deve ser nítido e suave.",
+                    "O hemidiafragma direito deve ser mais elevado (2-3 cm) do que o esquerdo.",
+                    "O ponto mais alto à direita deve estar no meio do campo do pulmão direito.",
+                    "O ponto mais alto à esquerda deve ser ligeiramente lateral ao ponto médio do campo do pulmonar esquerdo. O desvio desses pontos podem indicar pneumotórax.",
+                    "Os ângulos costofrênicos estão bem definidos?",
+                    "Opacidades imediatamente acima do diafragma podem indicar derrame pleural ou consolidação.",
+                    "A presença de líquido produzirá um menisco (Sinal do Menisco) ou uma parábola côncava.",
+                    "Há ar abaixo de cada hemidiafragma indicando perfuração intestinal? (pneumoperitônio).",
+                    "O diafragma está abaixo da 6ª costela anterior direita? Em caso afirmativo, isso indica hiperinsuflação."
+                ],
+                "studyKeys": [],
+                "reference": [
+                    "Duong M. et al. ABC’s of Chest X-rays. TSMJ Volume 2 2001: Clinical Medicine."
+                ]
+            }
+        ]
+    },
+    {
+        "id": "abcdefghef",
+        "title": "E&F",
+        "label": "EQUAL (LUNG) FIELDS",
+        "phrase": "Igualdade dos campos pulmonares",
+        "content": [
+            {
+                "image": [
+                    {
+                        "url": "assets/images/abcdefgh-method/en/6.jpg",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [
+                    "Divida os campos pulmonares em zonas: zona superior, média e inferior.",
+                    "Superior: do ápice até a 2ª cartilagem costal.",
+                    "Médio: entre 2ª e 4ª cartilagem costal.",
+                    "Inferior: entre 4 e 6 cartilagens costal.",
+                    "Procure se há simetria da radiolucência entre as zonas pulmonares esquerda e direita.",
+                    "Procure por áreas radiopacas ou radiolucentes em locais não habituais (hipertransparências ou consolidações).",
+                    "Procure pela fissura horizontal à direita, que divide os lobos superiores e médios.",
+                    "Olhe para os marcadores vasculares que possam indicar hipertensão pulmonar (ex: Proeminências hilares).",
+                    "Procure por Broncogramas aéreos: que são brônquios/bronquiolos cheios de ar visíveis, delineados por consolidação circundante.",
+                    "A distribuição em “asa de morcego” descreve um de dois padrões de consolidação (o outro padrão sendo lobar); refere-se à opacificação bilateral, que se espalha das regiões hiliares para os pulmões (poupando as áreas pulmonares periféricas), significando doença extensa alveolar.",
+                    "As causas do padrão em “asa de morcego” são: edema pulmonar na insuficiência cardíaca, sobrecarga de fluido na reposição volêmica, hipoproteinemia (hipoalbunemia), reacional na transfusão sanguínea e outros.",
+                    "A distribuição em “asa de morcego” reversa é a opacificação alveolar nos campos pulmonares periféricos, poupando as áreas centrais. Achados vistos nas embolias gordurosas em 1 a 2 dias após uma fratura óssea.",
+                    "Linhas A, B e C de Kerley, que são linhas finas que atravessam os pulmões representando septos espessados ​​do tecido conjuntivo, vistos sobretudo em edema pulmonar intersticial.",
+                    "As linhas A de Kerley são encontradas nos lobos superiores.",
+                    "As linhas B de Kerley são curtas (1-2 cm), e formam linhas horizontais nos lobos inferiores.",
+                    "As linhas C de Kerley são difusamente distribuídas por todo o pulmão.",
+                    "Essas linhas de Kerley podem estar associadas a insuficiência cardíaca e derrames pleurais."
+                ],
+                "studyKeys": [],
+                "reference": [
+                    "Duong M. et al. ABC’s of Chest X-rays. TSMJ Volume 2 2001: Clinical Medicine."
+                ]
+            }
+        ]
+    },
+    {
+        "id": "abcdefghg",
+        "title": "G",
+        "label": "GASTRIC BUBBLE",
+        "phrase": "(Bolha) Gástrica",
+        "content": [
+            {
+                "image": [
+                    {
+                        "url": "assets/images/abcdefgh-method/pt/7.jpg",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [
+                    "Procure identificar a bolha de ar sob o hemidiafragma esquerdo (Bolha gástrica em azul claro na figura).",
+                    "Procure por hérnias diafragmáticas à direita ou à esquerda."
+                ],
+                "studyKeys": [
+                    "Hérnias diafragmáticas congênitas (Bochdalek e Morgagni) / Sinal de Chilaiditi."
+                ],
+                "reference": [
+                    "Duong M. et al. ABC’s of Chest X-rays. TSMJ Volume 2 2001: Clinical Medicine."
+                ]
+            }
+        ]
+    },
+    {
+        "id": "abcdefghh",
+        "title": "H",
+        "label": "HILUM (AND MEDIASTINUM)",
+        "phrase": "Hilo (e mediastino)",
+        "content": [
+            {
+                "image": [
+                    {
+                        "url": "assets/images/abcdefgh-method/pt/8.jpg",
+                        "subtitle": ""
+                    },
+                    {
+                        "url": "assets/images/abcdefgh-method/pt/9.jpg",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [
+                    "Olhe para os hilos (que consiste em brônquios principais e artérias pulmonares)",
+                    "O hilo esquerdo deve ser mais elevado que o direito.",
+                    "Compare as formas convexas e densidades em ambos os lados.",
+                    "As linhas paratraqueais são finas nas margens traqueais direita e esquerda. Quando espessadas estão associadas a linfadenopatias.",
+                    "Avalie de forma esquemática as 3 divisões mediastinais."
+                ],
+                "studyKeys": [],
+                "reference": [
+                    "Duong M. et al. ABC’s of Chest X-rays. TSMJ Volume 2 2001: Clinical Medicine."
+                ]
+            }
+        ]
+    },
+    {
+        "id": "abcdefghn",
+        "title": "ABCDEFGH",
+        "label": "NORMAL",
+        "phrase": "",
+        "content": [
+            {
+                "image": [
+                    {
+                        "url": "assets/images/abcdefgh-method/pt/10.jpg",
+                        "subtitle": ""
+                    },
+                    {
+                        "url": "assets/images/abcdefgh-method/pt/11.jpg",
+                        "subtitle": "RX em PA e Perfil normais."
+                    }
+                ],
+                "description": [
+                    "A - Via aérea normal com traqueia centrada e brônquios fontes livres.",
+                    "B - Estrutura óssea conservada sem sinais de fraturas.",
+                    "C - Diâmetro cardíaco e silhueta cardíaca normais, sem sinais de borramentos.",
+                    "D - Cupulas diafragmáticas normais, sendo a direita discretamente mais elevada.",
+                    "E&F -  Pulmões  não hiperinsuflados e com transparência normal.",
+                    "G - Bolha gástrica.",
+                    "H - Hilos sem sinais de linfonodomegalias."
+                ],
+                "studyKeys": [],
+                "reference": [
+                    "Duong M. et al. ABC’s of Chest X-rays. TSMJ Volume 2 2001: Clinical Medicine."
+                ]
+            }
+        ]
+    }
+]

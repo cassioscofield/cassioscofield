@@ -1,0 +1,214 @@
+[
+    {
+        "id": "abcdefgha",
+        "title": "A",
+        "label": "AIRWAYS",
+        "phrase": "",
+        "content": [
+            {
+                "image": [
+                    {
+                        "url": "assets/images/abcdefgh-method/en/1.jpg",
+                        "subtitle": ""
+                    }
+                ],
+                "description": ["Look at the trachea and its branches: check the site, size, shape, and shadow.",
+                                "Mnemonic 4 S’s",
+                                "It patent, or narrowed indicating stenosis or edema? Is it central? (in children it should be straight but in adults it can deviate to the right due the aortic arch)."],
+                "studyKeys": [],
+                "reference": ["Duong M. et al. ABC’s of Chest X-rays. TSMJ Volume 2 2001: Clinical Medicine."]
+            }
+        ]
+    },
+    {
+        "id": "abcdefghb",
+        "title": "B",
+        "label": "BONES",
+        "phrase": "",
+        "content": [
+            {
+                "image": [
+                    {
+                        "url": "assets/images/abcdefgh-method/en/2.jpg",
+                        "subtitle": ""
+                    }
+                ],
+                "description": ["Look at and compare the bony structures paying attention to site, size, shape, shadows and borders: (clavicles, ribs, scapulae, thoracic vertebrae, and humeri).",
+                                "Any fractures? Using a pointer follow along the smooth edges of each bone looking for an interruption of the smooth line.",
+                                "Any lytic lesions? Look for discrete darker areas or a change in bone density.",
+                                "Any bony deformity? (rachitic rosary at the costochondral joints seen in rickets)",
+                                "Any extra? (cervical ribs)",
+                                "Any missing bones? (absent vertebral arches in spina bifida occulta)",
+                                "Look for lateral deviations of the vertebrae in scoliosis."],
+                "studyKeys": [],
+                "reference": ["Duong M. et al. ABC’s of Chest X-rays. TSMJ Volume 2 2001: Clinical Medicine."]
+            }
+        ]
+    },
+    {
+        "id": "abcdefghc",
+        "title": "C",
+        "label": "CARDIAC",
+        "phrase": "",
+        "content": [
+            {
+                "image": [
+                    {
+                        "url": "assets/images/abcdefgh-method/en/3.jpg",
+                        "subtitle": ""
+                    }
+                ],
+                "description": ["Take note of the cardiac site, size, shape, shadows and borders",
+                                "Site: is it located on the right or left?",
+                                "Size: is it less than half the transthoracic diameter? (i.e. is the largest diameter of the heart less than half the largest diameter of the thorax).",
+                                "Shape: is it ovoid with the apex pointing to the left?",
+                                "Shadows: any change in density?",
+                                "Borders: is it clear or well defined?",
+                                "Unclear right border suggest middle lobe consolidation.",
+                                "Unclear left border suggest lingular lobe consolidation."],
+                "studyKeys": ["Studying Silhouette Sign and Heart Silhouette."],
+                "reference": ["Duong M. et al. ABC’s of Chest X-rays. TSMJ Volume 2 2001: Clinical Medicine."]
+            }
+        ]
+    },
+    {
+        "id": "abcdefghd",
+        "title": "D",
+        "label": "DIAPHRAGM",
+        "phrase": "",
+        "content": [
+            {
+                "image": [
+                    {
+                        "url": "assets/images/abcdefgh-method/en/4.jpg",
+                        "subtitle": ""
+                    },
+                    {
+                        "url": "assets/images/abcdefgh-method/en/5.jpg",
+                        "subtitle": ""
+                    }
+                ],
+                "description": ["Look at the outline of the diaphragm; it should be clear and smooth.",
+                                "Right hemidiaphragm should be higher (2-3cm) than the left.",
+                                "Highest point on the right should be in the middle of the right lung field.",
+                                "Highest point on left should be slightly lateral to the middle of the left lung field. Deviation may indicate pneumothorax.",
+                                "Are the costophrenic angles well defined?",
+                                "Whiteness immediately above the diaphragm indicates pleural effusion or consolidation.",
+                                "The presence of fluid will produce a meniscus (Meniscus Sign) or a concave upper border.",
+                                "Is there air below each hemidiaphragm indicating bowel perforation?",
+                                "Is the diaphragm below the anterior end of the 6th rib on the right? If so, this indicates hyperinflation."],
+                "studyKeys": [],
+                "reference": ["Duong M. et al. ABC’s of Chest X-rays. TSMJ Volume 2 2001: Clinical Medicine."]
+            }
+        ]
+    },
+    {
+        "id": "abcdefghef",
+        "title": "E&F",
+        "label": "EQUAL (LUNG) FIELDS",
+        "phrase": "",
+        "content": [
+            {
+                "image": [
+                    {
+                        "url": "assets/images/abcdefgh-method/en/6.jpg",
+                        "subtitle": ""
+                    }
+                ],
+                "description": ["Divide lung fields into zones: upper, middle, and lower zones.",
+                                "Upper: from the apex to 2nd costal cartilage.",
+                                "Middle: between 2nd and 4th costal cartilage.",
+                                "Lower: between 4th and 6th costal cartilage.",
+                                "Look  for equal radiolucency (or blackness due to air filling) between the left and the right lungs zones.",
+                                "Look for any discrete or generalized grey/white shadows (described as opacity/patchy shadows).",
+                                "The horizontal fissure on the right, divides the upper and middle lobes: from the hilum to the 6th rib at the axillary line.",
+                                "Look for vascular markings: indicating pulmonary hypertension pruning.",
+                                "Air bronchograms are visible air-filled bronchi, outlined by surrounding consolidation.",
+                                "“Bat’s wing” distribution describes one of two patterns of consolidation (the other pattern being lobar); refers to the bilateral opacification spreading from the hilar regions into the lungs (sparing the peripheral lung areas) signifying extensive alveolar disease.",
+                                "The causes of “bat’s wing” are: pulmonary edema in heart failure, fluid overload, hypoproteinemia, blood transfusion reaction, and otherss.",
+                                "Reversed “bat’s wing” distribution are alveolar opacification in the peripheral lung fields with sparing of the central areas seen in fat embolism 1-2 days following a bone fracture.",
+                                "Kerley A, B, and C lines which are fine lines running through the lungs representing thickened connective tissue septae seen in intersitial pulmonary edema.",
+                                "Kerley A lines are found in the upper lobes.",
+                                "Kerley B lines are short (1-2 cm) horizontal line in the lower lobes.",
+                                "Kerley C lines are diffusively distributed through the entire lung.",
+                                "These Kerley lines may be associated with cardiac enlargement and pleural effusions."],
+                "studyKeys": [],
+                "reference": ["Duong M. et al. ABC’s of Chest X-rays. TSMJ Volume 2 2001: Clinical Medicine."]
+            }
+        ]
+    },
+    {
+        "id": "abcdefghg",
+        "title": "G",
+        "label": "GASTRIC BUBBLE",
+        "phrase": "",
+        "content": [
+            {
+                "image": [
+                    {
+                        "url": "assets/images/abcdefgh-method/en/7.jpg",
+                        "subtitle": ""
+                    }
+                ],
+                "description": ["Look for an air bubble under the left hemidiaphragm (Gastric blister in blue in the figure).",
+                                "Look for diaphragmatic hernia on the right or left."],
+                "studyKeys": ["Congenital diaphragmatic hérnias (Bochdalek and Morgagni) / Sign of Chilaiditi."],
+                "reference": ["Duong M. et al. ABC’s of Chest X-rays. TSMJ Volume 2 2001: Clinical Medicine."]
+            }
+        ]
+    },
+    {
+        "id": "abcdefghh",
+        "title": "H",
+        "label": "HILUM (AND MEDIASTINUM)",
+        "phrase": "",
+        "content": [
+            {
+                "image": [
+                    {
+                        "url": "assets/images/abcdefgh-method/en/8.jpg",
+                        "subtitle": ""
+                    },
+                    {
+                        "url": "assets/images/abcdefgh-method/en/9.jpg",
+                        "subtitle": ""
+                    }
+                ],
+                "description": ["Look at the hilum (which consists of main bronchus and pulmonary arteries). The left should be higher than the right",
+                                "Compare the convex shapes and densities on both sides.",
+                                "The paratracheal lines are thin lines of the right and left tracheal margins which are thickened in lymphadenopathy."],
+                "studyKeys": [],
+                "reference": ["Duong M. et al. ABC’s of Chest X-rays. TSMJ Volume 2 2001: Clinical Medicine."]
+            }
+        ]
+    },
+    {
+        "id": "abcdefghn",
+        "title": "ABCDEFGH",
+        "label": "NORMAL",
+        "phrase": "",
+        "content": [
+            {
+                "image": [
+                    {
+                        "url": "assets/images/abcdefgh-method/en/10.jpg",
+                        "subtitle": ""
+                    },
+                    {
+                        "url": "assets/images/abcdefgh-method/en/11.jpg",
+                        "subtitle": "RX in normal PA and Profile."
+                    }
+                ],
+                "description": ["A - Normal airway with centered trachea and free bronchial sources.",
+                                "B - Bone structure preserved without signs of fractures.",
+                                "C - Normal cardiac diameter and cardiac silhouette, with no signs of erasure.",
+                                "D - Normal diaphragmatic cupules, the right being slightly higher.",
+                                "E&F -  Non-hyperinflation lungs with normal transparency.",
+                                "G - Gastric bubble.",
+                                "H - Threads without signs of lymphadenopathy."],
+                "studyKeys": [],
+                "reference": ["Duong M. et al. ABC’s of Chest X-rays. TSMJ Volume 2 2001: Clinical Medicine."]
+            }
+        ]
+    }
+]

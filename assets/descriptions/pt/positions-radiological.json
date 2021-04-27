@@ -1,0 +1,129 @@
+[
+    {
+        "id": "prpa",
+        "title": "Póstero-Anterior (PA)",
+        "content": [
+            {
+                "title": "Posição para obtenção de imagem em PA",
+                "image": [
+                    {
+                        "url": "assets/images/radiological-positions/1.jpg",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [
+                    "Técnica: Paciente na posição ortostática, pés afastados, peso igualmente distribuído sobre ambos os pés queixo elevado as mãos sobre os quadris, palmas para fora. Ombros rodados encostados no Bucky para permitir movimento lateral das escápulas, permitindo melhor avaliação dos campos pulmonares.",
+                    "As radiografias do tórax devem sempre ser obtidas em inspiração máxima (apneia inspiratória), situando-se, nesse caso, as hemicúpulas frênicas entre o 10° e o 11° arcos costais posteriores."
+                ],
+                "studyKeys": [],
+                "reference": []
+            }
+        ]
+    },
+    {
+        "id": "prp",
+        "title": "Perfil",
+        "content": [
+            {
+                "title": "Posição para obtenção de imagem em perfil",
+                "image": [
+                    {
+                        "url": "assets/images/radiological-positions/2.jpg",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [
+                    "Técnica: Posiciona-se o lado esquerdo do tórax do paciente no Bucky, eleva-se os braços acima da cabeça ou coloca-se as mãos na cabeça para desassociar os membros superiores do tórax, centralizando o plano médio coronal no centro do Bucky, buscando a lateralização adequada",
+                    "<br>*O Motivo deste posicionamento tem relação com o efeito de divergência. Logo, o coração que está mais próximo ao centro do Bucky formará uma imagem mais próxima da realidade. Da mesma forma um perfil direito formará uma imagem cardíaca maior que o normal.",
+                    "<br>Serve para que?<br><br>Verificar se imagem duvidosa na grafia em PA/AP está realmente presente;<br>Uma vez constatada anormalidade:<br>Definir se é anterior ou posterior;<br>Definir o lobo;<br>Definir se realmente está em um lobo.<br>Avaliar atrás do coração;<br>Avaliar atrás e na frente do hilo;<br>Avaliar atrás das cúpulas diafragmáticas"
+                ],
+                "studyKeys": [],
+                "reference": []
+            }
+        ]
+    },
+    {
+        "id": "prap",
+        "title": "Ântero-Posterior (AP)",
+        "content": [
+            {
+                "title": "Posição para obtenção de imagem em AP",
+                "image": [
+                    {
+                        "url": "assets/images/radiological-positions/3.jpg",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [
+                    "Deve ser reservada para aqueles que não conseguem ficar em pé. Ex: Leito de UTI, politrauma, e acamados.",
+                    "Cuidado: nessa incidência ocorre magnificação do coração e alargamento do mediastino."
+                ],
+                "studyKeys": [],
+                "reference": []
+            }
+        ]
+    },
+    {
+        "id": "pral",
+        "title": "Ápico-Lordótica",
+        "content": [
+            {
+                "title": "",
+                "image": [
+                    {
+                        "url": "assets/images/radiological-positions/4.jpg",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [
+                    "Posição: Paciente com os pés a cerca de 30 cm do receptor da imagem, com as costas arqueadas posteriomente, fazendo com que os ombros e a cabeça estejam contra o Bucky. Posicionando os ombros e cotovelos externamente para que as escapulas se projetem para fora dos campos pulmonares.",
+                    "O ângulo formado entre o plano do corpo médio e o receptor de imagem deve ser de aproximadamente 45 graus.",
+                    "<br>Quando solicitar?<br><br>Quando uma imagem parcialmente definida for vista atrás das clavículas nas incidências em AP e PA. Podemos utilizar a posição ápico-lordótica, que promove a “saída” das clavículas do campo visual, permitindo a avaliação da estrutura a ser investigada."
+                ],
+                "studyKeys": [],
+                "reference": []
+            }
+        ]
+    },
+    {
+        "id": "pro",
+        "title": "Oblíquas",
+        "content": [
+            {
+                "title": "",
+                "image": [
+                    {
+                        "url": "assets/images/radiological-positions/5.jpg",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [
+                    "<br>Quando solicitar?<br><br>Quando houver dúvida de imagens que se projetam nas regiões mais laterais do tórax e que possam estar sobrepostas a outras estruturas. Como por exemplo imagens nodulares na topografia de seios costofrênicos. "
+                ],
+                "studyKeys": [],
+                "reference": []
+            }
+        ]
+    },
+    {
+        "id": "prdlrh",
+        "title": "Decúbito Lateral com Raios Horizontais (LAURELL)",
+        "content": [
+            {
+                "title": "",
+                "image": [
+                    {
+                        "url": "assets/images/radiological-positions/6.jpg",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [
+                    "Técnica: A incidência de Hjelm-Laurell (popular Laurell em radiologia) ou decúbito lateral direito ou esquerdo com raios horizontais é realizada com o paciente em decúbito lateral, os membros superiores são elevados sobre a cabeça e a região posterior do tórax é encostada no bucky vertical.",
+                    "<br><b>Decúbito-Lateral (Hjelm-Laurell)</b><br>Diferenciação de:<br>Espessamento do Folheto (atelectasia);<br>Derrame Pleural (Móvel ou Loculado);<br>Pneumotórax (em pacientes que não conseguem fazer a grafia em PA;"
+                ],
+                "studyKeys": [],
+                "reference": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,510 @@
+[
+  {
+    "id": "atm",
+    "title": "Músculos",
+    "content": [
+      {
+        "title": "",
+        "image": [
+          {
+            "url": "assets/images/torax-anatomy/pt/1.jpg",
+            "subtitle": "Músculos principales que forman el pecho."
+          }
+        ],
+        "decription": [],
+        "studyKeys": [],
+        "reference": []
+      },
+      {
+        "title": "",
+        "image": [
+          {
+            "url": "assets/images/torax-anatomy/pt/2.jpg",
+            "subtitle": "Ilustración de los principales componentes musculoesqueléticos de la pared torácica anterior."
+          }
+        ],
+        "decription": [],
+        "studyKeys": [
+          "Síndrome de salida torácica congénita y tortícolis congénita."
+        ],
+        "reference": []
+      },
+      {
+        "title": "",
+        "image": [
+          {
+            "url": "assets/images/torax-anatomy/pt/3.jpg",
+            "subtitle": "Transición torácica cervical."
+          }
+        ],
+        "decription": [],
+        "studyKeys": [
+          "Síndrome de salida torácica congénita y tortícolis congénita."
+        ],
+        "reference": []
+      }
+    ]
+  },
+  {
+    "id": "atao",
+    "title": "Estructura ósea",
+    "content": [
+      {
+        "title": "",
+        "image": [
+          {
+            "url": "assets/images/torax-anatomy/pt/4.jpg",
+            "subtitle": "Anatomía de la estructura ósea."
+          }
+        ],
+        "decription": [
+          "Detalle en la composición ósea del esternón: manubrio, cuerpo y apófisis xifoides."
+        ],
+        "studyKeys": [
+          "Fractura del esternón, tórax inestable, Pectus carinatum y excavatum."
+        ],
+        "reference": []
+      },
+      {
+        "title": "",
+        "image": [
+          {
+            "url": "assets/images/torax-anatomy/pt/5.gif",
+            "subtitle": ""
+          }
+        ],
+        "description": [
+          "Anatomía de las costillas y el esternón: \" Las costillas son huesos largos, planos y curvos que se pliegan alrededor del pecho un poco como el borde de un tonel. Hay veinticuatro costillas, doce a cada lado \". - Blaisedell, 1904"
+        ],
+        "studyKeys": [],
+        "reference": [
+          "Albert F. Blaisedell Our bodies and How We Live (Boston: Ginn &, 1904) 28"
+        ]
+      },
+      {
+        "title": "",
+        "image": [
+          {
+            "url": "assets/images/torax-anatomy/pt/6.jpg",
+            "subtitle": "Anatomía de los cuerpos vertebrales."
+          }
+        ],
+        "decription": [],
+        "studyKeys": [],
+        "reference": []
+      },
+      {
+        "title": "",
+        "image": [
+          {
+            "url": "assets/images/torax-anatomy/pt/7.jpg",
+            "subtitle": "Detalles anatómicos de las articulaciones costales con la columna y el esternón."
+          }
+        ],
+        "decription": [],
+        "studyKeys": [],
+        "reference": []
+      }
+    ]
+  },
+  {
+    "id": "atdep",
+    "title": "Diafragma y espacio pleural",
+    "content": [
+      {
+        "title": "",
+        "image": [
+          {
+            "url": "assets/images/torax-anatomy/pt/9.jpg",
+            "subtitle": "El diafragma, visto desde arriba."
+          }
+        ],
+        "decription": [
+          "Observe el agujero a través del cual pasan la vena cava y los espacios esofágico y aórtico."
+        ],
+        "studyKeys": [
+          "Hernias diafragmáticas y parálisis del nervio frénico."
+        ],
+        "reference": [
+          "Gray, Henry Gray's Anatomy: Descriptive and Applied (Philadelphia: Lea & Febiger, 1913) 420"
+        ]
+      },
+      {
+        "title": "",
+        "image": [
+          {
+            "url": "assets/images/torax-anatomy/pt/10.jpg",
+            "subtitle": "El diafragma, visto de frente."
+          }
+        ],
+        "description": [
+          "Tenga en cuenta que la vena cava tiene el pasaje más a la derecha de los cuerpos vertebrales. Esófago y aorta con pasaje posterior, más el izquierdo de los cuerpos vertebrales. El diafragma derecho es más alto que el izquierdo debido al hígado."
+        ],
+        "studyKeys": [],
+        "reference": [
+          "Gray, Henry Gray's Anatomy: Descriptive and Applied (Philadelphia: Lea & Febiger, 1913) 420"
+        ]
+      },
+      {
+        "title": "",
+        "image": [
+          {
+            "url": "assets/images/torax-anatomy/pt/11.jpg",
+            "subtitle": "Región del ápice pulmonar y su relación con la pleura parietal y visceral."
+          }
+        ],
+        "decription": [],
+        "studyKeys": [
+          "Tumor de Pancoast y posición apico-lordótica (consulte la sección de incidencia radiológica). <b> (haga clic para ver) </b>"
+        ],
+        "linkedTo": {
+          "url": "assets/descriptions/pt/positions-radiological.json",
+          "id": "pral"
+        },
+        "reference": []
+      },
+      {
+        "title": "",
+        "image": [
+          {
+            "url": "assets/images/torax-anatomy/pt/12.jpg",
+            "subtitle": "Vista inferior del diafragma"
+          }
+        ],
+        "decription": [],
+        "studyKeys": [
+          "Hernias diafragmáticas y parálisis del nervio frénico."
+        ],
+        "reference": []
+      },
+      {
+        "title": "",
+        "image": [
+          {
+            "url": "assets/images/torax-anatomy/pt/13.jpg",
+            "subtitle": "Diagrama que muestra el ángulo de la aguja para realizar la toracocentesis para acceder al espacio pleural."
+          }
+        ],
+        "description": [
+          "Tenga en cuenta que si la aguja tiene un ángulo demasiado craneal, existe un mayor riesgo de lesión del haz vasculo-nervioso."
+        ],
+        "studyKeys": [
+          "Toracocentesis"
+        ],
+        "reference": []
+      }
+    ]
+  },
+  {
+    "id": "atpls",
+    "title": "Pulmones / Lobos y segmentos",
+    "content": [
+      {
+        "title": "",
+        "image": [
+          {
+            "url": "assets/images/torax-anatomy/pt/14.jpg",
+            "subtitle": "Vista anterior de la anatomía lobular del pulmón"
+          }
+        ],
+        "description": [
+          "Pulmón derecho dividido por una fisura horizontal en el lóbulo superior y medio.",
+          "La fisura oblicua derecha divide el lóbulo inferior de los lóbulos superior y medio",
+          "Pulmón izquierdo dividido por la fisura oblicua izquierda en el lóbulo superior e inferior."
+        ],
+        "studyKeys": [],
+        "reference": []
+      },
+      {
+        "title": "",
+        "image": [
+          {
+            "url": "assets/images/torax-anatomy/pt/15.jpg",
+            "subtitle": "Vista posterior de la anatomía lobular del pulmón, con vista al seno costofrénico."
+          }
+        ],
+        "decription": [],
+        "studyKeys": [],
+        "reference": []
+      },
+      {
+        "title": "",
+        "image": [
+          {
+            "url": "assets/images/torax-anatomy/pt/16.jpg",
+            "subtitle": "Anatomía segmentaria"
+          }
+        ],
+        "decription": [
+          "<br> <br> <b> PULMÓN DERECHO </b> <br> Lóbulo superior: apical (nº1), anterior (nº2) y posterior (nº3). <br> Lóbulo medio: lateral ( nº4) y medial (nº5). <br> Lóbulo inferior: superior (nº6), medial basal (nº7), anterior basal (nº8), lateral basal (nº9) y posterior basal (nº10). ",
+          "<br> <br> <b> PULMÓN IZQUIERDO </b> <br> Lóbulo superior: apico-posterior (nº1 y nº3), anterior (nº2), lingular superior (nº4) y lingular inferior (nº5). <br > Lóbulo inferior: superior (nº6), antero-medial basal (nº8 y nº7), lateral basal (nº9) y posterior basal (nº10). "
+        ],
+        "studyKeys": [],
+        "reference": []
+      }
+    ]
+  },
+  {
+    "id": "atteh",
+    "title": "Tráquea y estructuras hiliares",
+    "content": [
+      {
+        "title": "",
+        "image": [
+          {
+            "url": "assets/images/torax-anatomy/pt/17.jpg",
+            "subtitle": ""
+          }
+        ],
+        "description": [
+          "La tráquea es un tubo de 10 a 12,5 cm de largo y 2,5 cm de diámetro.",
+          "Constituye un tubo que continúa la laringe, penetra en el tórax y termina bifurcando en los 2 bronquios principales.",
+          "Está ubicado medial y anterior al esófago, y solo en su extremo, se desvía levemente hacia la derecha."
+        ],
+        "studyKeys": [],
+        "reference": [
+          "Currier, Andrew F. (Ed.) The Foundation Library (New York, NY: The Educational Society, 1911)"
+        ]
+      },
+      {
+        "title": "",
+        "image": [
+          {
+            "url": "assets/images/torax-anatomy/pt/18.jpg",
+            "subtitle": "Cartílago tiroides, cricoides, membrana crico-tiroidea, tráquea, bifurcación de la tráquea (carina), arco aórtico, arteria pulmonar y esófago."
+          }
+        ],
+        "decription": [],
+        "studyKeys": [],
+        "reference": [
+          "Cunningham, D.J. Textbook of Anatomy (New York, NY: William Wood and Co., 1903)"
+        ]
+      },
+      {
+        "title": "",
+        "image": [
+          {
+            "url": "assets/images/torax-anatomy/pt/19.jpg",
+            "subtitle": "Ilustración que muestra la estrecha relación mediastínica entre el hilio y los vasos (venas y arterias), tráquea y esófago."
+          }
+        ],
+        "decription": [],
+        "studyKeys": [],
+        "reference": []
+      }
+    ]
+  },
+  {
+    "id": "atcgv",
+    "title": "Corazón y vasos grandes",
+    "content": [
+      {
+        "title": "",
+        "image": [
+          {
+            "url": "assets/images/torax-anatomy/pt/20.jpg",
+            "subtitle": "Diagrama que muestra la laringe, tráquea, aorta, arteria pulmonar, pulmones, corazón y diafragma."
+          }
+        ],
+        "description": [
+          "Observe la língula anterior al ventrículo izquierdo y el lóbulo medio anterior a la aurícula y el ventrículo derecho."
+        ],
+        "studyKeys": [
+          "Ley de Felson / Signo de silueta"
+        ],
+        "reference": [
+          "W. Morrant Baker and Vincent Dormer Harris, Hand-Book of Physiology (Philadelphia:P. Blakiston, Son & Co., 1892) 170"
+        ]
+      },
+      {
+        "title": "",
+        "image": [
+          {
+            "url": "assets/images/torax-anatomy/pt/21.jpg",
+            "subtitle": "Esquema que muestra la circulación pulmonar y sistémica."
+          }
+        ],
+        "decription": [],
+        "studyKeys": [
+          "Pre y poscarga cardíaca, índice cardiotorácico y malformaciones congénitas."
+        ],
+        "reference": []
+      },
+      {
+        "title": "",
+        "image": [
+          {
+            "url": "assets/images/torax-anatomy/pt/22.jpg",
+            "subtitle": "Referencias anatómicas de la proyección cardíaca en relación con la estructura ósea."
+          }
+        ],
+        "decription": [],
+        "studyKeys": [
+          "Signo de silueta y silueta cardíaca"
+        ],
+        "reference": []
+      },
+      {
+        "title": "",
+        "image": [
+          {
+            "url": "assets/images/torax-anatomy/pt/23.jpg",
+            "subtitle": "Aorta y sus ramas"
+          }
+        ],
+        "decription": [],
+        "studyKeys": [
+          "Aneurisma aórtico."
+        ],
+        "reference": []
+      },
+      {
+        "title": "",
+        "image": [
+          {
+            "url": "assets/images/torax-anatomy/pt/24.jpg",
+            "subtitle": "Drenaje venoso a la aurícula derecha"
+          }
+        ],
+        "decription": [],
+        "studyKeys": [
+          "Insuficiencia cardíaca congestiva"
+        ],
+        "reference": []
+      },
+      {
+        "title": "",
+        "image": [
+          {
+            "url": "assets/images/torax-anatomy/pt/25.jpg",
+            "subtitle": "Detalle del drenaje venoso del sistema ácigos, que se asemeja al diseño de una \"H\", ubicado ligeramente por delante de los cuerpos vertebrales toracolumbares."
+          }
+        ],
+        "decription": [
+          "Ácigos: la confluencia de la vena lumbar ascendente derecha y la vena subcostal derecha (T12-L1) forman la \"raíz\" lateral de los ácigos y la \"raíz\" medial se deriva de la VCI.",
+          "Hemiazigos - confluencia de las venas lumbar ascendente izquierda y subcostal izquierda para formar la raíz lateral y la raíz medial proviene de la vena renal izquierda."
+        ],
+        "studyKeys": [
+          "Cirrosis hepática, insuficiencia cardíaca congestiva y várices esofágicas"
+        ],
+        "reference": []
+      },
+      {
+        "title": "",
+        "image": [
+          {
+            "url": "assets/images/torax-anatomy/pt/26.jpg",
+            "subtitle": "Detalle del drenaje venoso del sistema ácigos, que se asemeja al diseño de una \"H\", situado ligeramente por delante de los cuerpos vertebrales toracolumbares."
+          }
+        ],
+        "description": [
+          "Nótese el conducto torácico, en estrecha relación con la vena subclavia y el tronco braquicefálico venoso izquierdo.",
+          "Este conducto comienza en el abdomen, en el kilo cisterna, y continúa hacia arriba por el mediastino posterior hasta la abertura torácica superior. En parte de su recorrido, el conducto torácico ingresa a la vena braquiocefálica izquierda por donde se drena su contenido."
+        ],
+        "studyKeys": [
+          "Quilotórax y acceso venoso central en las venas subclavias."
+        ],
+        "reference": []
+      }
+    ]
+  },
+  {
+    "id": "atmd",
+    "title": "Mediastino",
+    "content": [
+      {
+        "title": "",
+        "image": [
+          {
+            "url": "assets/images/torax-anatomy/pt/27.jpg",
+            "subtitle": "Dibujo esquemático de la división anatómica del mediastino en superior e inferior, con un punto de referencia anatómico en el ángulo esternal."
+          }
+        ],
+        "description": [
+          "El mediastino inferior se suele subdividir en libros en: anterior, medio y posterior.",
+          "Atención en la radiografía y tomografía de tórax existen divisiones y puntos de referencia anatómicos diferentes a los que se presentan habitualmente en los libros de atlas y textos de anatomía general. Por ejemplo, la clásica división mediastínica propuesta por Felson en 1969 sobre radiografía de tórax y la más reciente en 2017 de ITMIG - Grupo Internacional de Interés en Neoplasias Tímicas, para tomografía de tórax. <b> Ver la siguiente imagen </b>. "
+        ],
+        "studyKeys": [
+          "Masas del mediastino anterior (4 T's)."
+        ],
+        "reference": []
+      },
+      {
+        "title": "",
+        "image": [
+          {
+            "url": "assets/images/torax-anatomy/pt/28-1.jpg",
+            "subtitle": "Anterior / Prevascular"
+          },
+          {
+            "url": "assets/images/torax-anatomy/pt/28-2.jpg",
+            "subtitle": "Medio / Visceral"
+          },
+          {
+            "url": "assets/images/torax-anatomy/pt/28-3.jpg",
+            "subtitle": "Posterior / Paravertebral"
+          }
+        ],
+        "decription": [
+          "<br> <b> División esquemática del mediastino propuesta por ITMIG (2017) </b> <br> <br> Pre-Vascular - Parte superior: introito torácico. Inferior: Diafragma. Anterior: Esternón . Lateral: pleura parietal mediastínica. Posterior: anterior al pericardio, involucrando el corazón en forma curvilínea. Posterior: línea vertical trazada que conecta los cuerpos vertebrales torácicos aproximadamente 1 cm posterior al margen anterior de los cuerpos vertebrales. <br> <br > Paravertebral - <br> Superior: Introito torácico Posterolateral: línea vertical trazada contra el margen posterior de la pared torácica en el margen lateral de las apófisis transversas de la columna torácica. <br> <br> <b> Anatomía radiológica (clic para ver) </b> "
+        ],
+        "studyKeys": [],
+        "linkedTo": {
+          "url": "assets/descriptions/pt/anatomy-radiological.json",
+          "id": "arm"
+        },
+        "reference": [
+          "Carter et al. ITMIG Classification of Mediastinal Compartments and Multidisciplinary Approach to Mediastinal Masses. RadioGraphics 2017; 37:0000–0000"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "atifvn",
+    "title": "Inervación / haz vasculo-nervioso",
+    "content": [
+      {
+        "title": "",
+        "image": [
+          {
+            "url": "assets/images/torax-anatomy/pt/29.jpg",
+            "subtitle": "Sección anatómica del espacio intercostal que muestra la íntima relación del haz vasculo-nervioso que se proyecta justo debajo del arco costal con el paso de la vena, arteria y nervio intercostal."
+          }
+        ],
+        "decription": [],
+        "studyKeys": [],
+        "reference": []
+      },
+      {
+        "title": "",
+        "image": [
+          {
+            "url": "assets/images/torax-anatomy/pt/30.jpg",
+            "subtitle": "Imagen de arriba - inervación de las costillas y sus respectivos segmentos (brazos). <br> Imagen de abajo - inervación / haz vasculo-nervioso."
+          }
+        ],
+        "decription": [],
+        "studyKeys": [
+          "arteria de Adamkiewicz."
+        ],
+        "reference": []
+      },
+      {
+        "title": "",
+        "image": [
+          {
+            "url": "assets/images/torax-anatomy/pt/31.jpg",
+            "subtitle": "Anatomía de la inervación e irrigación arterial del haz vasculo-nervioso."
+          }
+        ],
+        "description": [
+          "Atención a los vasos torácicos internos y epigástricos."
+        ],
+        "studyKeys": [
+          "Síndrome de Mondor."
+        ],
+        "reference": []
+      }
+    ]
+  }
+]

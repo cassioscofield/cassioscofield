@@ -1,0 +1,138 @@
+[
+    {
+        "resume": "In this application I present to you the method of evaluation of the chest radiographs used and perfected by Professor MD. Paulo Cezar Leal Ecclissato, who has been taught for several years at the Residency of Radiology and Diagnostic Imaging of the Faculty of Medicine of Marília - FAMEMA.<br/>With a unique view of the most peripheral structures of the thorax to the most central, this method of interpretation allows a global and detailed evaluation.",
+        "resumeReference": "Ecclissato PCL, Dias DJL, Dias ASDS, et al. Chest x-ray: tips for the clinician. Int J Radiol Radiat Ther. 2019;6(5):179-184. DOI: 10.15406/ijrrt.2019.06.00243<br/><a href='https://medcraveonline.com/IJRRT/IJRRT-06-00243.php'>https://medcraveonline.com/IJRRT/IJRRT-06-00243.php</a>"
+    },
+    {
+        "id": "ecclissatoagpp",
+        "title": "",
+        "label": "EVALUATION ON PA AND PERFIL RADIOGRAPHY",
+        "phrase": "",
+        "summary": {
+            "image": "assets/images/ecclissato-method/en/1.jpg",
+            "columns": [
+                {
+                    "title": "\"Perform chest X-ray analysis from the outside to the inside\" –  Paulo Ecclissato, MD",
+                    "items": [
+                        {
+                            "title": "1 - Soft tissue",
+                            "slide": 1,
+                            "color": null
+                        },
+                        {
+                            "title": "2 - Bone Structure",
+                            "slide": 2,
+                            "color": null
+                        },
+                        {
+                            "title": "3 - Pleural Cavity and Cupula",
+                            "slide": 3,
+                            "color": null
+                        },
+                        {
+                            "title": "4 - Lung and Hilum",
+                            "slide": 4,
+                            "color": null
+                        },
+                        {
+                            "title": "5 - Heart and Mediastinum",
+                            "slide": 5,
+                            "color": null
+                        },
+                        {
+                            "title": "Standard normal radiography in PA and Profile",
+                            "slide": 6,
+                            "color" : null
+                        }
+                    ]
+                }
+            ]
+        },
+        "content": [
+            {
+                "title":"1 - Soft tissue: (skin, subcutaneous, breasts, pectoral and intercostal muscles)",
+                "image": [
+                    {
+                        "url": "assets/images/ecclissato-method/en/2.jpg",
+                        "subtitle": ""
+                    }
+                ],
+                "description": ["At the first x-ray examination look all structures of the peripheral soft tissues of the thoracic scaffold and look for changes such as: subcutaneous emphysema (common in trauma) or calcifications (like cysticercosis)."],
+                "studyKeys": [],
+                "reference": []
+            },
+            {
+                "title":"2 - Bone Structure (costal structure in its superior / inferior contour, supra / infraclavicular region, scapulae, sternum and dorsal spine PA and Profile)",
+                "image": [
+                    {
+                        "url": "assets/images/ecclissato-method/en/3.jpg",
+                        "subtitle": ""
+                    }
+                ],
+                "description": ["Bone structure (costal framework in its upper / lower contour, supra / infraclavicular region, scapulae, sternum and dorsal column PA and Profile"],
+                "studyKeys": [],
+                "reference": []
+            },
+            {
+                "title":"3 - Pleural space, costophrenic domes / sinuses and upper floor of the abdomen (Liver, Gastric Bubble, Spleen and intestinal loops when present)",
+                "image": [
+                    {
+                        "url": "assets/images/ecclissato-method/en/4.jpg",
+                        "subtitle": ""
+                    }
+                ],
+                "description": ["Liver, Gastric Blister, Spleen and intestinal loops when present"],
+                "studyKeys": [],
+                "reference": []
+            },
+            {
+                "title":"4 - Lung (lung parenchyma), hilum and tracheobronchial tree.",
+                "image": [
+                    {
+                        "url": "assets/images/ecclissato-method/en/5.jpg",
+                        "subtitle": ""
+                    },
+                    {
+                        "url": "assets/images/ecclissato-method/en/6.jpg",
+                        "subtitle": ""
+                    }
+                ],
+                "description": [],
+                "studyKeys": [],
+                "reference": []
+            },
+            {
+                "title":"5 - Heart and Mediastinum (aorta, pulmonary arteries / veins / pericardial sac and thymus / nodes when present)",
+                "image": [
+                    {
+                        "url": "assets/images/ecclissato-method/en/7.jpg",
+                        "subtitle": ""
+                    },
+                    {
+                        "url": "assets/images/ecclissato-method/en/8.jpg",
+                        "subtitle": ""
+                    }
+                ],
+                "description": ["Heart and Mediastinum (aorta, pulmonary arteries / veins / pericardial sac and thymus / ganglia when present)."],
+                "studyKeys": [],
+                "reference": []
+            },
+            {
+                "title":"Standard radiography",
+                "image": [
+                    {
+                        "url": "assets/images/ecclissato-method/en/9.jpg",
+                        "subtitle": ""
+                    },
+                    {
+                        "url": "assets/images/ecclissato-method/en/10.jpg",
+                        "subtitle": ""
+                    }
+                ],
+                "description": ["This is the pattern of normality in a PA and Profile radiograph that we should keep in mind, well-inspired, adequate penetration and aligned."],
+                "studyKeys": [],
+                "reference": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,262 @@
+[
+    {
+        "title": "Question 1",
+        "question": "What is the ideal distance in the PA (postero-anterior) incidence, reducing the magnification and improving the sharpness?",
+        "answers": [
+            "d"
+        ],
+        "options": [
+            {
+                "label": "2,80 m",
+                "value": "a"
+            },
+            {
+                "label": "1,00 m",
+                "value": "b"
+            },
+            {
+                "label": "2,0 0m",
+                "value": "c"
+            },
+            {
+                "label": "1,80 m",
+                "value": "d"
+            }
+        ],
+        "caption": null
+    },
+    {
+        "title": "Question 2",
+        "question": "In obtaining the profile radiography, what is the main purpose of positioning the left side of the chest against the chassis?",
+        "answers": [
+            "c"
+        ],
+        "options": [
+            {
+                "label": "Better visualization of the skeletal structure.",
+                "value": "a"
+            },
+            {
+                "label": "Better visualization of nodules.",
+                "value": "b"
+            },
+            {
+                "label": "Reduce magnification and increase the sharpness of the heart and mediastinum.",
+                "value": "c"
+            },
+            {
+                "label": "There is no convention.",
+                "value": "d"
+            }
+        ],
+        "caption": null
+    },
+    {
+        "title": "Question 3",
+        "question": "In the FAMEMA-ECCLISSATO method, what is the interpretation sequence?",
+        "answers": [
+            "b"
+        ],
+        "options": [
+            {
+                "label": "skeletal structure; soft parts; pleural space and domes; lung and hilum; heart and mediastinum.",
+                "value": "a"
+            },
+            {
+                "label": "soft parts; skeletal structure; pleural space and domes; lung and hilum; heart and mediastinum.",
+                "value": "b"
+            },
+            {
+                "label": "heart and mediastinum; soft parts; skeletal structure; pleural space and domes; lung and hilum;",
+                "value": "c"
+            },
+            {
+                "label": "pleural space and domes; heart and mediastinum; soft parts; skeletal structure; lung and hilum;",
+                "value": "d"
+            }
+        ],
+        "caption": null
+    },
+    {
+        "title": "Question 4",
+        "question": "The Bochdalek hernia:",
+        "answers": [
+            "a"
+        ],
+        "options": [
+            {
+                "label": "is a congenital defect located in the posterolateral portion of the diaphragm due to incomplete obliteration of the foramen situated in this region.",
+                "value": "a"
+            },
+            {
+                "label": "is a congenital defect located in the anterior portion of the diaphragm due to incomplete obliteration of the foramen situated in this region.",
+                "value": "b"
+            },
+            {
+                "label": "is a congenital defect located in the medial portion of the diaphragm due to incomplete obliteration of foramen located in this region.",
+                "value": "c"
+            },
+            {
+                "label": "is a congenital defect located in the posteromedial portion of the diaphragm due to incomplete obliteration of the foramen situated in this region.",
+                "value": "d"
+            }
+        ],
+        "caption": "Rev. Col. Bras. Cir. vol.35 no.1 Rio de Janeiro Jan./Feb. 2008."
+    },
+    {
+        "title": "Question 5",
+        "question": "Normal cardiothoracic index is:",
+        "answers": [
+            "a"
+        ],
+        "options": [
+            {
+                "label": "Less than 0.5.",
+                "value": "a"
+            },
+            {
+                "label": "Greater than 0.5.",
+                "value": "b"
+            },
+            {
+                "label": "Between 0.5-0.6.",
+                "value": "c"
+            },
+            {
+                "label": "Less than 0.7.",
+                "value": "d"
+            }
+        ],
+        "caption": "Arq Bras Cardiol, volume 80 (nº 2), 202-7, 2003."
+    },
+    {
+        "title": "Question 6",
+        "question": "In the Morgagni hernia there is the passage of structures and / or abdominal viscera through:",
+        "answers": [
+            "d"
+        ],
+        "options": [
+            {
+                "label": "Foramen posterolateral of Larrey.",
+                "value": "a"
+            },
+            {
+                "label": "Morgani Medial Hiatus.",
+                "value": "b"
+            },
+            {
+                "label": "Weil's Side Space.",
+                "value": "c"
+            },
+            {
+                "label": "Sternocostal trine (Morgagni foramen / Larrey space).",
+                "value": "d"
+            }
+        ],
+        "caption": "Rev Imagem 2007;29(2):67–70 Hérnia de Morgagni: relato de caso / Freitas LF et al."
+    },
+    {
+        "title": "Question 7",
+        "question": "The left oblique fissure separates:",
+        "answers": [
+            "b"
+        ],
+        "options": [
+            {
+                "label": "The middle lobe of the upper lobe.",
+                "value": "a"
+            },
+            {
+                "label": "The lower lobe of the superior.",
+                "value": "b"
+            },
+            {
+                "label": "The lower lobe of the middle and upper lobe.",
+                "value": "c"
+            },
+            {
+                "label": "The upper lobe.",
+                "value": "d"
+            }
+        ],
+        "caption": null
+    },
+    {
+        "title": "Question 8",
+        "question": "The mediastinum according to the ITMIG group is divided into:",
+        "answers": [
+            "c"
+        ],
+        "options": [
+            {
+                "label": "Vascular, medial and posterior.",
+                "value": "a"
+            },
+            {
+                "label": "Visceral, vertebral and neural.",
+                "value": "b"
+            },
+            {
+                "label": "Pre-vascular, visceral and paravertebral.",
+                "value": "c"
+            },
+            {
+                "label": "Paravertebral, anterior and posterior visceral.",
+                "value": "d"
+            }
+        ],
+        "caption": null
+    },
+    {
+        "title": "Question 9",
+        "question": "The Artery of Adamkiewicz is:",
+        "answers": [
+            "a"
+        ],
+        "options": [
+            {
+                "label": "the largest anterior radiculomedullary artery that reaches the anterior spinal artery, being responsible for the blood supply of up to two thirds distal to the spinal cord.",
+                "value": "a"
+            },
+            {
+                "label": "a tributary artery of the internal mammary.",
+                "value": "b"
+            },
+            {
+                "label": "the largest anterior artery that irrigates the phrenic musculature.",
+                "value": "c"
+            },
+            {
+                "label": "synonymous with the innominate artery.",
+                "value": "d"
+            }
+        ],
+        "caption": "PIOLA, Flávio Porto Franco. Avaliação da artéria de Adamkiewicz através da angiotomografia computadorizada coronariana de múltiplos detectores acoplado ao eletrocardiograma. 2017. Dissertação (Mestrado em Ortopedia,Traumatologia e Reabilitação) - Faculdade de Medicina de Ribeirão Preto, Universidade de São Paulo, Ribeirão Preto, 2017. doi:10.11606/D.17.2017.tde-07062017-151417. Acesso em: 2018-12-17."
+    },
+    {
+        "title": "Question 10",
+        "question": "In the incidence of Laurell:",
+        "answers": [
+            "b"
+        ],
+        "options": [
+            {
+                "label": "The x-rays are vertical and the decubitus is horizontal.",
+                "value": "a"
+            },
+            {
+                "label": "The lateral decubitus is used to the side to be studied with horizontal x-rays.",
+                "value": "b"
+            },
+            {
+                "label": "The x-rays are horizontal and the decubitus is always right lateral.",
+                "value": "c"
+            },
+            {
+                "label": "The x-rays are vertical and the decubitus is vertical.",
+                "value": "d"
+            }
+        ],
+        "caption": null
+    }
+]

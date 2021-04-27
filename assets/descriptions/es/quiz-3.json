@@ -1,0 +1,263 @@
+[
+    {
+        "title": "Pregunta 1",
+        "question": "¿Cuál es lo signo?",
+        "image": "assets/images/quiz-3/1.jpg",
+        "answers": [
+            "c"
+        ],
+        "options": [
+            {
+                "label": "Signo de menisco",
+                "value": "a"
+            },
+            {
+                "label": "Signo de molino",
+                "value": "b"
+            },
+            {
+                "label": "Signo de la Cimitarra",
+                "value": "c"
+            },
+            {
+                "label": "Signo de media luna de aire",
+                "value": "d"
+            }
+        ],
+        "caption": null
+    },{
+        "title": "Pregunta 2",
+        "question": "¿Cuál es lo signo?",
+        "image": "assets/images/quiz-3/2.jpg",
+        "answers": [
+            "a"
+        ],
+        "options": [
+            {
+                "label": "Signo 1-2-3 (enfermedad de los ganglios linfáticos por sarcoidosis en las regiones paratraqueales derechas y en el hilio pulmonar derecho",
+                "value": "a"
+            },
+            {
+                "label": "Signo de agujero",
+                "value": "b"
+            },
+            {
+                "label": "Signo de silueta",
+                "value": "c"
+            },
+            {
+                "label": "Signo de media luna de aire",
+                "value": "d"
+            }
+        ],
+        "caption": null
+    },{
+        "title": "Pregunta 3",
+        "question": "¿Cuál es lo signo?",
+        "image": "assets/images/quiz-3/3.png",
+        "answers": [
+            "b"
+        ],
+        "options": [
+            {
+                "label": "Signo de la medusa",
+                "value": "a"
+            },
+            {
+                "label": "Signo del diafragma continuo",
+                "value": "b"
+            },
+            {
+                "label": "Aumento de la señal del diafragma",
+                "value": "c"
+            },
+            {
+                "label": "Signo del diafragma recto",
+                "value": "d"
+            }
+        ],
+        "caption": null
+    },{
+        "title": "Pregunta 4",
+        "question": "¿Cuál es lo signo?",
+        "image": "assets/images/quiz-3/4.png",
+        "answers": [
+            "d"
+        ],
+        "options": [
+            {
+                "label": "Signo de medusa",
+                "value": "a"
+            },
+            {
+                "label": "Signo S torcido",
+                "value": "b"
+            },
+            {
+                "label": "Signo S de Molen",
+                "value": "c"
+            },
+            {
+                "label": "Signo de la S de Golden",
+                "value": "d"
+            }
+        ],
+        "caption": null
+    },{
+        "title": "Pregunta 5",
+        "question": "¿Cuál es lo signo?",
+        "image": "assets/images/quiz-3/5.jpg",
+        "answers": [
+            "a"
+        ],
+        "options": [
+            {
+                "label": "Joroba de Hampton y Signo de Palla",
+                "value": "a"
+            },
+            {
+                "label": "Signo del hilio oculto",
+                "value": "b"
+            },
+            {
+                "label": "Joroba de Teda",
+                "value": "c"
+            },
+            {
+                "label": "Signo de Dias",
+                "value": "d"
+            }
+        ],
+        "caption": null
+    },{
+        "title": "Pregunta 6",
+        "question": "¿Cuál es lo signo?",
+        "image": "assets/images/quiz-3/6.jpg",
+        "answers": [
+            "b"
+        ],
+        "options": [
+            {
+                "label": "Signo del boomerang",
+                "value": "a"
+            },
+            {
+                "label": "Signo de Luftsichel",
+                "value": "b"
+            },
+            {
+                "label": "Signo de Baaklini",
+                "value": "c"
+            },
+            {
+                "label": "Signo de Peru",
+                "value": "d"
+            }
+        ],
+        "caption": null
+    },{
+        "title": "Pregunta 7",
+        "question": "¿Cuál es lo signo?",
+        "image": "assets/images/quiz-3/7.png",
+        "answers": [
+            "a"
+        ],
+        "options": [
+            {
+                "label": "Signo de las vías del tranvía",
+                "value": "a"
+            },
+            {
+                "label": "Signo del distribuidor",
+                "value": "b"
+            },
+            {
+                "label": "Signo de Figueredo",
+                "value": "c"
+            },
+            {
+                "label": "Señal de carril",
+                "value": "d"
+            }
+        ],
+        "caption": null
+    },{
+        "title": "Pregunta 8",
+        "question": "¿Cuál es lo signo?",
+        "image": "assets/images/quiz-3/8.jpg",
+        "answers": [
+            "b"
+        ],
+        "options": [
+            {
+                "label": "Signo de las vías del tranvía",
+                "value": "a"
+            },
+            {
+                "label": "Signo del broncograma aéreo",
+                "value": "b"
+            },
+            {
+                "label": "Signo del broncograma naval",
+                "value": "c"
+            },
+            {
+                "label": "Signo del broncograma terrestre",
+                "value": "d"
+            }
+        ],
+        "caption": null
+    },{
+        "title": "Pregunta 9",
+        "question": "¿Cuál es lo signo?",
+        "image": "assets/images/quiz-3/9.jpg",
+        "answers": [
+            "a"
+        ],
+        "options": [
+            {
+                "label": "Signo del doble contorno",
+                "value": "a"
+            },
+            {
+                "label": "Señal de doble atrio",
+                "value": "b"
+            },
+            {
+                "label": "Signo del doble dosis",
+                "value": "c"
+            },
+            {
+                "label": "Señal de doble contraste",
+                "value": "d"
+            }
+        ],
+        "caption": null
+    },{
+        "title": "Pregunta 10",
+        "question": "¿Cuál es lo signo?",
+        "image": "assets/images/quiz-3/10.jpg",
+        "answers": [
+            "d"
+        ],
+        "options": [
+            {
+                "label": "Normal",
+                "value": "a"
+            },
+            {
+                "label": "Neumotórax",
+                "value": "b"
+            },
+            {
+                "label": "Neumomediastino",
+                "value": "c"
+            },
+            {
+                "label": "Neumoperitoneo",
+                "value": "d"
+            }
+        ],
+        "caption": null
+    }
+]

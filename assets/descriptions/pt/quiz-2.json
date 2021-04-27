@@ -1,0 +1,261 @@
+[
+    {
+        "title": "Pergunta 1",
+        "question": "Que exame você pediria para pesquisar corpo estranho metálico no esôfago?",
+        "answers": [
+            "c"
+        ],
+        "options": [
+            {
+                "label": "esofagograma",
+                "value": "a"
+            },
+            {
+                "label": "radiografia do tórax em AP",
+                "value": "b"
+            },
+            {
+                "label": "radiografia em perfil",
+                "value": "c"
+            },
+            {
+                "label": "radiografia em decúbito lateral",
+                "value": "d"
+            }
+        ],
+        "caption": null
+    },{
+        "title": "Pergunta 2",
+        "question": "Vértebras de configuração bicôncava são verificadas em:",
+        "answers": [
+            "a"
+        ],
+        "options": [
+            {
+                "label": "anemia falciforme",
+                "value": "a"
+            },
+            {
+                "label": "linfoma",
+                "value": "b"
+            },
+            {
+                "label": "leucemia",
+                "value": "c"
+            },
+            {
+                "label": "artrite",
+                "value": "d"
+            }
+        ],
+        "caption": null
+    },{
+        "title": "Pergunta 3",
+        "question": "Condensação pulmonar com broncogramas aéreo sugere:",
+        "answers": [
+            "d"
+        ],
+        "options": [
+            {
+                "label": "hamartoma",
+                "value": "a"
+            },
+            {
+                "label": "tuberculoma",
+                "value": "b"
+            },
+            {
+                "label": "câncer necrosado",
+                "value": "c"
+            },
+            {
+                "label": "pneumonia",
+                "value": "d"
+            }
+        ],
+        "caption": null
+    },{
+        "title": "Pergunta 4",
+        "question": "O tumor que mais frequentemente se localiza no mediastino médio é o:",
+        "answers": [
+            "d"
+        ],
+        "options": [
+            {
+                "label": "timoma",
+                "value": "a"
+            },
+            {
+                "label": "ganglioneuroma",
+                "value": "b"
+            },
+            {
+                "label": "bócio mergulhante",
+                "value": "c"
+            },
+            {
+                "label": "linfoma",
+                "value": "d"
+            }
+        ],
+        "caption": null
+    },{
+        "title": "Pergunta 5",
+        "question": "O aspecto de pneumonia viral:",
+        "answers": [
+            "a"
+        ],
+        "options": [
+            {
+                "label": "é predominantemente intersticial",
+                "value": "a"
+            },
+            {
+                "label": "tem padrão alveolar",
+                "value": "b"
+            },
+            {
+                "label": "mostra-se escavado",
+                "value": "c"
+            },
+            {
+                "label": "acompanha-se de linfonodomegalia",
+                "value": "d"
+            }
+        ],
+        "caption": null
+    },{
+        "title": "Pergunta 6",
+        "question": "Constituem causas comuns de obstrução brônquica:",
+        "answers": [
+            "a"
+        ],
+        "options": [
+            {
+                "label": "carcinoma brônquico e corpo estranho",
+                "value": "a"
+            },
+            {
+                "label": "carcinoma brônquico e mesotelioma",
+                "value": "b"
+            },
+            {
+                "label": "tumor carcinóide e microlitíase alveolar",
+                "value": "c"
+            },
+            {
+                "label": "carcinoma brônquico e microlitíase alveolar",
+                "value": "d"
+            },
+            {
+                "label": "tuberculose pulmonar e carcinoma bronquioloalveolar",
+                "value": "e"
+            }
+        ],
+        "caption": null
+    },{
+        "title": "Pergunta 7",
+        "question": "No tórax, o tumor carcinóide costuma se apresentar radiologicamente como?",
+        "answers": [
+            "d"
+        ],
+        "options": [
+            {
+                "label": "lesão nodular periférica justapleural",
+                "value": "a"
+            },
+            {
+                "label": "massa mediastinal",
+                "value": "b"
+            },
+            {
+                "label": "nódulo calcificado",
+                "value": "c"
+            },
+            {
+                "label": "lesão polipóide intrabrônquica",
+                "value": "d"
+            }
+        ],
+        "caption": null
+    },{
+        "title": "Pergunta 8",
+        "question": "O neuroblastoma intratorácico é usualmente:",
+        "answers": [
+            "a"
+        ],
+        "options": [
+            {
+                "label": "tumor da goteira paravertebral",
+                "value": "a"
+            },
+            {
+                "label": "tumor do mediastino anterior",
+                "value": "b"
+            },
+            {
+                "label": "extensão intratorácica de tumor vertebral",
+                "value": "c"
+            },
+            {
+                "label": "de origem metastática",
+                "value": "d"
+            }
+        ],
+        "caption": null
+    },{
+        "title": "Pergunta 9",
+        "question": "A presença de calcificação em nódulo pulmonar indica:",
+        "answers": [
+            "d"
+        ],
+        "options": [
+            {
+                "label": "sinal patognomônico de hamartoma",
+                "value": "a"
+            },
+            {
+                "label": "nódulo maligno",
+                "value": "b"
+            },
+            {
+                "label": "carcinoma de células alveolares",
+                "value": "c"
+            },
+            {
+                "label": "muito provavelmente, nódulo benigno",
+                "value": "d"
+            }
+        ],
+        "caption": null
+    },{
+        "title": "Pergunta 10",
+        "question": "O sinal do halo reconhecido na TCAR do tórax, em paciente neutropênico e febril, sugere como principal diagnóstico:",
+        "answers": [
+            "a"
+        ],
+        "options": [
+            {
+                "label": "aspergilose Angioinvasiva",
+                "value": "a"
+            },
+            {
+                "label": "pneumonia por Legionella",
+                "value": "b"
+            },
+            {
+                "label": "pneumonia por herpes simples",
+                "value": "c"
+            },
+            {
+                "label": "tuberculose",
+                "value": "d"
+            },
+            {
+                "label": "infecção por citomegalovírus",
+                "value": "e"
+            }
+        ],
+        "caption": null
+    }
+]

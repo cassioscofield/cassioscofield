@@ -1,0 +1,164 @@
+[
+    {
+        "id": "abcdea",
+        "title": "A",
+        "label": "AIRWAYS - VIAS AÉREAS",
+        "phrase": "",
+        "content": [
+            {
+                "image": [
+                    {
+                        "url": "assets/images/abcde-method/1.png",
+                        "subtitle": ""
+                    },
+                    {
+                        "url": "assets/images/abcde-method/2.png",
+                        "subtitle": ""
+                    }
+                ],
+                "description": ["Comece no topo da linha média e reveja as vias aéreas.",
+                                "Trace uma linha imaginária da traqueia para carina e aos brônquio fontes.",
+                                "Avalie se existe estreitamento ou dilatação brônquica."],
+                "studyKeys": [],
+                "reference": ["Dr Jeremy Jones et al.  Chest x-ray: ABCDE (summary). radiopaedia.org"]
+            }
+        ]
+    },
+    {
+        "id": "abcdeb",
+        "title": "B",
+        "label": "BREATHING - RESPIRAÇÃO",
+        "phrase": "(THE LUNGS AND PLEURAL SPACES / PULMÕES E ESPAÇOS PLEURAIS)",
+        "content": [
+            {
+                "image": [
+                    {
+                        "url": "assets/images/abcde-method/3.png",
+                        "subtitle": ""
+                    },
+                    {
+                        "url": "assets/images/abcde-method/4.png",
+                        "subtitle": ""
+                    },
+                    {
+                        "url": "assets/images/abcde-method/5.png",
+                        "subtitle": ""
+                    },
+                    {
+                        "url": "assets/images/abcde-method/6.png",
+                        "subtitle": ""
+                    }
+                ],
+                "description": ["Procure patologia pulmonar e pleural.",
+                                "Ambos os pulmões devem ser bem expandidos e similares em volume. Você pode contar 10 costelas posteriores bilateralmente? Um pulmão é maior que o outro?",
+                                "Compare as zonas apical, superior, média e inferior, por sua vez eles são simétricos?",
+                                "Existem áreas de densidade aumentada (Consolidações?).",
+                                "Trace as margens laterais do pulmão até os seios costo e cardiofrênicos. Os ângulos costofrenicos são nítidos?",
+                                "Trace as bordas cardíacas que fazem contato com os pulmões. Você pode ver claramente o limite do coração esquerdo e direito?"],
+                "studyKeys": [],
+                "reference": ["Dr Jeremy Jones et al.  Chest x-ray: ABCDE (summary). radiopaedia.org"]
+            }
+        ]
+    },
+    {
+        "id": "abcdec",
+        "title": "C",
+        "label": "CIRCULATION - CIRCULAÇÃO",
+        "phrase": "(CARDIOMEDIASTINAL CONTOUR / CONTORNO CARDIOMEDIASTINAL)",
+        "content": [
+            {
+                "image": [
+                    {
+                        "url": "assets/images/abcde-method/7.png",
+                        "subtitle": ""
+                    },
+                    {
+                        "url": "assets/images/abcde-method/8.png",
+                        "subtitle": ""
+                    },
+                    {
+                        "url": "assets/images/abcde-method/9.png",
+                        "subtitle": ""
+                    },
+                    {
+                        "url": "assets/images/abcde-method/10.png",
+                        "subtitle": ""
+                    },
+                    {
+                        "url": "assets/images/abcde-method/11.png",
+                        "subtitle": ""
+                    }
+                ],
+                "description": ["Olhe para o coração e os vasos (sistêmicos e pulmonares).",
+                                "Verificar a posição cardíaca.",
+                                "Avaliar o tamanho cardíaco (índice cardiotorácico <50%).",
+                                "Verifique a posição e o tamanho do arco aórtico (Aorta proeminente?, ectasiada? Aneurismática?).",
+                                "Verifique a largura do mediastino superior (Massas? Aneurisma?)",
+                                "Olhe para os vasos hiliares (hipertensão pulmonar?). Você pode vê-los claramente em ambos os lados?"],
+                "studyKeys": [],
+                "reference": ["Dr Jeremy Jones et al.  Chest x-ray: ABCDE (summary). radiopaedia.org"]
+            }
+        ]
+    },
+    {
+        "id": "abcded",
+        "title": "D",
+        "label": "DISABILITY - INCAPACIDADES",
+        "phrase": "(BONES - ESPECIALLY FRACTURES / AVALIAÇÃO DE OSSOS E FRATURAS)",
+        "content": [
+            {
+                "image": [
+                    {
+                        "url": "assets/images/abcde-method/12.png",
+                        "subtitle": "Contagem de arcos costais posteriores, em tórax normal."
+                    },
+                    {
+                        "url": "assets/images/abcde-method/13.png",
+                        "subtitle": "Fraturas de arcos costais à esquerda."
+                    },
+                    {
+                        "url": "assets/images/abcde-method/14.png",
+                        "subtitle": "Fratura de clavículas"
+                    }
+                ],
+                "description": ["Verifique se há alguma patologia óssea (fratura ou metástase).",
+                                "Traçar ao longo de cada costela posterior (horizontal) até sua porção anterior se existem fraturas ou anormalidades.",
+                                "Verifique as clavículas e os ombros.<br><li>Você pode identificar o córtex dos ossos?",
+                                "Verifique os corpos vertebrais<br><li>Todos eles são retangulares e de altura semelhante?<br><li>Você pode ver 2 pedículos por corpo vertebral?<br><li>Existem espaços discais normais?"],
+                "studyKeys": [],
+                "reference": ["Dr Jeremy Jones et al.  Chest x-ray: ABCDE (summary). radiopaedia.org"]
+            }
+        ]
+    },
+    {
+        "id": "abcdee",
+        "title": "E",
+        "label": "EXPOSURE - EXPOSIÇÃO",
+        "phrase": "",
+        "content": [
+            {
+                "image": [
+                    {
+                        "url": "assets/images/abcde-method/15.png",
+                        "subtitle": "Raio-X de tórax normal"
+                    },
+                    {
+                        "url": "assets/images/abcde-method/16.png",
+                        "subtitle": "Pneumoperitônio."
+                    },
+                    {
+                        "url": "assets/images/abcde-method/17.png",
+                        "subtitle": "Mastectomia prévia à esquerda."
+                    }
+                ],
+                "description": ["Todo o resto, incluindo a parte superior do abdômen e os tecidos moles.",
+                                "Existe gás livre sob os diafragmas?",
+                                "Existe hérnia de hiato?",
+                                "Existe alguma sombra mamária ausente? Ex: Mastectomia prévia?",
+                                "Avaliação do tórax em todas as demais partes ainda não avaliadas."],
+                "studyKeys": [],
+                "reference": ["Dr Jeremy Jones et al.  Chest x-ray: ABCDE (summary). radiopaedia.org"]
+            }
+        ]
+    }
+]

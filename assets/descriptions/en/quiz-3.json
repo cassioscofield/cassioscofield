@@ -1,0 +1,263 @@
+[
+    {
+        "title": "Question 1",
+        "question": "What is the sign?",
+        "image": "assets/images/quiz-3/1.jpg",
+        "answers": [
+            "c"
+        ],
+        "options": [
+            {
+                "label": "Meniscus sign",
+                "value": "a"
+            },
+            {
+                "label": "Mill sign",
+                "value": "b"
+            },
+            {
+                "label": "Scimitar Sign",
+                "value": "c"
+            },
+            {
+                "label": "Aerial Crescent Sign",
+                "value": "d"
+            }
+        ],
+        "caption": null
+    },{
+        "title": "Question 2",
+        "question": "What is the sign?",
+        "image": "assets/images/quiz-3/2.jpg",
+        "answers": [
+            "a"
+        ],
+        "options": [
+            {
+                "label": "1-2-3 sign (sarcoidosis lymph node disease in the regions right paratracheal tube and in the right pulmonary hilum and left)",
+                "value": "a"
+            },
+            {
+                "label": "Hole sign",
+                "value": "b"
+            },
+            {
+                "label": "Silhouette sign",
+                "value": "c"
+            },
+            {
+                "label": "Aerial Crescent Sign",
+                "value": "d"
+            }
+        ],
+        "caption": null
+    },{
+        "title": "Question 3",
+        "question": "What is the sign?",
+        "image": "assets/images/quiz-3/3.png",
+        "answers": [
+            "b"
+        ],
+        "options": [
+            {
+                "label": "Jellyfish sign",
+                "value": "a"
+            },
+            {
+                "label": "Continuous diaphragm sign",
+                "value": "b"
+            },
+            {
+                "label": "Increasing diaphragm signa",
+                "value": "c"
+            },
+            {
+                "label": "Straight diaphragm sign",
+                "value": "d"
+            }
+        ],
+        "caption": null
+    },{
+        "title": "Question 4",
+        "question": "What is the sign?",
+        "image": "assets/images/quiz-3/4.png",
+        "answers": [
+            "d"
+        ],
+        "options": [
+            {
+                "label": "Jellyfish sign",
+                "value": "a"
+            },
+            {
+                "label": "Crooked S sign",
+                "value": "b"
+            },
+            {
+                "label": "Molen S sign",
+                "value": "c"
+            },
+            {
+                "label": "Golden S-sign",
+                "value": "d"
+            }
+        ],
+        "caption": null
+    },{
+        "title": "Question 5",
+        "question": "What is the sign?",
+        "image": "assets/images/quiz-3/5.jpg",
+        "answers": [
+            "a"
+        ],
+        "options": [
+            {
+                "label": "Hampton Hump and Palla Sign",
+                "value": "a"
+            },
+            {
+                "label": "Sign of the hidden hilio",
+                "value": "b"
+            },
+            {
+                "label": "Hump of Teda",
+                "value": "c"
+            },
+            {
+                "label": "Dias Sign",
+                "value": "d"
+            }
+        ],
+        "caption": null
+    },{
+        "title": "Question 6",
+        "question": "What is the sign?",
+        "image": "assets/images/quiz-3/6.jpg",
+        "answers": [
+            "b"
+        ],
+        "options": [
+            {
+                "label": "Boomerang signal",
+                "value": "a"
+            },
+            {
+                "label": "Luftsichel sign",
+                "value": "b"
+            },
+            {
+                "label": "Baaklini sign",
+                "value": "c"
+            },
+            {
+                "label": "Sign of Peru",
+                "value": "d"
+            }
+        ],
+        "caption": null
+    },{
+        "title": "Question 7",
+        "question": "What is the sign?",
+        "image": "assets/images/quiz-3/7.png",
+        "answers": [
+            "a"
+        ],
+        "options": [
+            {
+                "label": "Tram-track signal",
+                "value": "a"
+            },
+            {
+                "label": "Sign of the dealer",
+                "value": "b"
+            },
+            {
+                "label": "Figueredo sign",
+                "value": "c"
+            },
+            {
+                "label": "Rail signal",
+                "value": "d"
+            }
+        ],
+        "caption": null
+    },{
+        "title": "Question 8",
+        "question": "What is the sign?",
+        "image": "assets/images/quiz-3/8.jpg",
+        "answers": [
+            "b"
+        ],
+        "options": [
+            {
+                "label": "Train track signal",
+                "value": "a"
+            },
+            {
+                "label": "Air bronchogram signal",
+                "value": "b"
+            },
+            {
+                "label": "Naval bronchogram signal",
+                "value": "c"
+            },
+            {
+                "label": "Terrestrial bronchogram signal",
+                "value": "d"
+            }
+        ],
+        "caption": null
+    },{
+        "title": "Question 9",
+        "question": "What is the sign?",
+        "image": "assets/images/quiz-3/9.jpg",
+        "answers": [
+            "a"
+        ],
+        "options": [
+            {
+                "label": "Double density sign",
+                "value": "a"
+            },
+            {
+                "label": "Double atrium sign",
+                "value": "b"
+            },
+            {
+                "label": "Double dose signal",
+                "value": "c"
+            },
+            {
+                "label": "Double contrast signal",
+                "value": "d"
+            }
+        ],
+        "caption": null
+    },{
+        "title": "Question 10",
+        "question": "What is the sign?",
+        "image": "assets/images/quiz-3/10.jpg",
+        "answers": [
+            "d"
+        ],
+        "options": [
+            {
+                "label": "Normal",
+                "value": "a"
+            },
+            {
+                "label": "Pneumothorax",
+                "value": "b"
+            },
+            {
+                "label": "Pneumomediastinum",
+                "value": "c"
+            },
+            {
+                "label": "Pneumoperitoneum",
+                "value": "d"
+            }
+        ],
+        "caption": null
+    }
+]

@@ -1,0 +1,20 @@
+[{
+    "id": "srcxr",
+    "title": "CHEST X-Ray",
+    "content": [
+        {
+            "title": "Analyze",
+            "report": [
+                "Soft parts without significant changes.",
+                "Conserved bone structure.",
+                "Free pleura and pleural surface.",
+                "Lung without parenchymal lesions, consolidations or evident masse.",
+                "Hilos without abnormalities.",
+                "Anatomically configured mediastinum.",
+                "Cardiothoracic index within the normal range.",
+                "<b>Impression:</b> Chest X-Ray at normal limits.",
+                "<br><i>*FAMEMA-ECCLISSATO Methodology</i>"
+            ]
+        }
+    ]
+}]

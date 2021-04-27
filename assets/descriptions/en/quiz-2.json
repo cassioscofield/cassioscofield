@@ -1,0 +1,261 @@
+[
+    {
+        "title": "Question 1",
+        "question": "What exam would you ask to search for a metallic foreign body in the esophagus?",
+        "answers": [
+            "c"
+        ],
+        "options": [
+            {
+                "label": "esophagogram",
+                "value": "a"
+            },
+            {
+                "label": "chest X-ray in AP",
+                "value": "b"
+            },
+            {
+                "label": "profile radiography",
+                "value": "c"
+            },
+            {
+                "label": "radiography in lateral decubitus",
+                "value": "d"
+            }
+        ],
+        "caption": null
+    },{
+        "title": "Question 2",
+        "question": "Biconcave configuration vertebrae are checked at:",
+        "answers": [
+            "a"
+        ],
+        "options": [
+            {
+                "label": "sickle cell anemia",
+                "value": "a"
+            },
+            {
+                "label": "lymphoma",
+                "value": "b"
+            },
+            {
+                "label": "leukemia",
+                "value": "c"
+            },
+            {
+                "label": "arthritis",
+                "value": "d"
+            }
+        ],
+        "caption": null
+    },{
+        "title": "Question 3",
+        "question": "Pulmonary condensation with air bronchograms suggests:",
+        "answers": [
+            "d"
+        ],
+        "options": [
+            {
+                "label": "hamartoma",
+                "value": "a"
+            },
+            {
+                "label": "tuberculoma",
+                "value": "b"
+            },
+            {
+                "label": "necrotic cancer",
+                "value": "c"
+            },
+            {
+                "label": "pneumonia",
+                "value": "d"
+            }
+        ],
+        "caption": null
+    },{
+        "title": "Question 4",
+        "question": "The tumor that most often is located in the middle mediastinum is:",
+        "answers": [
+            "d"
+        ],
+        "options": [
+            {
+                "label": "thymoma",
+                "value": "a"
+            },
+            {
+                "label": "ganglioneuroma",
+                "value": "b"
+            },
+            {
+                "label": "diving goiter",
+                "value": "c"
+            },
+            {
+                "label": "lymphoma",
+                "value": "d"
+            }
+        ],
+        "caption": null
+    },{
+        "title": "Question 5",
+        "question": "The aspect of viral pneumonia:",
+        "answers": [
+            "a"
+        ],
+        "options": [
+            {
+                "label": "is predominantly interstitial",
+                "value": "a"
+            },
+            {
+                "label": "has alveolar pattern",
+                "value": "b"
+            },
+            {
+                "label": "is excavated",
+                "value": "c"
+            },
+            {
+                "label": "is accompanied by lymph node enlargement",
+                "value": "d"
+            }
+        ],
+        "caption": null
+    },{
+        "title": "Question 6",
+        "question": "Common causes of bronchial obstruction are:",
+        "answers": [
+            "a"
+        ],
+        "options": [
+            {
+                "label": "bronchial carcinoma and foreign body",
+                "value": "a"
+            },
+            {
+                "label": "bronchial carcinoma and mesothelioma",
+                "value": "b"
+            },
+            {
+                "label": "carcinoid tumor and alveolar microlithiasis",
+                "value": "c"
+            },
+            {
+                "label": "bronchial carcinoma and alveolar microlithiasis",
+                "value": "d"
+            },
+            {
+                "label": "pulmonary tuberculosis and carcinoma bronchioloalveolar",
+                "value": "e"
+            }
+        ],
+        "caption": null
+    },{
+        "title": "Question 7",
+        "question": "In the chest, the carcinoid tumor how do you present yourself radiologically?",
+        "answers": [
+            "d"
+        ],
+        "options": [
+            {
+                "label": "juxtapleural peripheral nodular lesion",
+                "value": "a"
+            },
+            {
+                "label": "mediastinal mass",
+                "value": "b"
+            },
+            {
+                "label": "calcified nodule",
+                "value": "c"
+            },
+            {
+                "label": "intrabronchial polypoid lesion",
+                "value": "d"
+            }
+        ],
+        "caption": null
+    },{
+        "title": "Question 8",
+        "question": "Intrathoracic neuroblastoma is usually:",
+        "answers": [
+            "a"
+        ],
+        "options": [
+            {
+                "label": "tumor of the paravertebral groove",
+                "value": "a"
+            },
+            {
+                "label": "anterior mediastinal tumor",
+                "value": "b"
+            },
+            {
+                "label": "intrathoracic extension of vertebral tumor",
+                "value": "c"
+            },
+            {
+                "label": "of metastatic origin",
+                "value": "d"
+            }
+        ],
+        "caption": null
+    },{
+        "title": "Question 9",
+        "question": "The presence of calcification in the pulmonary nodule indicates:",
+        "answers": [
+            "d"
+        ],
+        "options": [
+            {
+                "label": "pathognomonic sign of hamartoma",
+                "value": "a"
+            },
+            {
+                "label": "malignant nodule",
+                "value": "b"
+            },
+            {
+                "label": "alveolar cell carcinoma",
+                "value": "c"
+            },
+            {
+                "label": "most likely, benign nodule",
+                "value": "d"
+            }
+        ],
+        "caption": null
+    },{
+        "title": "Question 10",
+        "question": "The halo sign recognized in the HRCT scan of the chest, in a neutropenic and febrile patient, suggests as the main diagnosis:",
+        "answers": [
+            "a"
+        ],
+        "options": [
+            {
+                "label": "angioinvasive aspergillosis",
+                "value": "a"
+            },
+            {
+                "label": "legionella pneumonia",
+                "value": "b"
+            },
+            {
+                "label": "herpes simplex pneumonia",
+                "value": "c"
+            },
+            {
+                "label": "tuberculosis",
+                "value": "d"
+            },
+            {
+                "label": "cytomegalovirus infection",
+                "value": "e"
+            }
+        ],
+        "caption": null
+    }
+]

@@ -1,0 +1,312 @@
+[{
+    "id": "tomografia_arcabouco",
+    "title": "Arcabouço Torácico",
+    "content": [
+        {
+            "title": "",
+            "image": [
+                {
+                    "url": "assets/images/tomography/arcabouco_1.jpg",
+                    "subtitle": ""
+                },
+                {
+                    "url": "assets/images/tomography/arcabouco_2.jpg",
+                    "subtitle": "Reconstruções tomográficas em 3D no plano sagital, evidenciando a escapula, costelas e esterno."
+                }
+            ],
+            "description": [],
+            "studyKeys": [],
+            "reference": []
+        },
+        {
+            "title": "",
+            "image": [
+                {
+                    "url": "assets/images/tomography/arcabouco_3.jpg",
+                    "subtitle": ""
+                },
+                {
+                    "url": "assets/images/tomography/arcabouco_4.jpg",
+                    "subtitle": "Reconstruções tomográficas em 3D evidenciando o arcabouço ósseo anterior."
+                }
+            ],
+            "description": [],
+            "studyKeys": [],
+            "reference": []
+        },
+        {
+            "title": "",
+            "image": [
+                {
+                    "url": "assets/images/tomography/arcabouco_5.jpg",
+                    "subtitle": ""
+                },
+                {
+                    "url": "assets/images/tomography/arcabouco_6.jpg",
+                    "subtitle": "Reconstruções tomográficas em 3D  no plano coronal, evidenciando o arcabouço ósseo posterior."
+                }
+            ],
+            "description": [],
+            "studyKeys": [],
+            "reference": []
+        }
+    ]
+},{
+    "id": "tomografia_coracao",
+    "title": "Coração e grandes vasos",
+    "content": [
+        {
+            "title": "",
+            "image": [
+                {
+                    "url": "assets/images/tomography/coracao_vasos_original.jpg", 
+                    "subtitle": ""
+                },
+                {
+                    "url": "assets/images/tomography/coracao_vasos.jpg", 
+                    "subtitle": "Reconstruções tomográficas em 3D no plano coronal, mostrando: Veia cava superior (seta verde), artérias e veias pulmonares (setas amarelas), tronco braquiocefálico arterial (seta vermelha), artéria carótida comum esquerda (seta azul), artéria subclávia esquerda (seta branca), aorta ascendente (seta preta), inicio da aorta descendente (seta roxa), transição da aorta toracoabdominal (seta rosa), ramo esplênico do tronco celíaco (seta cinza), artéria renal direita (seta vermelho escura) e artéria mesentérica superior (seta laranja)."
+                }
+            ],
+            "description": [],
+            "studyKeys": [],
+            "reference": []
+        },
+        {
+            "title": "",
+            "image": [
+                {
+                    "url": "assets/images/tomography/coracao_coracao.jpg", 
+                    "subtitle": "Reconstrução tomográfica em 3D mostrando a veia cava superior (VCS), aorta ascendente (AO), átrio direito (AD), ventrículo direito (VD), ventrículo esquerdo (VE) e veia cava inferior (VCI)."
+                }
+            ],
+            "description": [],
+            "studyKeys": [],
+            "reference": []
+        },
+        {
+            "title": "",
+            "image": [
+                {
+                    "url": "assets/images/tomography/coracao_aorta_ascendente.jpg", 
+                    "subtitle": "Corte coronal mostrando a aorta ascendente com calibre normal. (Referência calibre normal até 41 mm)."
+                },
+                {
+                    "url": "assets/images/tomography/coracao_aorta_descendente.jpg", 
+                    "subtitle": "Corte sagital mostrando a aorta descendente com calibre normal. (Referência calibre normal até 30mm)."
+                }
+            ],
+            "description": [],
+            "studyKeys": [],
+            "reference": ["JACC Cardiovasc Imaging. 2008 Mar; 1(2):200-9. doi: 10.1016 / j.jcmg.2007.11.005."]
+        },
+        {
+            "title": "",
+            "image": [
+                {
+                    "url": "assets/images/tomography/coracao_aorta_e_tronco_da_art_pulmonar.jpg", 
+                    "subtitle": ""
+                },
+                {
+                    "url": "assets/images/tomography/coracao_tronco_da_arteria_pulmonar.jpg", 
+                    "subtitle": "Cortes tomográficos no plano axial, com evidencia de Ectasia do tronco da artéria pulmonar. A maioria das referências das literárias considera normal um diâmetro de até 29 mm para homens e até 27mm para mulheres."
+                }
+            ],
+            "description": [],
+            "studyKeys": [],
+            "reference": ["Circ Cardiovasc Imaging. 2012 Jan ;5(1):147-54. doi: 10.1161 / CIRCIMAGING. 111. 968610. Epub 2011 Dec 16."]
+        },
+        {
+            "title": "",
+            "image": [
+                {
+                    "url": "assets/images/tomography/coracao_atrio_esquerdo_e_veias_pulmonares.jpg", 
+                    "subtitle": "Corte tomográfico no plano axial mostrando as veias pulmonares (setas vermelhas) com entrada para o átrio esquerdo (bola azul). Aorta descendente (bola amarela) com placas ateromatosas (seta verde)."
+                }
+            ],
+            "description": [],
+            "studyKeys": [],
+            "reference": []
+        },
+        {
+            "title": "",
+            "image": [
+                {
+                    "url": "assets/images/tomography/coracao_veia_braquiocefalica_direita_e_outras.jpg", 
+                    "subtitle": "Corte tomográfico no plano axial mostrando as veia braquiocefálica direita (cabeça de seta verde), tronco braquiocefálico arterial  (cabeça de seta vermelha), artéria carótida comum esquerda (cabeça de seta azul) e artéria subclávia esquerda (cabeça de seta amarela)."
+                }
+            ],
+            "description": [],
+            "studyKeys": [],
+            "reference": []
+        }
+    ]
+},{
+    "id": "tomografia_parenquima",
+    "title": "Parenquima pulmonar e vias aéreas",
+    "content": [
+        {
+            "title": "",
+            "image": [
+                {
+                    "url": "assets/images/tomography/parenquima_janela_de_parenquima.jpg", 
+                    "subtitle": "Corte tomográfico axial do parênquima pulmonar. "
+                }
+            ],
+            "description": [],
+            "studyKeys": [],
+            "reference": []
+        },
+        {
+            "title": "",
+            "image": [
+                {
+                    "url": "assets/images/tomography/parenquima_fissura_obliqua_e_horizontal_direita.jpg", 
+                    "subtitle": "Corte sagital do pulmão direito, com evidencia da fissura horizontal (seta vermelha) e fissura obliqua direita (seta azul)."
+                },
+                {
+                    "url": "assets/images/tomography/parenquima_fissura_obliqua_esquerda.jpg", 
+                    "subtitle": "Corte sagital do pulmão esquerdo, com evidencia da fissura obliqua esquerda (seta azul)."
+                }
+            ],
+            "description": [],
+            "studyKeys": [],
+            "reference": []
+        },
+        {
+            "title": "",
+            "image": [
+                {
+                    "url": "assets/images/tomography/parenquima_traqueia.jpg", 
+                    "subtitle": "Corte coronal mostrando a bifurcação da traqueia em brônquio fonte direito e esquerdo. "
+                }
+            ],
+            "description": [],
+            "studyKeys": [],
+            "reference": []
+        }
+    ]
+},{
+    "id": "tomografia_mediastino",
+    "title": "Mediastino e partes moles",
+    "content": [
+        {
+            "title": "",
+            "image": [
+                {
+                    "url": "assets/images/tomography/mediatino_janela_de_mediastino.jpg", 
+                    "subtitle": "Corte axial em janela de mediastino."
+                }
+            ],
+            "description": [],
+            "studyKeys": [],
+            "reference": []
+        },
+        {
+            "title": "",
+            "image": [
+                {
+                    "url": "assets/images/tomography/mediastino_2.jpg", 
+                    "subtitle": "Reconstrução tomográfica em 3D com evidência da musculatura torácica da parede anterosuperior."
+                }
+            ],
+            "description": [],
+            "studyKeys": [],
+            "reference": []
+        },
+        {
+            "title": "",
+            "image": [
+                {
+                    "url": "assets/images/tomography/mediatino_tireoide.jpg", 
+                    "subtitle": "Corte axial, evidenciando o lobo direito da tireoide (seta vermelha) e lobo esquerdo (seta azul)."
+                }
+            ],
+            "description": [],
+            "studyKeys": [],
+            "reference": []
+        },
+        {
+            "title": "",
+            "image": [
+
+                {
+                    "url": "assets/images/tomography/mediatino_seios_costofrenicos_sem_pintura.jpg", 
+                    "subtitle": ""
+                },
+                {
+                    "url": "assets/images/tomography/mediatino_seios_costofrenicos.jpg", 
+                    "subtitle": "Corte coronal na janela de mediastino mostrando os seios costofrênicos (marcação azul) livres e partes moles sem alterações significativas."
+                }
+            ],
+            "description": [],
+            "studyKeys": [],
+            "reference": []
+        },
+        {
+            "title": "",
+            "image": [
+                {
+                    "url": "assets/images/tomography/mediatino_traqueia_e_esofago.jpg", 
+                    "subtitle": "Corte axial mostrando a traqueia (seta branca) e o esôfago (seta azul)."
+                }
+            ],
+            "description": [],
+            "studyKeys": [],
+            "reference": []
+        }
+    ]
+},{
+    "id": "covid",
+    "title": "Covid 19",
+    "content": [
+        {
+            "title": "",
+            "image": [
+                {
+                    "url": "assets/images/tomography/covid_1.jpg", 
+                    "subtitle": "Caso 1 - Homem, 46 anos, com dispneia. "
+                }
+            ],
+            "findings": ["Áreas de opacidade em vidro fosco e consolidações bilaterais, peribronquiovasculares e periféricas, além de espessamento de septos interlobulares. "],
+            "studyKeys": [],
+            "reference": []
+        },
+        {
+            "title": "",
+            "image": [
+                {
+                    "url": "assets/images/tomography/covid_2.jpg", 
+                    "subtitle": "Caso 2 - Homem, 32 anos, com quadro gripal"
+                }
+            ],
+            "findings": ["Áreas de opacidade em vidro fosco bilaterais, peribronquiovasculares e predominante periféricas."],
+            "studyKeys": [],
+            "reference": []
+        },
+        {
+            "title": "",
+            "image": [
+                {
+                    "url": "assets/images/tomography/covid_3.jpg", 
+                    "subtitle": "Caso 3 - Homem, 65 anos, com quadro gripal"
+                }
+            ],
+            "findings": ["Áreas de opacidade em vidro fosco bilaterais, predominante periféricas à esquerda."],
+            "studyKeys": [],
+            "reference": []
+        },
+        {
+            "title": "",
+            "image": [
+
+                {
+                    "url": "assets/images/tomography/covid_4.jpg", 
+                    "subtitle": "Caso 4 - Homem, 63 anos, com dispneia, DPOC de base. "
+                }
+            ],
+            "findings": ["Espessamentos de septos interlobulares e opacidades em vidro fosco bilaterais, configurando padrão de pavimentação em mosaico. Há ainda broncopatia e derrame pleural bilateral"],
+            "studyKeys": [],
+            "reference": []
+        }
+    ]
+}]
