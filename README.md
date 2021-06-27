@@ -24,4 +24,4 @@ Hi, I'm Cássio Scofield, full-stack mobile developer and software architect, cu
 
 #### Profile
 
-[Linkedin](https://www.linkedin.com/in/cassioscofield/ "Linkedin Profile")  / [GitHub](https://github.com/cassioscofield/ "Linkedin Profile") / [Medium](https://cassioscofield.medium.com/ "Medium Page")
+[Linkedin](https://www.linkedin.com/in/cassioscofield/ "Linkedin Profile")  | [GitHub](https://github.com/cassioscofield/ "Linkedin Profile") | [Medium](https://cassioscofield.medium.com/ "Medium Profile") | [Facebook](https://www.facebook.com/cassioscofield "Facebook Profile")
