@@ -1,4 +1,4 @@
-#### Hi, I'm Cássio Scofield, full-stack mobile developer, currently working as tech lead for PEBMED
+##### Hi, I'm Cássio Scofield, full-stack mobile developer, currently working as tech lead for PEBMED
 
 #### Languages  
 
@@ -18,3 +18,10 @@
 <img align="left" alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Jenkins" width="40px" src="https://img.icons8.com/color/50/000000/jenkins.png" />
+
+<br/><br/>
+  
+
+#### Profile
+
+[Linkedin](https://www.linkedin.com/in/cassioscofield/ "Linkedin Profile")  / [GitHub](https://github.com/cassioscofield/ "Linkedin Profile") / [Medium](https://cassioscofield.medium.com/ "Medium Page")
