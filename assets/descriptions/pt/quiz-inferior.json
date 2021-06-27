@@ -1,0 +1,361 @@
+[{
+	"category": "inferior",
+	"title": "Pergunta 1",
+	"question": "Os membros inferiors são conectados ao tronco pelo:",
+	"answers": ["d"],
+	"options": [{
+		"label": "Vértebras lombares e Fêmur",
+		"value": "a"
+	}, {
+		"label": "Fêmur e crista ilíaca",
+		"value": "b"
+	}, {
+		"label": "Articulação acetabular",
+		"value": "c"
+	}, {
+		"label": "Cíngulo do membro inferior",
+		"value": "d"
+	}]
+}, {
+	"category": "inferior",
+	"title": "Pergunta 2",
+	"question": "Os membros inferiores são dividios em 04 partes, sendo elas:",
+	"answers": ["b"],
+	"options": [{
+		"label": "Quadril, fêmur, tíbia e ossos tarsais",
+		"value": "a"
+	}, {
+		"label": "Quadril, coxa, perna e pé",
+		"value": "b"
+	}, {
+		"label": "Bacia, coxa, perna e pé",
+		"value": "c"
+	}, {
+		"label": "Bacia, fêmur, tíbia e pé",
+		"value": "d"
+	}]
+}, {
+	"category": "inferior",
+	"title": "Pergunta 3",
+	"question": "O cíngulo do membro inferior é formado por:",
+	"answers": ["d"],
+	"options": [{
+		"label": "Pelo fêmur e pela sínfise púbica",
+		"value": "a"
+	}, {
+		"label": "Pelo fêmur e a pelve óssea",
+		"value": "b"
+	}, {
+		"label": "02 ossos do quadril (únidos na sínfise púbica) e o cóccix",
+		"value": "c"
+	}, {
+		"label": "02 ossos do quadril (únidos na sínfise púbica) e o sacro",
+		"value": "d"
+	}]
+}, {
+	"category": "inferior",
+	"title": "Pergunta 4",
+	"question": "O osso do quadril é formado pela fusão dos ossos:",
+	"answers": ["b"],
+	"options": [{
+		"label": "Pelve óssea, acetabulo e púbis",
+		"value": "a"
+	}, {
+		"label": "Ílio, ísquio e púbis",
+		"value": "b"
+	}, {
+		"label": "Ilío, acetabulo e púbis",
+		"value": "c"
+	}, {
+		"label": "Pelve óssea, sínfise púbica e acetabulo",
+		"value": "d"
+	}]
+}, {
+	"category": "inferior",
+	"title": "Pergunta 5",
+	"question": "O femur se articula em qual estrutura do quadril?",
+	"answers": ["c"],
+	"options": [{
+		"label": "No púbis",
+		"value": "a"
+	}, {
+		"label": "No Ilío",
+		"value": "b"
+	}, {
+		"label": "No acetabulo",
+		"value": "c"
+	}, {
+		"label": "No ísquio",
+		"value": "d"
+	}]
+}, {
+	"category": "inferior",
+	"title": "Pergunta 6",
+	"question": "Das estruturas a seguir, qual não está presente no osso femur?",
+	"answers": ["a"],
+	"options": [{
+		"label": "Lâminas robustas",
+		"value": "a"
+	}, {
+		"label": "Trocanter menor",
+		"value": "b"
+	}, {
+		"label": "Linha intertrocantérica",
+		"value": "c"
+	}, {
+		"label": "Linha pectínea",
+		"value": "d"
+	}]
+}, {
+	"category": "inferior",
+	"title": "Pergunta 7",
+	"question": "Quais são os ossos que compõem a perna?",
+	"answers": ["c"],
+	"options": [{
+		"label": "Fêmur e Fíbula",
+		"value": "a"
+	}, {
+		"label": "Fêmur e Tíbia",
+		"value": "b"
+	}, {
+		"label": "Tíbia e fíbula",
+		"value": "c"
+	}, {
+		"label": "Tíbia e Acetabulo",
+		"value": "d"
+	}]
+}, {
+	"category": "inferior",
+	"title": "Pergunta 8",
+	"question": "Qual a localização do osso tíbia?",
+	"answers": ["d"],
+	"options": [{
+		"label": "Localiza-se na porção anterior e lateral da perna",
+		"value": "a"
+	}, {
+		"label": "Localiza-se na porção posterior e medial da perna",
+		"value": "b"
+	}, {
+		"label": "Localiza-se na porção posterior e lateral da perna",
+		"value": "c"
+	}, {
+		"label": "Localiza-se na porção anterior e medial da perna",
+		"value": "d"
+	}]
+}, {
+	"category": "inferior",
+	"title": "Pergunta 9",
+	"question": "Qual a localização do osso fibula?",
+	"answers": ["a"],
+	"options": [{
+		"label": "Localiza-se na porção posterior e lateral da perna",
+		"value": "a"
+	}, {
+		"label": "Localiza-se na porção anterior e lateral da perna",
+		"value": "b"
+	}, {
+		"label": "Localiza-se na porção posterior e medial da perna",
+		"value": "c"
+	}, {
+		"label": "Localiza-se na porção anterior e medial da perna",
+		"value": "d"
+	}]
+}, {
+	"category": "inferior",
+	"title": "Pergunta 10",
+	"question": "Os ossos do pé compreendem:",
+	"answers": ["b"],
+	"options": [{
+		"label": "Carpo, metacarpo e falanges",
+		"value": "a"
+	}, {
+		"label": "Tarso, metatarso e falanges",
+		"value": "b"
+	}, {
+		"label": "Tarso, metacarpo e falanges",
+		"value": "c"
+	}, {
+		"label": "Carpo, metatarso e falanges",
+		"value": "d"
+	}]
+}, {
+	"category": "inferior",
+	"title": "Pergunta 11",
+	"question": "Os ossos tarsais constituem em sete ossos, sendo eles:",
+	"answers": ["d"],
+	"options": [{
+		"label": "Tarso, calcâneo, cubóide, navicular, tálus e 02 ossos cuneiformes",
+		"value": "a"
+	}, {
+		"label": "Calcâneo, navicular, cubóide e 04 ossos cuneiformes",
+		"value": "b"
+	}, {
+		"label": "Tarso, metatarso, tálus, cubóide e 03 ossos cuneiformes",
+		"value": "c"
+	}, {
+		"label": "Calcâneo, tálus, cubóide, navicular e 03 ossos cuneiformes",
+		"value": "d"
+	}]
+}, {
+	"category": "inferior",
+	"title": "Pergunta 12",
+	"question": "Qual o maior e mais resistente osso do pé?",
+	"answers": ["c"],
+	"options": [{
+		"label": "Navicular",
+		"value": "a"
+	}, {
+		"label": "Tálus",
+		"value": "b"
+	}, {
+		"label": "Calcâneo",
+		"value": "c"
+	}, {
+		"label": "Cubóide",
+		"value": "d"
+	}]
+}, {
+	"category": "inferior",
+	"title": "Pergunta 13",
+	"question": "O primeiro dedo do pé recebe o nome de:",
+	"answers": ["b"],
+	"options": [{
+		"label": "Hálax",
+		"value": "a"
+	}, {
+		"label": "Hálux",
+		"value": "b"
+	}, {
+		"label": "Hálix",
+		"value": "c"
+	}, {
+		"label": "Hálox",
+		"value": "d"
+	}]
+}, {
+	"category": "inferior",
+	"title": "Pergunta 14",
+	"question": "Quantas falanges compõem o pé?",
+	"answers": ["c"],
+	"options": [{
+		"label": "10 falanges",
+		"value": "a"
+	}, {
+		"label": "12 falanges",
+		"value": "b"
+	}, {
+		"label": "14 falanges",
+		"value": "c"
+	}, {
+		"label": "16 falanges",
+		"value": "d"
+	}]
+}, {
+	"category": "inferior",
+	"title": "Pergunta 15",
+	"question": "Das fáscias a seguir, qual não pertence aos membros inferiores?",
+	"answers": ["d"],
+	"options": [{
+		"label": "Fáscia lata",
+		"value": "a"
+	}, {
+		"label": "Fáscia profunda",
+		"value": "b"
+	}, {
+		"label": "Fáscia crural",
+		"value": "c"
+	}, {
+		"label": "Fáscia deltoidea",
+		"value": "d"
+	}]
+}, {
+	"category": "inferior",
+	"title": "Pergunta 16",
+	"question": "Quais são as veias superficiais principais dos membros inferiores?",
+	"answers": ["b"],
+	"options": [{
+		"label": "Veia femoral e veias digitais dorsais",
+		"value": "a"
+	}, {
+		"label": "Veia safena magna e veia safena parva",
+		"value": "b"
+	}, {
+		"label": "Veia safena magna e veia femoral",
+		"value": "c"
+	}, {
+		"label": "Veia femoral e veias perfurantes",
+		"value": "d"
+	}]
+}, {
+	"category": "inferior",
+	"title": "Pergunta 17",
+	"question": "Dos nervos a seguir, qual não corresponde a inervação dos membros inferiores?",
+	"answers": ["d"],
+	"options": [{
+		"label": "Nervo femoral",
+		"value": "a"
+	}, {
+		"label": "Nervo obturatório",
+		"value": "b"
+	}, {
+		"label": "Nervo genitofemoral",
+		"value": "c"
+	}, {
+		"label": "Nervo abducente",
+		"value": "d"
+	}]
+}, {
+	"category": "inferior",
+	"title": "Pergunta 18",
+	"question": "Dos músculos a seguir, qual corresponde a músculo anterior da coxa?",
+	"answers": ["b"],
+	"options": [{
+		"label": "Músculo adutor longo",
+		"value": "a"
+	}, {
+		"label": "Músculo sartório",
+		"value": "b"
+	}, {
+		"label": "Músculo grácil",
+		"value": "c"
+	}, {
+		"label": "Músculo adutor magno",
+		"value": "d"
+	}]
+}, {
+	"category": "inferior",
+	"title": "Pergunta 19",
+	"question": "O trígono femoral é limitado por:",
+	"answers": ["c"],
+	"options": [{
+		"label": "Ligamento coxofemoral (superiormente), músculo sartório (medialmente), e músculo sartório (lateralmente)",
+		"value": "a"
+	}, {
+		"label": "Ligamento inguinal (superiormente), músculo grácil (medialmente), e músculo adutor magno (lateralmente)",
+		"value": "b"
+	}, {
+		"label": "Ligamento inguinal (superiormente), músculo adutor longo (medialmente), e músculo sartório (lateralmente)",
+		"value": "c"
+	}, {
+		"label": "Ligamento coxofemoral (superiormente), músculo adutor longo (medialmente) e músculo grácil (lateralmente)",
+		"value": "d"
+	}]
+}, {
+	"category": "inferior",
+	"title": "Pergunta 20",
+	"question": "A principal artéria do membro inferior, e sua origem, corresponde a seguinte alternativa:",
+	"answers": ["c"],
+	"options": [{
+		"label": "Artéria femoral. Origina-se da artéria pudenda externa",
+		"value": "a"
+	}, {
+		"label": "Artéria femoral. Origina-se da artéria ilíaca interna",
+		"value": "b"
+	}, {
+		"label": "Artéria femoral. Origina-se da artéria ilíaca externa",
+		"value": "c"
+	}, {
+		"label": "Artéria femoral. Origina-se da artéria obturatória",
+		"value": "d"
+	}]
+}]

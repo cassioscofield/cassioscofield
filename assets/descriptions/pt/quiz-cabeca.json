@@ -1,0 +1,361 @@
+[{
+	"category": "cabeca",
+	"title": "Pergunta 1",
+	"question": "O crânio é subdividido em duas partes, sendo elas:",
+	"answers": ["d"],
+	"options": [{
+		"label": "Face anterior do crânio e face posterior do crânio",
+		"value": "a"
+	}, {
+		"label": "Crânio e mandíbula",
+		"value": "b"
+	}, {
+		"label": "Neurocrânio e face anterior do crânio",
+		"value": "c"
+	}, {
+		"label": "Neurocrânio e esqueleto da face",
+		"value": "d"
+	}]
+}, {
+	"category": "cabeca",
+	"title": "Pergunta 2",
+	"question": "O neurocrânio, nos adultos, são formados por oito ossos, sendo eles:",
+	"answers": ["b"],
+	"options": [{
+		"label": "Um frontal, um parietal, temporais pares, occipitais pares, um esfenóide e um etmóide",
+		"value": "a"
+	}, {
+		"label": "Um frontal, parietais pares, temporais pares, um occipital, um esfenóide e um etmóide",
+		"value": "b"
+	}, {
+		"label": "Um frontal, um parietal, um temporal, occipitais pares, esfenóides pares e um etmóide",
+		"value": "c"
+	}, {
+		"label": "Um frontal, um parietal, um temporal, um occipital, esfenóides pares, e etmóides pares",
+		"value": "d"
+	}]
+}, {
+	"category": "cabeca",
+	"title": "Pergunta 3",
+	"question": "O esqueleto da face consiste em 14 ossos irregulares, sendo eles:",
+	"answers": ["a"],
+	"options": [{
+		"label": "Lacrimal (02), nasal (02), maxilar (02), zigomático (02), palatino (02), concha nasal inferior (02), mandíbula (01) e vômer (01)",
+		"value": "a"
+	}, {
+		"label": "Lacrimal (02), nasal (02), maxilar (02), zigomático (01), palatino (01), concha nasal inferior (02), mandíbula (02) e vômer (02)",
+		"value": "b"
+	}, {
+		"label": "Lacrimal (01), nasal (01), maxilar (02), zigomático (02), palatino (03), concha nasal inferior (03), mandíbula (01) e vômer (01)",
+		"value": "c"
+	}, {
+		"label": "Lacrimal (02), nasal (02), maxilar (02), zigomático (01), palatino (02), concha nasal inferior (02), mandíbula (02) e vômer (01)",
+		"value": "d"
+	}]
+}, {
+	"category": "cabeca",
+	"title": "Pergunta 4",
+	"question": "Das suturas a seguir, qual não corresponde a uma sutura do crânio?",
+	"answers": ["d"],
+	"options": [{
+		"label": "Sutura sagital",
+		"value": "a"
+	}, {
+		"label": "Sutura lambdóidea",
+		"value": "b"
+	}, {
+		"label": "Sutura coronal",
+		"value": "c"
+	}, {
+		"label": "Sutura horizontal",
+		"value": "d"
+	}]
+}, {
+	"category": "cabeca",
+	"title": "Pergunta 5",
+	"question": "Dos pontos de referência anatômica a seguir, marque a alternativa que corresponde a um ponto anatômico do crânio:",
+	"answers": ["b"],
+	"options": [{
+		"label": "Xifoidal",
+		"value": "a"
+	}, {
+		"label": "Vértex",
+		"value": "b"
+	}, {
+		"label": "Trocantérico",
+		"value": "c"
+	}, {
+		"label": "Estiloidal",
+		"value": "d"
+	}]
+}, {
+	"category": "cabeca",
+	"title": "Pergunta 6",
+	"question": "Dos pontos de referência ósseos do crânio a seguir, marque o que corresponde a junção da asa maior do esfenóide, parte escamosa do temporal, frontal e parietal e que se sobrepõe ao trajeto de divisão anterior da artéria meníngea:",
+	"answers": ["d"],
+	"options": [{
+		"label": "Bregma",
+		"value": "a"
+	}, {
+		"label": "Astério",
+		"value": "b"
+	}, {
+		"label": "Lambda",
+		"value": "c"
+	}, {
+		"label": "Ptério",
+		"value": "d"
+	}]
+}, {
+	"category": "cabeca",
+	"title": "Pergunta 7",
+	"question": "A sela turca é composta por 03 partes, sendo elas:",
+	"answers": ["c"],
+	"options": [{
+		"label": "Porção superior da sela, porção inferior da sela e porção central da sela",
+		"value": "a"
+	}, {
+		"label": "Face anterior da sela, face posterior da sela e face interna da sela",
+		"value": "b"
+	}, {
+		"label": "Tubérculo da sela, fossa hipofisal e dorso da sela",
+		"value": "c"
+	}, {
+		"label": "Tubérculo da sela, porção anterior da sela e porsão posterior da sela",
+		"value": "d"
+	}]
+}, {
+	"category": "cabeca",
+	"title": "Pergunta 8",
+	"question": "Sobre o forame espinhoso, é correto afirmar que:",
+	"answers": ["a"],
+	"options": [{
+		"label": "Situa-se póstero-lateral ao forame oval, dá passagem aos vasos meníngeos médios e ao ramo meníngeo do nervo mandibular",
+		"value": "a"
+	}, {
+		"label": "Situa-se póstero-lateral ao forame oval, e da passagem a artéria meníngea acessória",
+		"value": "b"
+	}, {
+		"label": "Situa-se antero-medial ao forame oval, dá passage aos vasos meníngeos médios e ao ramo meníngeo do nervo mandibular",
+		"value": "c"
+	}, {
+		"label": "Situa-se antero-medial ao forame oval, e da passagem a artéria meníngea acessória",
+		"value": "d"
+	}]
+}, {
+	"category": "cabeca",
+	"title": "Pergunta 9",
+	"question": "Sobre o forame oval, é correto afirmar que:",
+	"answers": ["b"],
+	"options": [{
+		"label": "É um pequeno forame, abre-se superiormente na fossa supratemporal e dá passagem ao nervo vago e a artéria meníngea média",
+		"value": "a"
+	}, {
+		"label": "É um grande forame, abre-se inferiormente na fossa infratemporal e dá passagem ao nervo mandibular e a uma pequena artéria meníngea acessória",
+		"value": "b"
+	}, {
+		"label": "É um pequeno forame, abre-se inferiormente na fossa infratemporal, e dá passagem ao nervo mandibular (NC V3) e a artéria meníngea média",
+		"value": "c"
+	}, {
+		"label": "É um grande forame, abre-se superiormente na fossa infratemporal, e dá passagem ao nervo vago e a artéria meníngea média",
+		"value": "d"
+	}]
+}, {
+	"category": "cabeca",
+	"title": "Pergunta 10",
+	"question": "Qual o nervo responsável pela inervação de todos os músculos da face?",
+	"answers": ["b"],
+	"options": [{
+		"label": "Nervo abducente (NC VI)",
+		"value": "a"
+	}, {
+		"label": "Nervo facial (NC VII)",
+		"value": "b"
+	}, {
+		"label": "Nervo troclear (NC IV)",
+		"value": "c"
+	}, {
+		"label": "Nervo trigêmeo (NC V)",
+		"value": "d"
+	}]
+}, {
+	"category": "cabeca",
+	"title": "Pergunta 11",
+	"question": "Dos músculos a seguir, qual não faz parte da face?",
+	"answers": ["d"],
+	"options": [{
+		"label": "Músculo nasal",
+		"value": "a"
+	}, {
+		"label": "Músculo mentual",
+		"value": "b"
+	}, {
+		"label": "Músculo bucinador",
+		"value": "c"
+	}, {
+		"label": "Músculo romboide",
+		"value": "d"
+	}]
+}, {
+	"category": "cabeca",
+	"title": "Pergunta 12",
+	"question": "(ISGH 2018) Os principais músculos envolvidos com o processo de mastigação são:",
+	"answers": ["d"],
+	"options": [{
+		"label": "Masseter, bucinador, pterigoideo medial e pterigoideo lateral",
+		"value": "a"
+	}, {
+		"label": "Temporal, levantador do ângulo da boca e depressor do ângulo da boca",
+		"value": "b"
+	}, {
+		"label": "Masseter, temporal, pterigoideo medial e pterigoideo lateral",
+		"value": "c"
+	}, {
+		"label": "Masseter, temporal, bucinador e pterigoideo medial",
+		"value": "d"
+	}]
+}, {
+	"category": "cabeca",
+	"title": "Pergunta 13",
+	"question": "O plexo parotídeo dá origem a cinco ramos terminais do nervo facial, sendo eles:",
+	"answers": ["c"],
+	"options": [{
+		"label": "Nervo hipoglosso, nervo vago, nervo zigomático, nervo trigêmeo e nervo glossofaríngeo",
+		"value": "a"
+	}, {
+		"label": "Nervo hipoglosso, nervo zigomático, nervo cervical, nervo abducente e nervo troclear",
+		"value": "b"
+	}, {
+		"label": "Nervo temporal, Nervo zigomático, Nervo da bochecha, nervo marginal da mandíbula, nervo cervical",
+		"value": "c"
+	}, {
+		"label": "Nervo temporal, nervo hipoglosso, nervo vago, nervo abducente e nervo troclear",
+		"value": "d"
+	}]
+}, {
+	"category": "cabeca",
+	"title": "Pergunta 14",
+	"question": "Das artérias a seguir, qual não faz parte da vascularização da face?",
+	"answers": ["a"],
+	"options": [{
+		"label": "Artéria obturatriz",
+		"value": "a"
+	}, {
+		"label": "Artéria angular",
+		"value": "b"
+	}, {
+		"label": "Artéria occipital",
+		"value": "c"
+	}, {
+		"label": "Artéria mentual",
+		"value": "d"
+	}]
+}, {
+	"category": "cabeca",
+	"title": "Pergunta 15",
+	"question": "Dos ossos a seguir, quais são classificados como ossos pneumáticos?",
+	"answers": ["c"],
+	"options": [{
+		"label": "Osso zigomático, osso esfenoide, osso occipital, osso parietal e osso nasal",
+		"value": "a"
+	}, {
+		"label": "Osso zigomático, osso occipital, osso mandibular, osso nasal e osso lacrimal",
+		"value": "b"
+	}, {
+		"label": "Osso frontal, osso maxilar superior, osso etmoide, osso esfenoide e o osso temporal",
+		"value": "c"
+	}, {
+		"label": "Osso frontal, osso nasal, osso etmoide, osso esfenoide e osso parietal",
+		"value": "d"
+	}]
+}, {
+	"category": "cabeca",
+	"title": "Pergunta 16",
+	"question": "Das opções a seguir, qual não corresponde a uma estrutura encontrada na parede lateral do seio cavernoso?",
+	"answers": ["d"],
+	"options": [{
+		"label": "Nervo oculomotor",
+		"value": "a"
+	}, {
+		"label": "Nervo troclear",
+		"value": "b"
+	}, {
+		"label": "Nervo trigêmeo",
+		"value": "c"
+	}, {
+		"label": "Nervo abducente",
+		"value": "d"
+	}]
+}, {
+	"category": "cabeca",
+	"title": "Pergunta 17",
+	"question": "O encéfalo é composto por:",
+	"answers": ["a"],
+	"options": [{
+		"label": "Cérebro, cerebelo, e tronco encefálico (mesencéfalo, ponte e medula oblonga)",
+		"value": "a"
+	}, {
+		"label": "Cérebro, cerebelo e hipotalamo",
+		"value": "b"
+	}, {
+		"label": "Cérebro, hipotalamo e tronco encefálico (mesencéfalo, ponte e medula oblonga)",
+		"value": "c"
+	}, {
+		"label": "Cérebro, ponte, bulbo e hipotalamo",
+		"value": "d"
+	}]
+}, {
+	"category": "cabeca",
+	"title": "Pergunta 18",
+	"question": "O sistema ventricular do encéfalo, é composto por:",
+	"answers": ["b"],
+	"options": [{
+		"label": "02 ventrículos laterais, 3º e 4º ventrículos frontais e pelo aqueduto do mesencéfalo",
+		"value": "a"
+	}, {
+		"label": "02 ventrículos laterais, do 3º e 4º ventrículos medianos e pelo aqueduto do mesencéfalo",
+		"value": "b"
+	}, {
+		"label": "02 ventrículos laterais, 01 ventrículo frontal e 01 ventrículo occipital",
+		"value": "c"
+	}, {
+		"label": "04 ventrículos laterais, 02 ventrículos frontais, 02 ventrículos occipitais e pelo aqueduto do mesencéfalo",
+		"value": "d"
+	}]
+}, {
+	"category": "cabeca",
+	"title": "Pergunta 19",
+	"question": "Das artérias responsáveis pela vascularização encefálica a seguir, selecione a que é formada pela união das artérias vertebrais:",
+	"answers": ["b"],
+	"options": [{
+		"label": "Artéria Comunicante Anterior",
+		"value": "a"
+	}, {
+		"label": "Artéria Basilar",
+		"value": "b"
+	}, {
+		"label": "Artéria Cerebral Posterior",
+		"value": "c"
+	}, {
+		"label": "Artéria Carótida Interna",
+		"value": "d"
+	}]
+}, {
+	"category": "cabeca",
+	"title": "Pergunta 20",
+	"question": "O círculo arterial do cérebro, é formado por:",
+	"answers": ["d"],
+	"options": [{
+		"label": "Artérias carótidas internas e externas, artérias cerébrais anteriores e posteriores e artéria comunicante posterior",
+		"value": "a"
+	}, {
+		"label": "Artérias carótidas internas e externas, artérias cérebrais anteriores, artérias comunicantes anteriores e artérias meníngeas",
+		"value": "b"
+	}, {
+		"label": "Artérias cerebrais posteriores, artéria meníngea media, artérias comunicantes anteriores, artérias carótidas internas e artérias cerebrais anteriores",
+		"value": "c"
+	}, {
+		"label": "Artérias cerebrais posteriores, artérias comunicantes posteriores, artérias carótidas internas, artérias cerebrais anteriores, e artérias comunicantes anteriores",
+		"value": "d"
+	}]
+}]

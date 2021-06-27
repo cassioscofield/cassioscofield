@@ -1,0 +1,382 @@
+[{
+    "category": "superior",
+    "title": "Pergunta 1",
+    "question": "Os membros superiors são compostos por 04 segmentos, sendo eles:",
+    "answers": ["c"],
+    "options": [{
+            "label": "Braço, antebraço, punho e mão",
+            "value": "a"
+        },{
+            "label": "Braço, antebraço, mão e dedos",
+            "value": "b"
+        },{
+            "label": "Cíngulo do membro superior, braço, antebraço e mão",
+            "value": "c"
+        },{
+            "label": "Cíngulo do membro superior, braço, antebraço e dedos",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "superior",
+    "title": "Pergunta 2",
+    "question": "O cíngulo do membro superior é formado por quais ossos?",
+    "answers": ["d"],
+    "options": [{
+            "label": "Úmero e ulna",
+            "value": "a"
+        },{
+            "label": "Úmero e clávicula",
+            "value": "b"
+        },{
+            "label": "Escápula e úmero",
+            "value": "c"
+        },{
+            "label": "Escápula e clavícula",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "superior",
+    "title": "Pergunta 3",
+    "question": "O braço e o antebraço são compostos respectivamente por quais ossos?",
+    "answers": ["b"],
+    "options": [{
+            "label": "Úmero, clavicula e ulna",
+            "value": "a"
+        },{
+            "label": "Úmero, radio e ulna",
+            "value": "b"
+        },{
+            "label": "Úmero, radio e escapula",
+            "value": "c"
+        },{
+            "label": "Úmero, clavicula e escapula",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "superior",
+    "title": "Pergunta 4",
+    "question": "Quanto a localização, o osso ulna encontra-se:",
+    "answers": ["a"],
+    "options": [{
+            "label": "No antebraço, disposto medialmente",
+            "value": "a"
+        },{
+            "label": "No antebraço, disposto lateralmente",
+            "value": "b"
+        },{
+            "label": "No braço, disposto lateralmente",
+            "value": "c"
+        },{
+            "label": "No braço, disposto medialmente",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "superior",
+    "title": "Pergunta 5",
+    "question": "Quanto a localização, o osso rádio encontra-se:",
+    "answers": ["c"],
+    "options": [{
+            "label": "No braço, disposto lateralmente",
+            "value": "a"
+        },{
+            "label": "No braço, disposto medialmente",
+            "value": "b"
+        },{
+            "label": "No antebraço, disposto lateralmente",
+            "value": "c"
+        },{
+            "label": "No antebraço, disposto medialmente",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "superior",
+    "title": "Pergunta 6",
+    "question": "Das estruturas a seguir, qual não está localizada no osso escápula?",
+    "answers": ["d"],
+    "options": [{
+            "label": "Acrômio",
+            "value": "a"
+        },{
+            "label": "Processo coracóide",
+            "value": "b"
+        },{
+            "label": "Cavidade glenoidal",
+            "value": "c"
+        },{
+            "label": "Crista supra-epicondilar lateral",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "superior",
+    "title": "Pergunta 7",
+    "question": "Das estruturas a seguir, qual não está localizada no osso clavícula?",
+    "answers": ["b"],
+    "options": [{
+            "label": "Tubérculo deltóide",
+            "value": "a"
+        },{
+            "label": "Ptério",
+            "value": "b"
+        },{
+            "label": "Sulco do músculo subclávio",
+            "value": "c"
+        },{
+            "label": "Linha trapezóidea",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "superior",
+    "title": "Pergunta 8",
+    "question": "Os ossos carpais na fileira proximal, da lateral para medial, são respectivamente:",
+    "answers": ["a"],
+    "options": [{
+            "label": "Escafóide, semilunar, piramidal e pisiforme",
+            "value": "a"
+        },{
+            "label": "Escafóide, capitato, piramidal e pisiforme",
+            "value": "b"
+        },{
+            "label": "Trapézio, trapezóide, capitato e hamato",
+            "value": "c"
+        },{
+            "label": "Trapézio, trapezóide, piramidal e pisiforme",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "superior",
+    "title": "Pergunta 9",
+    "question": "Os ossos carpais da fileira distal, da lateral para medial, são respectivamente:",
+    "answers": ["c"],
+    "options": [{
+            "label": "Escafóide, semilunar, piramidal e pisiforme",
+            "value": "a"
+        },{
+            "label": "Escafóide, capitato, piramidal e pisiforme",
+            "value": "b"
+        },{
+            "label": "Trapézio, trapezóide, capitato e hamato",
+            "value": "c"
+        },{
+            "label": "Trapézio, trapezóide, piramidal e pisiforme",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "superior",
+    "title": "Pergunta 10",
+    "question": "O esqueleto da mão é composto por ossos metacarpais. Dentre as alternativas a seguir, qual está correta?",
+    "answers": ["a"],
+    "options": [{
+            "label": "São 05 ossos, sendo que o 1º osso metacarpal é o mais espesso e curto dos metacarpais",
+            "value": "a"
+        },{
+            "label": "São 10 ossos, sendo que o 5º osso metacarpal é o mais espesso e curto dos metacarpais",
+            "value": "b"
+        },{
+            "label": "São 5 ossos, sendo que o 1º osso metacarpal é o mais fino e longo dos metacarpais",
+            "value": "c"
+        },{
+            "label": "São 10 ossos, sendo que o 5º osso metacarpal é o mais fino e longo dos metacarpais",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "superior",
+    "title": "Pergunta 11",
+    "question": "Dos nervos a seguir, qual não participa da inervação dos membros superiores?",
+    "answers": ["c"],
+    "options": [{
+            "label": "Nervo intercostobraquial",
+            "value": "a"
+        },{
+            "label": "Nervo ulnar",
+            "value": "b"
+        },{
+            "label": "Nervo abducente",
+            "value": "c"
+        },{
+            "label": "Nervo mediano",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "superior",
+    "title": "Pergunta 12",
+    "question": "Das veias a seguir, qual não faz parte da vascularização dos membros superiores?",
+    "answers": ["a"],
+    "options": [{
+            "label": "Veia obturatória",
+            "value": "a"
+        },{
+            "label": "Veia cefálica",
+            "value": "b"
+        },{
+            "label": "Veia axilar",
+            "value": "c"
+        },{
+            "label": "Veia basílica",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "superior",
+    "title": "Pergunta 13",
+    "question": "Dos músculos a seguir, qual não faz parte dos membros superiores?",
+    "answers": ["d"],
+    "options": [{
+            "label": "Músculo Trapézio",
+            "value": "a"
+        },{
+            "label": "Músculo Deltóide",
+            "value": "b"
+        },{
+            "label": "Músculo Subescapular",
+            "value": "c"
+        },{
+            "label": "Músculo Sartório",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "superior",
+    "title": "Pergunta 14",
+    "question": "A axila é subdividida em 06 partes, sendo elas:",
+    "answers": ["c"],
+    "options": [{
+            "label": "Topo, base, parede lateral esquerda, parede lateral direita, região central e porção torácica",
+            "value": "a"
+        },{
+            "label": "Topo, base, parede lateral esquerda, parede lateral direita, parede íntima e parede central",
+            "value": "b"
+        },{
+            "label": "Ápice, base, parede anterior, parede posterior parede medial e parede lateral",
+            "value": "c"
+        },{
+            "label": "Ápice, base, parede inferior, parede superior, parede lateral e parede medial",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "superior",
+    "title": "Pergunta 15",
+    "question": "A artéria axilar é continuação de qual artéria? Onde ela começa, e onde ela termina, respectivamente?",
+    "answers": ["a"],
+    "options": [{
+            "label": "Continuação da artéria subclávia, começa na margem lateral da 1ª costela, e termina na margem inferior do músculo redondo maior",
+            "value": "a"
+        },{
+            "label": "Continuação da artéria subclávia, começa na margem lateral da 3ª costela, e termina na margem inferior do músculo redondo menor",
+            "value": "b"
+        },{
+            "label": "Continuação da artéria toracoacromial, começa na margem da 1ª costela, e termina na margem inferior do músculo redondo menor",
+            "value": "c"
+        },{
+            "label": "Continuação da artéria toracoacromial, começa na margem da 3ª costela, e termina na margem inferior do músculo redondo maior",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "superior",
+    "title": "Pergunta 16",
+    "question": "Das artérias a seguir, qual não é um ramo da artéria axilar?",
+    "answers": ["d"],
+    "options": [{
+            "label": "Artéria torácica superior",
+            "value": "a"
+        },{
+            "label": "Artéria subescapular",
+            "value": "b"
+        },{
+            "label": "Artéria toracoacromial",
+            "value": "c"
+        },{
+            "label": "Artéria radial",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "superior",
+    "title": "Pergunta 17",
+    "question": "Das artérias a seguir, qual NÃO faz parte da vascularização do membro superior?",
+    "answers": ["c"],
+    "options": [{
+            "label": "Artéria subescapular",
+            "value": "a"
+        },{
+            "label": "Artéria braquial",
+            "value": "b"
+        },{
+            "label": "Artéria poplítea",
+            "value": "c"
+        },{
+            "label": "Artéria ulnar",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "superior",
+    "title": "Pergunta 18",
+    "question": "Com relação ao plexo braquial, ele é formado por quais ramos de nervos?",
+    "answers": ["b"],
+    "options": [{
+            "label": "Formado pela união dos ramos posteriores dos nervos C5 até C7, e pela menor parte do ramo anterior de T2",
+            "value": "a"
+        },{
+            "label": "Formado pela união dos ramos anteriores dos nervos C5 até C8 e pela maior parte do ramo anterior de T1",
+            "value": "b"
+        },{
+            "label": "Formado pela união dos ramos posteriores dos nervos C4 até C7, e pela maior parte do ramo posterior de T1",
+            "value": "c"
+        },{
+            "label": "Formado pela união dos ramos anteriores dos nervos de C3 até C8, e pela maior parte do ramo posterior de T2",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "superior",
+    "title": "Pergunta 19",
+    "question": "Dos nervos a seguir, qual não faz parte da inervação dos membros superiores?",
+    "answers": ["a"],
+    "options": [{
+            "label": "Nervo tibial",
+            "value": "a"
+        },{
+            "label": "Nervo mediano",
+            "value": "b"
+        },{
+            "label": "Nervo peitoral medial",
+            "value": "c"
+        },{
+            "label": "Nervo Ulnar",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "superior",
+    "title": "Pergunta 20",
+    "question": "Dos músculos a seguir, qual não faz parte do braço?",
+    "answers": ["c"],
+    "options": [{
+            "label": "Músculo Bíceps braquial",
+            "value": "a"
+        },{
+            "label": "Músculo Triceps braquial",
+            "value": "b"
+        },{
+            "label": "Músculo Trapézio",
+            "value": "c"
+        },{
+            "label": "Músculo Ancôneo",
+            "value": "d"
+        }
+    ]
+}
+]
