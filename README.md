@@ -1,4 +1,4 @@
-##### Hi, I'm Cássio Scofield, full-stack mobile developer, currently working as tech lead for PEBMED
+Hi, I'm Cássio Scofield, full-stack mobile developer and software architect, currently working as tech lead for [PEBMED](https://whitebook.pebmed.com.br/planos "PEBMED Whitebook Website")
 
 #### Languages  
 
