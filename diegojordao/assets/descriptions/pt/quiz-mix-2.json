@@ -1,0 +1,367 @@
+[{
+	"category": "mix-2",
+	"title": "Pergunta 1",
+	"question": "(FUNIVERSA 2015)  Conhecer a posição dos órgãos urinários e não os lesar durante a evisceração é necessário caso o médico deseje dissecá-los para estudo. O ureter desce dos rins até a bexiga urinária, localizada na pelve, em posição anterior e acompanhando o trajeto do(a)",
+	"answers": ["d"],
+	"options": [{
+		"label": "Corpo das vertebras lombares",
+		"value": "a"
+	}, {
+		"label": "Disco intervertebral",
+		"value": "b"
+	}, {
+		"label": "Músculo retoabdominal",
+		"value": "c"
+	}, {
+		"label": "Músculo psoas",
+		"value": "d"
+	}]
+}, {
+	"category": "mix-2",
+	"title": "Pergunta 2",
+	"question": "(FUNIVERSA 2015) Segundo Dangelo e Fattini em Anatomia Humana Básica, “a simples observação de um grupamento humano evidencia de imediato diferenças morfológicas entre os elementos que compõem o grupo”. Com base nessa informação, assinale a alternativa que apresenta a denominação dessas diferenças.",
+	"answers": ["b"],
+	"options": [{
+		"label": "Divisões morfológicas",
+		"value": "a"
+	}, {
+		"label": "Variações anatômicas",
+		"value": "b"
+	}, {
+		"label": "Rarefações elementares",
+		"value": "c"
+	}, {
+		"label": "Malformações congênitas",
+		"value": "d"
+	}]
+}, {
+	"category": "mix-2",
+	"title": "Pergunta 3",
+	"question": "(UFG 2015 - Técnico de Laboratório - Anatomia Humana) São ligamentos encontrados na articulação do joelho:",
+	"answers": ["c"],
+	"options": [{
+		"label": "Colateral fibular, retináculo medial, anular do rádio.",
+		"value": "a"
+	}, {
+		"label": "Menisco-femoral, transverso do joelho, córaco-acromial.",
+		"value": "b"
+	}, {
+		"label": "Cruzado anterior, menisco-femoral, colateral tibial",
+		"value": "c"
+	}, {
+		"label": "Colateral radial, patelar, cruzado posterior",
+		"value": "d"
+	}]
+}, {
+	"category": "mix-2",
+	"title": "Pergunta 4",
+	"question": " (UFG 2015 - Técnico de Laboratório - Anatomia Humana) São estruturas da cavidade nasal:",
+	"answers": ["c"],
+	"options": [{
+		"label": "Osso nasal, tórus tubal, prega vocal.",
+		"value": "a"
+	}, {
+		"label": "Prega vocal, septo nasal, cartilagem alar",
+		"value": "b"
+	}, {
+		"label": "Concha nasal, septo nasal, coanas",
+		"value": "c"
+	}, {
+		"label": "Mento, cartilagem alar, coanas.",
+		"value": "d"
+	}]
+}, {
+	"category": "mix-2",
+	"title": "Pergunta 5",
+	"question": "(UFG 2015 - Técnico de Laboratório - Anatomia Humana) Ao dissecar a região do antebraço, visualizam-se as seguintes veias superficiais:",
+	"answers": ["d"],
+	"options": [{
+		"label": "Mediana do antebraço, braquial, axilar",
+		"value": "a"
+	}, {
+		"label": "Mediana do cotovelo, ulnar, basílica.",
+		"value": "b"
+	}, {
+		"label": "Braquial, radial, cefálica",
+		"value": "c"
+	}, {
+		"label": "Mediana do antebraço, cefálica, basílica.",
+		"value": "d"
+	}]
+}, {
+	"category": "mix-2",
+	"title": "Pegunta 6",
+	"question": "(UFG 2015 - Técnico de Laboratório - Anatomia Humana) Na retirada do encéfalo do cadáver com instrumental, após secção do couro cabeludo e dos músculos, realiza-se corte horizontal semicircular e biauricular do crânio e retira-se a calota craniana. Qual é a estrutura anatômica visualizada logo abaixo da calota craniana?",
+	"answers": ["d"],
+	"options": [{
+		"label": "Cérebro",
+		"value": "a"
+	}, {
+		"label": "Piá-máter.",
+		"value": "b"
+	}, {
+		"label": "Bulbo.",
+		"value": "c"
+	}, {
+		"label": "Dura-máter.",
+		"value": "d"
+	}]
+}, {
+	"category": "mix-2",
+	"title": "Pergunta 7",
+	"question": "(UFG 2015 - Técnico de Laboratório - Anatomia Humana) Na retirada do bloco visceral torácico, são visualizados os seguintes órgãos:",
+	"answers": ["a"],
+	"options": [{
+		"label": "Coração, pulmões, timo.",
+		"value": "a"
+	}, {
+		"label": "Coração, pulmões, baço.",
+		"value": "b"
+	}, {
+		"label": "Baço, timo, rins.",
+		"value": "c"
+	}, {
+		"label": "Estômago, ceco, rins.",
+		"value": "d"
+	}]
+}, {
+	"category": "mix-2",
+	"title": "Pergunta 8",
+	"question": "(UFG 2015 - Técnico de Laboratório - Anatomia Humana) São ossos do tarso:",
+	"answers": ["b"],
+	"options": [{
+		"label": "Escafoide, piramidal, semilunar, capitato.",
+		"value": "a"
+	}, {
+		"label": "Navicular, cuboide, talos, cuneiforme.",
+		"value": "b"
+	}, {
+		"label": "Cuboide, calcâneo, escafoide, trapezoide",
+		"value": "c"
+	}, {
+		"label": "Talos, cuneiforme, capitato, semilunar.",
+		"value": "d"
+	}]
+}, {
+	"category": "mix-2",
+	"title": "Pergunta 9",
+	"question": "(UFG 2015 - Técnico de Laboratório - Anatomia Humana) Os nervos responsáveis pela inervação do membro inferior são",
+	"answers": ["a"],
+	"options": [{
+		"label": "Isquiático, fibular comum, tibial.",
+		"value": "a"
+	}, {
+		"label": "Femoral, isquiático, ílio-hipogástrico.",
+		"value": "b"
+	}, {
+		"label": "Tibial, femoral, toracodorsal.",
+		"value": "c"
+	}, {
+		"label": "Fibular comum, subcostal, pudendo.",
+		"value": "d"
+	}]
+}, {
+	"category": "mix-2",
+	"title": "Pergunta 10",
+	"question": "(UFG 2015 - Técnico de Laboratório - Anatomia Humana) As túnicas que revestem os testículos são:",
+	"answers": ["d"],
+	"options": [{
+		"label": "Vaginal, peritônea, espermática externa.",
+		"value": "a"
+	}, {
+		"label": "Dartos, albugínea, espermática interna.",
+		"value": "b"
+	}, {
+		"label": "Vaginal, dartos, espermática interna.",
+		"value": "c"
+	}, {
+		"label": "Albugínea, cremastérica, espermática externa.",
+		"value": "d"
+	}]
+}, {
+	"category": "mix-2",
+	"title": "Pergunta 11",
+	"question": "(FCM-MG PROVA DE TRANSFERÊNCIA EXTERNA - MEDICINA 2020 - 2º SEMESTRE)  As articulações presentes entre os ossos do membro superior permitem o movimento entre\r\nvários eixos e planos anatômicos e são descritas de acordo com a forma ou o tipo de\r\nmaterial pelo qual os ossos são unidos.\r\nA articulação classificada como sindesmose é encontrada no membro superior entre os\r\nossos:",
+	"answers": ["b"],
+	"options": [{
+		"label": "úmero e rádio.",
+		"value": "a"
+	}, {
+		"label": "ulna e rádio.",
+		"value": "b"
+	}, {
+		"label": "falange proximal e metacarpo.",
+		"value": "c"
+	}, {
+		"label": "rádio e ossos do carpo.",
+		"value": "d"
+	}]
+}, {
+	"category": "mix-2",
+	"title": "Pergunta 12",
+	"question": "(FCM-MG PROVA DE TRANSFERÊNCIA EXTERNA - MEDICINA 2020 - 2º SEMESTRE) O órgão relacionado com o sentido da audição é a orelha, que é subdividida em orelha\r\nexterna, orelha média e orelha interna, contendo os seus respectivos componentes.\r\nO órgão de Corti, que apresenta os receptores da audição, está localizado na orelha interna\r\nna(o):",
+	"answers": ["d"],
+	"options": [{
+		"label": "ampola do canal semicircular.",
+		"value": "a"
+	}, {
+		"label": "vestíbulo.",
+		"value": "b"
+	}, {
+		"label": "ducto semicircular.",
+		"value": "c"
+	}, {
+		"label": "ducto coclear.",
+		"value": "d"
+	}]
+}, {
+	"category": "mix-2",
+	"title": "Pergunta 13",
+	"question": "(FCM-MG PROVA DE TRANSFERÊNCIA EXTERNA - MEDICINA 2020 - 2º SEMESTRE) Os pontos craniométricos são importantes pontos de referência óssea, utilizados\r\nprincipalmente em medicina forense e em análises cefalométricas.\r\nO nasion é um ponto craniométrico que está localizado no ponto:",
+	"answers": ["c"],
+	"options": [{
+		"label": "inferior da abertura piriforme na base da espinha nasal anterior.",
+		"value": "a"
+	}, {
+		"label": "de encontro da sutura sagital com a sutura coronal.",
+		"value": "b"
+	}, {
+		"label": "de encontro da sutura internasal e a sutura fronto-nasal.",
+		"value": "c"
+	}, {
+		"label": "acima da sutura fronto-nasal entre os arcos superciliares.",
+		"value": "d"
+	}]
+}, {
+	"category": "mix-2",
+	"title": "Pergunta 14",
+	"question": "(FCM-MG PROVA DE TRANSFERÊNCIA EXTERNA - MEDICINA 2020 - 2º SEMESTRE) O trígono femoral é um espaço subfascial de formato triangular, que contém o nervo femoral,\r\nartéria e veia femoral. É um ponto de referência útil na compreensão da região inguinal.\r\nQuanto aos limites do trígono femoral, é CORRETO afirmar que:",
+	"answers": ["a"],
+	"options": [{
+		"label": "o limite superior é formado pelo ligamento inguinal que forma a base do trígono femoral.",
+		"value": "a"
+	}, {
+		"label": "o assoalho do trígono é formado pelo músculo sartório e pelo músculo adutor longo.",
+		"value": "b"
+	}, {
+		"label": "o limite medial é formado pelos músculos iliopsoas e pectíneo",
+		"value": "c"
+	}, {
+		"label": "o limite lateral é formado pela margem medial do músculo adutor magno.",
+		"value": "d"
+	}]
+}, {
+	"category": "mix-2",
+	"title": "Pergunta 15",
+	"question": "(FCM-MG PROVA DE TRANSFERÊNCIA EXTERNA - MEDICINA 2020 - 2º SEMESTRE) Com frequência, os estudantes novatos ficam frustrados porque os corpos examinados\r\nou dissecados não são iguais ao atlas ou livro texto. Algumas variações anatômicas são\r\nimportantes na prática clínica e principalmente na cirurgia.\r\nSobre as variações anatômicas e sua importância, assinale a alternativa CORRETA.\r\n",
+	"answers": ["a"],
+	"options": [{
+		"label": "A variação anatômica geralmente não tem efeito sobre a função normal.",
+		"value": "a"
+	}, {
+		"label": "Aproximadamente 0,1% dos recém-nascidos apresentam uma ou mais anomalias congênitas significativas.",
+		"value": "b"
+	}, {
+		"label": "Os nervos apresentam as maiores variações anatômicas e as veias, as menores variações.",
+		"value": "c"
+	}, {
+		"label": "Não há variação no tamanho, formato e modo de inserção dos músculos.",
+		"value": "d"
+	}]
+}, {
+	"category": "mix-2",
+	"title": "Pergunta 16",
+	"question": "(FCM-MG PROVA DE TRANSFERÊNCIA EXTERNA - MEDICINA 2020 - 2º SEMESTRE ) O sistema circulatório transporta líquido por todo o corpo. É formado pelo coração, pelos vasos sanguíneos e pelos vasos linfáticos. Assinale a alternativa CORRETA sobre esse sistema.",
+	"answers": ["d"],
+	"options": [{
+		"label": "O dióxido de carbono é trocado por oxigênio nos capilares pulmonares e o sangue rico em\r\noxigênio é reconduzido pelas veias pulmonares dos pulmões ao átrio direito do coração.",
+		"value": "a"
+	}, {
+		"label": "O ventrículo esquerdo impulsiona o sangue rico em oxigênio, que chega dos pulmões para\r\no corpo através das veias cava inferior e superior.",
+		"value": "b"
+	}, {
+		"label": "O coração consiste em uma bomba muscular com um lado esquerdo e um lado direito que trabalham em sistema de revezamento, mandando sangue para o corpo e os pulmões",
+		"value": "c"
+	}, {
+		"label": "O circuito do ventrículo esquerdo ao átrio direito é a circulação sistêmica.",
+		"value": "d"
+	}]
+}, {
+	"category": "mix-2",
+	"title": "Pergunta 17",
+	"question": "(FCM-MG PROVA DE TRANSFERÊNCIA EXTERNA - MEDICINA 2020 - 2º SEMESTRE ) O olho é o órgão da visão, formado pelo bulbo do olho e pelo nervo óptico. A órbita contém o bulbo do olho e as estruturas acessórias da visão. Sobre o olho e sua função, assinale a alternativa CORRETA.",
+	"answers": ["a"],
+	"options": [{
+		"label": "As pálpebras protegem o olho contra lesão, iluminação excessiva e mantêm a córnea úmida por espalhamento do líquido lacrimal.",
+		"value": "a"
+	}, {
+		"label": "O osso lacrimal não é um dos formadores da órbita.",
+		"value": "b"
+	}, {
+		"label": "O ápice da órbita na asa menor do osso esfenoide contém o canal oftálmico.",
+		"value": "c"
+	}, {
+		"label": "A íris, que está literalmente sobre a face posterior da lente, apresenta várias aberturas, a maior delas chamada de pupila.",
+		"value": "d"
+	}]
+}, {
+	"category": "mix-2",
+	"title": "Pergunta 18",
+	"question": "(FCM-MG PROVA DE TRANSFERÊNCIA EXTERNA - MEDICINA 2020 - 2º SEMESTRE ) Assinale a alternativa CORRETA correspondente às artérias responsáveis por todo o fluxo sanguíneo da mão.",
+	"answers": ["b"],
+	"options": [{
+		"label": "Artéria braquial profunda e artéria circunflexa do cotovelo.",
+		"value": "a"
+	}, {
+		"label": "Artéria ulnar e artéria radial.",
+		"value": "b"
+	}, {
+		"label": "Artéria braquial e artéria interóssea anterior.",
+		"value": "c"
+	}, {
+		"label": "Artéria interóssea comum e artéria braquial.",
+		"value": "d"
+	}]
+}, {
+	"category": "mix-2",
+	"title": "Pergunta 19",
+	"question": "(FUNRIO - 2015 - UFRB - Técnico em Anatomia e Necropsia) O ensino de anatomia humana pode ser feito através da abordagem sistêmica, que considera os diferentes órgãos do corpo humano organizados em sistemas e aparelhos funcionais e integrados entre si. Marque a opção que indica de forma correta os nomes dos órgãos ou suas porções, e o nome do sistema orgânico a qual eles pertencem.",
+	"answers": ["d"],
+	"options": [{
+		"label": "Sistema respiratório – brônquios, timo e pulmões.",
+		"value": "a"
+	}, {
+		"label": "Sistema digestório – estômago, cólon transverso, faringe e laringe.",
+		"value": "b"
+	}, {
+		"label": "Sistema nervoso central – cérebro, cerebelo e gânglios nervosos.",
+		"value": "c"
+	}, {
+		"label": "Sistema tegumentar – pele e seus anexos.",
+		"value": "d"
+	}, {
+		"label": "Sistema endócrino – baço, timo, duodeno, pâncreas e fígado.",
+		"value": "e"
+	}]
+}, {
+	"category": "mix-2",
+	"title": "Pergunta 20",
+	"question": "(IDECAN - 2014 - EBSERH - Técnico em Anatomia e Necrópsia) Para estudar anatomia humana é necessário conhecer os chamados planos anatômicos, pois eles são fundamentais para entender melhor o corpo humano e seus componentes. Assim, a localização e a situação dos diferentes órgãos do corpo serão facilitadas. Existem os planos que seccionam (cortam) e outros que apenas delimitam (tangenciam) o corpo. São planos de secção, EXCETO:",
+	"answers": ["e"],
+	"options": [{
+		"label": "Transversais.",
+		"value": "a"
+	}, {
+		"label": "Sagitais.",
+		"value": "b"
+	}, {
+		"label": "Anterior.",
+		"value": "c"
+	}, {
+		"label": "Mediano.",
+		"value": "d"
+	}, {
+		"label": "Frontais.",
+		"value": "e"
+	}]
+}]

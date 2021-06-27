@@ -1,0 +1,361 @@
+[{
+	"category": "abdome",
+	"title": "Pergunta 1",
+	"question": "Onde se situa a cavidade abdominal:",
+	"answers": ["c"],
+	"options": [{
+		"label": "Situa-se na região infra-torácica na parte dorsal do corpo",
+		"value": "a"
+	}, {
+		"label": "Situa-se na região superior do toráx e na parte ventral do corpo",
+		"value": "b"
+	}, {
+		"label": "Situa-se entre o diafrágma torácico e a abertura superior da pelve",
+		"value": "c"
+	}, {
+		"label": "Situa-se entre o diafrágma torácico e a abertura inferior da pelve",
+		"value": "d"
+	}]
+}, {
+	"category": "abdome",
+	"title": "Pergunta 2",
+	"question": "Dentre as alternativas a seguir, qual não corresponde a regiões do abdome:",
+	"answers": ["b"],
+	"options": [{
+		"label": "Hipocôndrio direito, Hipogástrio e Epigástrio",
+		"value": "a"
+	}, {
+		"label": "Hipocôndrio central, Fossa ilíaca inferior e flanco superior",
+		"value": "b"
+	}, {
+		"label": "Hipocôndrio esquerdo, Fossa Ilíaca esquerda e flanco direito",
+		"value": "c"
+	}, {
+		"label": "Mesogástrio, flanco esquerdo e fossa ilíaca direita",
+		"value": "d"
+	}]
+}, {
+	"category": "abdome",
+	"title": "Pergunta 3",
+	"question": "O abdome é dividido em quantos quadrantes?",
+	"answers": ["b"],
+	"options": [{
+		"label": "2 Quadrante",
+		"value": "a"
+	}, {
+		"label": "4 Quadrantes",
+		"value": "b"
+	}, {
+		"label": "6 Quadrante",
+		"value": "c"
+	}, {
+		"label": "d) 8 Quadrantes",
+		"value": "d"
+	}]
+}, {
+	"category": "abdome ",
+	"title": "Pergunta 4",
+	"question": "Das estruturas a seguir, quais estão localizadas no quadrante superior direito do abdomen (QSD)?",
+	"answers": ["c"],
+	"options": [{
+		"label": "Colo sigmóide, ovário direito e cabeça do pâncreas",
+		"value": "a"
+	}, {
+		"label": "Rim esquerdo, bexiga e baço",
+		"value": "b"
+	}, {
+		"label": "Vesícula Biliacr, Rim Direito, Lobo direito do fígado",
+		"value": "c"
+	}, {
+		"label": "Tuba uterina esquerda, Ceco e ovário esquerdo",
+		"value": "d"
+	}]
+}, {
+	"category": "abdome",
+	"title": "Pergunta 5",
+	"question": "Das estruturas a seguir, quais estão localizadas no quadrante superior direito do abdomen (QSE)?",
+	"answers": ["b"],
+	"options": [{
+		"label": "Vesícula Biliar, rim esquerdo e colo sigmóide",
+		"value": "a"
+	}, {
+		"label": "Baço, Lobo esquerdo do fígado e estômago",
+		"value": "b"
+	}, {
+		"label": "Útero, bexiga e ovário esquerdo",
+		"value": "c"
+	}, {
+		"label": "Baço, Ceco e rim direito",
+		"value": "d"
+	}]
+}, {
+	"category": "abdome",
+	"title": "Pergunta 6",
+	"question": "Das estruturas a seguir, quais estão localizadas no quadrante inferior direito do abdomen (QID)?",
+	"answers": ["a"],
+	"options": [{
+		"label": "Ceco, Apêndice vermiforme e Tuba uterina direita",
+		"value": "a"
+	}, {
+		"label": "Pâncreas, Ovário esquerdo e Rim esquerdo",
+		"value": "b"
+	}, {
+		"label": "Rim direito, Baço e Colo sigmóide",
+		"value": "c"
+	}, {
+		"label": "Funículo espermático esquerdo, rim esquerdo e ovário esquerdo",
+		"value": "d"
+	}]
+}, {
+	"category": "abdome",
+	"title": "Pergunta 7",
+	"question": "Das estruturas a seguir, quais estão localizadas no quadrante inferior esquerdo do abdomen (QIE)?",
+	"answers": ["d"],
+	"options": [{
+		"label": "Ovário esquerdo, ceco e apêndice vermiforme",
+		"value": "a"
+	}, {
+		"label": "Rim direito, pancreas e tuba uterine direita",
+		"value": "b"
+	}, {
+		"label": "Fígado, Baço e Rim esquerdo",
+		"value": "c"
+	}, {
+		"label": "Colo sigmóide, Ovário esquerdo e parte inferior do colón descendente",
+		"value": "d"
+	}]
+}, {
+	"category": "abdome",
+	"title": "Pergunta 8",
+	"question": "Dos músculos a seguir, qual pertence ao abdomen?",
+	"answers": ["b"],
+	"options": [{
+		"label": "Músculo peitoral maior",
+		"value": "a"
+	}, {
+		"label": "Músculo oblíquo externo",
+		"value": "b"
+	}, {
+		"label": "Múscudo deltoide",
+		"value": "c"
+	}, {
+		"label": "Músculo romboide",
+		"value": "d"
+	}]
+}, {
+	"category": "abdome",
+	"title": "Pergunta 9",
+	"question": "Quais músculos compõem a parede abdominal antero-lateral?",
+	"answers": ["d"],
+	"options": [{
+		"label": "Músculo peitoral menor, Músculo reto do abdomen e Músculo piramida",
+		"value": "a"
+	}, {
+		"label": "Obliquo externo, Piramidal, Romboide e Peitoral maior",
+		"value": "b"
+	}, {
+		"label": "Músculo serrátil, Músculo reto do abdomen e Músculo obliquo interno",
+		"value": "c"
+	}, {
+		"label": "Músculo Obliquo externo, Músculo Obliquo Interno, Músculo Transverso do abdomen e Músculo Reto do abdome",
+		"value": "d"
+	}]
+}, {
+	"category": "abdome",
+	"title": "Pergunta 10",
+	"question": "Dos nervos a seguir, qual não inverva a parede abdominal antero-lateral?",
+	"answers": ["d"],
+	"options": [{
+		"label": "Nervo Toracoabdominal",
+		"value": "a"
+	}, {
+		"label": "Nervo Ilío-hipogástrico",
+		"value": "b"
+	}, {
+		"label": "Nervo Ilíoinquinal",
+		"value": "c"
+	}, {
+		"label": "Nervo esplênico torácico",
+		"value": "d"
+	}]
+}, {
+	"category": "abdome",
+	"title": "Pergunta 11",
+	"question": "Das artérias a seguir, qual não participa da vascularização da parede abdominal antero-lateral?",
+	"answers": ["a"],
+	"options": [{
+		"label": "Artéria mesentérica superior",
+		"value": "a"
+	}, {
+		"label": "Artéria epigástrica inferior",
+		"value": "b"
+	}, {
+		"label": "Artéria circunflexa ilíaca profund",
+		"value": "c"
+	}, {
+		"label": "Artéria epigástrica superior",
+		"value": "d"
+	}]
+}, {
+	"category": "abdome",
+	"title": "Pergunta 12",
+	"question": "homens e Qual o principal ocupante do canal inguinal nos mulheres respectivamente:",
+	"answers": ["b"],
+	"options": [{
+		"label": "Ligamento inguinal e ligamento Redondo do útero",
+		"value": "a"
+	}, {
+		"label": "Funículo espermático e ligamento Redondo do útero",
+		"value": "b"
+	}, {
+		"label": "Anel inguinal profundo e Anel inguinal superficial",
+		"value": "c"
+	}, {
+		"label": "Funículo espermático e anel inguinal superficial",
+		"value": "d"
+	}]
+}, {
+	"category": "abdome",
+	"title": "Pergunta 13",
+	"question": "O peritônio consiste em duas lâminas contínuas, sendo elas:",
+	"answers": ["c"],
+	"options": [{
+		"label": "Peritônio visceral e Peritônio humoral",
+		"value": "a"
+	}, {
+		"label": "Peritônio intimo e Peritônio parietal",
+		"value": "b"
+	}, {
+		"label": "Peritônio parietal e Peritônio visceral",
+		"value": "c"
+	}, {
+		"label": "Peritônio intimo e Peritônio humoral",
+		"value": "d"
+	}]
+}, {
+	"category": "abdome",
+	"title": "Pergunta 14",
+	"question": "Das estruturas a seguir, qual não é uma viscera abdominal?",
+	"answers": ["c"],
+	"options": [{
+		"label": "Pâncreas",
+		"value": "a"
+	}, {
+		"label": "Baço",
+		"value": "b"
+	}, {
+		"label": "Timo",
+		"value": "c"
+	}, {
+		"label": "Glândulas supra-renais",
+		"value": "d"
+	}]
+}, {
+	"category": "abdome",
+	"title": "Pergunta 15",
+	"question": "O estômago é dividido em 04 partes principais, sendo elas:",
+	"answers": ["c"],
+	"options": [{
+		"label": "Porções superior, inferior, lateral e central",
+		"value": "a"
+	}, {
+		"label": "Ventral, dorsal, central e intima",
+		"value": "b"
+	}, {
+		"label": "Cardia, fundo, corpo e piloro",
+		"value": "c"
+	}, {
+		"label": "Superior, corpor, inferior e central",
+		"value": "d"
+	}]
+}, {
+	"category": "abdome",
+	"title": "Pergunta 16",
+	"question": "O intestino delgado é constituído por:",
+	"answers": ["d"],
+	"options": [{
+		"label": "Estômago, duodeno e jejuno",
+		"value": "a"
+	}, {
+		"label": "Duodeno, pancreas e fígado",
+		"value": "b"
+	}, {
+		"label": "Estômago, pancreas e fígado",
+		"value": "c"
+	}, {
+		"label": "Duodeno, jejuno e íleo",
+		"value": "d"
+	}]
+}, {
+	"category": "abdome",
+	"title": "Pergunta 17",
+	"question": "O intestino grosso é subdividido em:",
+	"answers": ["a"],
+	"options": [{
+		"label": "Ceco, apêndice, colons ascendente, descendente, transverso, sigmóide; reto e canal anal",
+		"value": "a"
+	}, {
+		"label": "Ilío, Ceco, apêndice, colons ascendente, descendente, transverso e sigmoide",
+		"value": "b"
+	}, {
+		"label": "Ilio, colons ascendente, descendente, transverso e sigmoide",
+		"value": "c"
+	}, {
+		"label": "Ceco, apêndice, jejuno, reto e canal anal",
+		"value": "d"
+	}]
+}, {
+	"category": "abdome",
+	"title": "Pergunta 18",
+	"question": "O ponto de McBurney está situado:",
+	"answers": ["b"],
+	"options": [{
+		"label": "Situado entre a crista ilíaca antero-superior e a porção medial do flanco direito",
+		"value": "a"
+	}, {
+		"label": "Situado entre o umbigo e a espinha ilíaca ântero-superior direita",
+		"value": "b"
+	}, {
+		"label": "Situado entre o umbigo e a espinha ilíaca ântero-superior esquerda",
+		"value": "c"
+	}, {
+		"label": "Situado entre a crista ilíaca antero-superior e a porção medial do flanco esquerdo",
+		"value": "d"
+	}]
+}, {
+	"category": "abdome",
+	"title": "Pergunta 19",
+	"question": "O pancreas é subdivido em:",
+	"answers": ["c"],
+	"options": [{
+		"label": "Cabeça, corpo e dorso",
+		"value": "a"
+	}, {
+		"label": "Porção superior, inferior e centro",
+		"value": "b"
+	}, {
+		"label": "Cabeça, corpo e cauda",
+		"value": "c"
+	}, {
+		"label": "Porção externa, interna e íntima",
+		"value": "d"
+	}]
+}, {
+	"category": "abdome",
+	"title": "Pergunta 20",
+	"question": "Qual dos órgãos a seguir é o maior orgão da cavidade abdominal?",
+	"answers": ["c"],
+	"options": [{
+		"label": "Fígado",
+		"value": "a"
+	}, {
+		"label": "Pâncreas",
+		"value": "b"
+	}, {
+		"label": "Intestino Grosso",
+		"value": "c"
+	}, {
+		"label": "Baço",
+		"value": "d"
+	}]
+}]

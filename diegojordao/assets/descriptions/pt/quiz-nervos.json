@@ -1,0 +1,361 @@
+[{
+	"category": "nervos",
+	"title": "Pergunta 1",
+	"question": "Quantos pares de nervos cranianos possuem os seres humanos?",
+	"answers": ["c"],
+	"options": [{
+		"label": "08 pares",
+		"value": "a"
+	}, {
+		"label": "10 pares",
+		"value": "b"
+	}, {
+		"label": "12 pares",
+		"value": "c"
+	}, {
+		"label": "14 pares",
+		"value": "d"
+	}]
+}, {
+	"category": "nervos",
+	"title": "Pergunta 2",
+	"question": "Onde está localizado os corpos celulares e a saída craniana do nervo olfatório (NC I)?",
+	"answers": ["b"],
+	"options": [{
+		"label": "Epitélio olfatório (células olfatórias). Saída craniana por forames no osso nasal",
+		"value": "a"
+	}, {
+		"label": "Epitélio olfatório (células olfatórias). Saída craniana por forames na lâmina cribiforme do osso etmoide",
+		"value": "b"
+	}, {
+		"label": "Epitélio olfatório (células olfatórias). Saída craniana por forames na lâmina cribiforme do osso esfenoide",
+		"value": "c"
+	}, {
+		"label": "Epitélio olfatório (células olfatórias). Saída craniana por forames no osso zigomático",
+		"value": "d"
+	}]
+}, {
+	"category": "nervos",
+	"title": "Pergunta 3",
+	"question": "Onde está localizado os corpos celulares e a saída craniana do nervo Óptico (NCII)?",
+	"answers": ["a"],
+	"options": [{
+		"label": "Retina (células ganglionares). Saída craniana pelo canal óptico",
+		"value": "a"
+	}, {
+		"label": "Irís (células ganglionares). Saída craniana pelo canal óptico",
+		"value": "b"
+	}, {
+		"label": "Irís (células ganglionares). Saída craniana pelo forame oval",
+		"value": "c"
+	}, {
+		"label": "Retina (células ganglionares). Saída craniana pelo forame oval",
+		"value": "d"
+	}]
+}, {
+	"category": "nervos",
+	"title": "Pergunta 4",
+	"question": "Por onde ocorre a saída craniana do nervo oculo[motor (NC III)?",
+	"answers": ["b"],
+	"options": [{
+		"label": "Pelo forame redondo",
+		"value": "a"
+	}, {
+		"label": "Pela fissura orbital superior",
+		"value": "b"
+	}, {
+		"label": "Pela fissura orbital inferior",
+		"value": "c"
+	}, {
+		"label": "Pelo forame oval",
+		"value": "d"
+	}]
+}, {
+	"category": "nervos",
+	"title": "Pergunta 5",
+	"question": "Onde está localizado os corpos celulares e a saída craniana do nervo troclear (NC IV)?",
+	"answers": ["b"],
+	"options": [{
+		"label": "Corpos célulares no mesencéfalo. Saída craniana pelo forame redondo",
+		"value": "a"
+	}, {
+		"label": "Corpos célulares no mesencéfalo. Saída craniana pela fissura orbital superior",
+		"value": "b"
+	}, {
+		"label": "Corpos célulares no diencéfalo. Saída craniana pela fissura orbital superior",
+		"value": "c"
+	}, {
+		"label": "Corpos célulares no diencéfalo. Saída craniana pelo forame redondo",
+		"value": "d"
+	}]
+}, {
+	"category": "nervos",
+	"title": "Pergunta 6",
+	"question": "Qual é o componente do nervo trigêmeo (NC V) divisão oftálmica, e qual a localização de seus corpos celulares?",
+	"answers": ["c"],
+	"options": [{
+		"label": "Visceral motor. Gânglio trigeminal",
+		"value": "a"
+	}, {
+		"label": "Somático motor. Gânglio trigeminal",
+		"value": "b"
+	}, {
+		"label": "Sensitivo geral. Gânglio trigeminal",
+		"value": "c"
+	}, {
+		"label": "Sensitivo especial. Gânglio trigeminal",
+		"value": "d"
+	}]
+}, {
+	"category": "nervos",
+	"title": "Pergunta 7",
+	"question": "Onde estão localizados os corpos celulares e a saída craniana do nervo Abducente (NC VI)?",
+	"answers": ["b"],
+	"options": [{
+		"label": "Ponte. Saída craniana pelo forame estilomastóideo",
+		"value": "a"
+	}, {
+		"label": "Ponte. Saída craniana pela fissura orbital superior",
+		"value": "b"
+	}, {
+		"label": "Medula oblonga. Saída craniana pelo forame estilomastóideo",
+		"value": "c"
+	}, {
+		"label": "Medula oblonga. Saída craniana pela fissura orbital superior",
+		"value": "d"
+	}]
+}, {
+	"category": "nervos",
+	"title": "Pergunta 8",
+	"question": "O nervo facial (NC VII) possui quais componentes de fibras?",
+	"answers": ["a"],
+	"options": [{
+		"label": "Branquial motor, sensitivo especial, sensitivo geral e visceral motor",
+		"value": "a"
+	}, {
+		"label": "Sensitivo especial, somático motor e visceral motor",
+		"value": "b"
+	}, {
+		"label": "Sensitivo geral, sómatico motor, e branquial motor",
+		"value": "c"
+	}, {
+		"label": "Branquial motor, sensitivo especial, somático motor e visceral motor",
+		"value": "d"
+	}]
+}, {
+	"category": "nervos",
+	"title": "Pergunta 9",
+	"question": "O nervo Vestibulococlear (NC VIII) é dividido em: ",
+	"answers": ["d"],
+	"options": [{
+		"label": "Vestibular e audição",
+		"value": "a"
+	}, {
+		"label": "Vestibular e Temporal",
+		"value": "b"
+	}, {
+		"label": "Vestibular e acústica",
+		"value": "c"
+	}, {
+		"label": "Vestibular e coclear",
+		"value": "d"
+	}]
+}, {
+	"category": "nervos",
+	"title": "Pergunta 10",
+	"question": "O nervo glossofaríngeo (NC IX)  possui fibras nervosas de qual tipo, e por onde ocorre sua saída do crânio?",
+	"answers": ["b"],
+	"options": [{
+		"label": "Possui fibras nervosas sensitivas gerais e especiais. A saída do crânio ocorro pelo forame magno",
+		"value": "a"
+	}, {
+		"label": "Possui fibras nervosas branquial motor, visceral motor, sensitivo visceral, sensitivo especial e sensitivo geral. A saída do crânio ocorro pelo forame jugular",
+		"value": "b"
+	}, {
+		"label": "Possui fibras nervosas branquial motor, visceral motor, sensitivo visceral, sensitivo especial e sensitivo geral. A saída do crânio ocorro pelo forame magno",
+		"value": "c"
+	}, {
+		"label": "Possui fibras nervosas sensitivas gerais e especiais. A saída do crânio ocorro pelo forame oval",
+		"value": "d"
+	}]
+}, {
+	"category": "nervos",
+	"title": "Pergunta 11",
+	"question": "Por onde ocorre a saída do nervo vago (NC X)?",
+	"answers": ["c"],
+	"options": [{
+		"label": "Forame magno",
+		"value": "a"
+	}, {
+		"label": "Forame oval",
+		"value": "b"
+	}, {
+		"label": "Forame jugular",
+		"value": "c"
+	}, {
+		"label": "Forame redondo",
+		"value": "d"
+	}]
+}, {
+	"category": "nervos",
+	"title": "Pergunta 12",
+	"question": "O nervo acessório (NC XI) possuí duas divisões, quais são elas? Por onde ocorre a saída do crânio das mesmas?",
+	"answers": ["d"],
+	"options": [{
+		"label": "Raiz craniana e medular. Ambas saem do crânio pelo forame jugular",
+		"value": "a"
+	}, {
+		"label": "Raiz craniana e raiz espinal. Saem do crânio pelo forame oval e magno respectivamente",
+		"value": "b"
+	}, {
+		"label": "Raiz craniana e raiz medular. Saem pelo crânio pelo forame oval e magno respectivamente",
+		"value": "c"
+	}, {
+		"label": "Raiz craniana e raiz espinal. Ambas saem do crânio pelo forame jugular",
+		"value": "d"
+	}]
+}, {
+	"category": "nervos",
+	"title": "Pergunta 13",
+	"question": "Qual o tipo de fibra nervosa e qual meio de saída do crânio do nervo hipoglosso (NC XII)?",
+	"answers": ["a"],
+	"options": [{
+		"label": "Somático motor. Saída do crânio pelo canal do nervo hipoglosso",
+		"value": "a"
+	}, {
+		"label": "Branquial motor. Saída do crânio pelo forame oval",
+		"value": "b"
+	}, {
+		"label": "Visceral motor. Saída do crânio pelo forame redondo",
+		"value": "c"
+	}, {
+		"label": "Sensitivo especial. Saída do crânio pelo forame jugular",
+		"value": "d"
+	}]
+}, {
+	"category": "nervos",
+	"title": "Pergunta 14",
+	"question": "O nervo trigêmeo é dividido em três partes, sendo elas:",
+	"answers": ["b"],
+	"options": [{
+		"label": "Divisão oftálmica, divisão olfatória e divisão maxilar",
+		"value": "a"
+	}, {
+		"label": "Divisão oftálmica, divisão maxilar e divisão mandibular",
+		"value": "b"
+	}, {
+		"label": "Divisão olfatória, divisão oftálmica e divisão mandibular",
+		"value": "c"
+	}, {
+		"label": "Divisão olfatória, divisão maxilar e divisão mandibular",
+		"value": "d"
+	}]
+}, {
+	"category": "nervos",
+	"title": "Pergunta 15",
+	"question": "O nervo responsável pela visão a partir da retina é o nervo:",
+	"answers": ["d"],
+	"options": [{
+		"label": "Abducente (NC VI)",
+		"value": "a"
+	}, {
+		"label": "Oculomotor (NC III)",
+		"value": "b"
+	}, {
+		"label": "Troclear (NC IV)",
+		"value": "c"
+	}, {
+		"label": "Óptico (NC II)",
+		"value": "d"
+	}]
+}, {
+	"category": "nervos",
+	"title": "Pergunta 16",
+	"question": "Quais os nervos que passam pelo meato acústico interno?",
+	"answers": ["c"],
+	"options": [{
+		"label": "Nervo Abducente (NC VI) e Nervo Troclear (NC IV)",
+		"value": "a"
+	}, {
+		"label": "Nervo Troclear (NC IV) e Nervo Óptico (NC II)",
+		"value": "b"
+	}, {
+		"label": "Nervo vestibulococlear (NC VIII) porção vestibular e coclear; e ramo do nervo fascial (NC VII)",
+		"value": "c"
+	}, {
+		"label": "Nervo Hipoglosso (NC XII) e Nervo Acessório (NC XI)",
+		"value": "d"
+	}]
+}, {
+	"category": "nervos",
+	"title": "Pergunta 17",
+	"question": "O nervo responsável pela invervação dos músculos da língua (com excessão do palatoglosso) é:",
+	"answers": ["a"],
+	"options": [{
+		"label": "Nervo Hipoglosso (NC XII)",
+		"value": "a"
+	}, {
+		"label": "Nervo Abducente (NC VI)",
+		"value": "b"
+	}, {
+		"label": "Nervo Troclear (NC IV)",
+		"value": "c"
+	}, {
+		"label": "Nervo Acessório (NC XI)",
+		"value": "d"
+	}]
+}, {
+	"category": "nervos",
+	"title": "Pergunta 18",
+	"question": "Nervo responsável pela sensação de odor, e seu tipo de fibra nervosa:",
+	"answers": ["d"],
+	"options": [{
+		"label": "Nervo olfatório (NCI). Sensitivo geral",
+		"value": "a"
+	}, {
+		"label": "Nervo olfatório (NCI). Visceral motor",
+		"value": "b"
+	}, {
+		"label": "Nervo olfatório (NCI). Somático motor",
+		"value": "c"
+	}, {
+		"label": "Nervo olfatório (NCI). Sensitivo especial",
+		"value": "d"
+	}]
+}, {
+	"category": "nervos",
+	"title": "Pergunta 19",
+	"question": " Dos nervos a seguir, qual não possui fibras nervosas mistas?",
+	"answers": ["a"],
+	"options": [{
+		"label": "Nervo Abducente (NC VI)",
+		"value": "a"
+	}, {
+		"label": "Nervo Facial (NC VII)",
+		"value": "b"
+	}, {
+		"label": "Nervo Trigêmeio (NC V)",
+		"value": "c"
+	}, {
+		"label": "Nervo glossofaríngeo (NC IX)",
+		"value": "d"
+	}]
+}, {
+	"category": "nervos",
+	"title": "Pergunta 20",
+	"question": "Dos nervos a seguir, qual não possuí fibras nervosas sensitivas especiais?",
+	"answers": ["c"],
+	"options": [{
+		"label": "Nervo Olfatório (NC I)",
+		"value": "a"
+	}, {
+		"label": "Nervo Óptico (NC II)",
+		"value": "b"
+	}, {
+		"label": "Nervo Acessório (NC XI)",
+		"value": "c"
+	}, {
+		"label": "Nervo Vestibulococlear (NC VIII)",
+		"value": "d"
+	}]
+}]
