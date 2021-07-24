@@ -1,0 +1,381 @@
+[{
+    "category": "abdome",
+    "title": "Question 1",
+    "question": "Where is the abdominal cavity located:",
+    "answers": ["c"],
+    "options": [{
+            "label": "It is located in the infra-thoracic region on the dorsal part of the body",
+            "value": "a"
+        },{
+            "label": "It is located in the upper chest and in the ventral part of the body",
+            "value": "b"
+        },{
+            "label": "It is located between the thoracic diaphragm and the upper opening of the pelvis",
+            "value": "c"
+        },{
+            "label": "It is located between the thoracic diaphragm and the lower opening of the pelvis",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "abdome",
+    "title": "Question 2",
+    "question": "Among the alternatives below, which does not correspond to regions of the abdomen:",
+    "answers": ["b"],
+    "options": [{
+            "label": "Right hypochondrium, Hypogastrium and Epigastrium",
+            "value": "a"
+        },{
+            "label": "Central hypochondrium, lower iliac fossa and upper flank",
+            "value": "b"
+        },{
+            "label": "Left hypochondrium, left iliac fossa and right flank",
+            "value": "c"
+        },{
+            "label": "Mesogastrium, left flank and right iliac fossa",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "abdome",
+    "title": "Question 3",
+    "question": "How many quadrants is the abdomen divided?",
+    "answers": ["b"],
+    "options": [{
+            "label": "2 Quadrants",
+            "value": "a"
+        },{
+            "label": "4 Quadrants",
+            "value": "b"
+        },{
+            "label": "6 Quadrants",
+            "value": "c"
+        },{
+            "label": "8 Quadrants",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "abdome",
+    "title": "Question 4",
+    "question": "Which of the following structures are located in the upper left quadrant of the abdomen?",
+    "answers": ["c"],
+    "options": [{
+            "label": "Sigmoid neck, right ovary and head of the pancreas",
+            "value": "a"
+        },{
+            "label": "Left kidney, bladder and spleen",
+            "value": "b"
+        },{
+            "label": "Gallbladder, Right Kidney, Right lobe of the liver",
+            "value": "c"
+        },{
+            "label": "Left uterine tube, cecum and left ovary",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "abdome",
+    "title": "Question 5",
+    "question": "Which of the following structures are located in the upper right quadrant of the abdomen (QSE)?",
+    "answers": ["b"],
+    "options": [{
+            "label": "Gallbladder, left kidney and sigmoid neck",
+            "value": "a"
+        },{
+            "label": "Spleen, left lobe of the liver and stomach",
+            "value": "b"
+        },{
+            "label": "Uterus, bladder and left ovary",
+            "value": "c"
+        },{
+            "label": "Spleen, Cecum and right kidney",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "abdome",
+    "title": "Question 6",
+    "question": "Of the following structures, which are located in the lower right quadrant of the abdomen (QID)?",
+    "answers": ["a"],
+    "options": [{
+            "label": "Cecum, vermiform appendix and right uterine tube",
+            "value": "a"
+        },{
+            "label": "Pancreas, left ovary and left kidney",
+            "value": "b"
+        },{
+            "label": "Right kidney, spleen and sigmoid neck",
+            "value": "c"
+        },{
+            "label": "Left spermatic cord, left kidney and left ovary",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "abdome",
+    "title": "Question 7",
+    "question": "Of the following structures, which are located in the lower left quadrant of the abdomen (QIE)?",
+    "answers": ["d"],
+    "options": [{
+            "label": "Left ovary, cecum and vermiform appendix",
+            "value": "a"
+        },{
+            "label": "Right kidney, pancreas and right uterine tube",
+            "value": "b"
+        },{
+            "label": "Liver, Spleen and Left Kidney",
+            "value": "c"
+        },{
+            "label": "Sigmoid colon, left ovary and lower part of the descending colon",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "abdome",
+    "title": "Question 8",
+    "question": "Of the muscles below, which one belongs to the abdomen?",
+    "answers": ["b"],
+    "options": [{
+            "label": "Pectoralis major muscle",
+            "value": "a"
+        },{
+            "label": "External oblique muscle",
+            "value": "b"
+        },{
+            "label": "Muscle deltoid",
+            "value": "c"
+        },{
+            "label": "Rhomboid muscle",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "abdome",
+    "title": "Question 9",
+    "question": "Which muscles make up the antero-lateral abdominal wall?",
+    "answers": ["d"],
+    "options": [{
+            "label": "Pectoralis minor muscle, Rectus abdominis muscle and Pyramidal muscle",
+            "value": "a"
+        },{
+            "label": "External oblique, pyramidal, rhomboid and pectoralis major",
+            "value": "b"
+        },{
+            "label": "Serratus muscle, Rectus abdominis muscle and Internal oblique muscle",
+            "value": "c"
+        },{
+            "label": "External Oblique Muscle, Internal Oblique Muscle, Transverse Muscle of the abdomen and Rectus Muscle of the abdomen",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "abdome",
+    "title": "Question 10",
+    "question": "Which of the following nerves does not reverse the anterolateral abdominal wall?",
+    "answers": ["d"],
+    "options": [{
+            "label": "Thoracoabdominal nerve",
+            "value": "a"
+        },{
+            "label": "Ilioo-hypogastric nerve",
+            "value": "b"
+        },{
+            "label": "Ilioinquinal Nerve",
+            "value": "c"
+        },{
+            "label": "Thoracic splenic nerve",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "abdome",
+    "title": "Question 11",
+    "question": "Of the followeing arteries, which does not participate in the vascularization of the antero-lateral abdomial wall?",
+    "answers": ["a"],
+    "options": [{
+            "label": "Superior mesenteric artery",
+            "value": "a"
+        },{
+            "label": "Lower epigastric artery",
+            "value": "b"
+        },{
+            "label": "Deep iliac circumflex artery",
+            "value": "c"
+        },{
+            "label": "Upper epigastric artery",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "abdome",
+    "title": "Question 12",
+    "question": "What is the main occupant of the inguinal canal in men and women respectively:",
+    "answers": ["b"],
+    "options": [{
+            "label": "Inguinal ligament and Round ligament of the uterus",
+            "value": "a"
+        },{
+            "label": "Spermatic cord and Round ligament of the uterus",
+            "value": "b"
+        },{
+            "label": "Deep inguinal ring and superficial inguinal ring",
+            "value": "c"
+        },{
+            "label": "Spermatic cord and superficial inguinal ring",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "abdome",
+    "title": "Question 13",
+    "question": "The peritoneum consists of two continuous laminae, namely:",
+    "answers": ["c"],
+    "options": [{
+            "label": "Visceral peritoneum and humoral peritoneum",
+            "value": "a"
+        },{
+            "label": "Intimate peritoneum and parietal peritoneum",
+            "value": "b"
+        },{
+            "label": "Parietal peritoneum and Visceral peritoneum",
+            "value": "c"
+        },{
+            "label": "Intimate peritoneum and humoral peritoneum",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "abdome",
+    "title": "Question 14",
+    "question": "Which of the following structures is not an abdominal viscera?",
+    "answers": ["c"],
+    "options": [{
+            "label": "Pancreas",
+            "value": "a"
+        },{
+            "label": "Spleen",
+            "value": "b"
+        },{
+            "label": "Thymus",
+            "value": "c"
+        },{
+            "label": "Adrenal glands",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "abdome",
+    "title": "Question 15",
+    "question": "The stomach is divided into 04 main parts, which are:",
+    "answers": ["c"],
+    "options": [{
+            "label": "Upper, lower, lateral and central portions",
+            "value": "a"
+        },{
+            "label": "Ventral, dorsal, central and intimate",
+            "value": "b"
+        },{
+            "label": "Cardia, fundus, body and pylorus",
+            "value": "c"
+        },{
+            "label": "Superior, corporate, inferior and central",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "abdome",
+    "title": "Question 16",
+    "question": "The small intestine consists of:",
+    "answers": ["d"],
+    "options": [{
+            "label": "Stomach, duodenum and jejunum",
+            "value": "a"
+        },{
+            "label": "Duodenum, pancreas and liver",
+            "value": "b"
+        },{
+            "label": "Stomach, pancreas and liver",
+            "value": "c"
+        },{
+            "label": "Duodenum, jejunum and ileum",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "abdome",
+    "title": "Question 17",
+    "question": "The large intestine is subdivided into:",
+    "answers": ["a"],
+    "options": [{
+            "label": "Cecum, appendix, ascending, descending, transverse, sigmoid colons; rectum and anal canal",
+            "value": "a"
+        },{
+            "label": "Ilio, Cecum, appendix, ascending, descending, transverse and sigmoid colons",
+            "value": "b"
+        },{
+            "label": "Ilio, ascending, descending, transverse and sigmoid colons",
+            "value": "c"
+        },{
+            "label": "Cecum, appendix, jejunum, rectum and anal canal",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "abdome",
+    "title": "Question 18",
+    "question": "McBurney's point is located:",
+    "answers": ["b"],
+    "options": [{
+            "label": "Located between the antero-superior iliac crest and the medial portion of the right flank",
+            "value": "a"
+        },{
+            "label": "Located between the navel and the right anterior superior iliac spine",
+            "value": "b"
+        },{
+            "label": "Located between the navel and the left anterior superior iliac spine",
+            "value": "c"
+        },{
+            "label": "Located between the antero-superior iliac crest and the medial portion of the left flank",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "abdome",
+    "title": "Question 19",
+    "question": "The pancreas is subdivided into:",
+    "answers": ["c"],
+    "options": [{
+            "label": "Head, body and back",
+            "value": "a"
+        },{
+            "label": "Upper, lower and center portion",
+            "value": "b"
+        },{
+            "label": "Head, body and tail",
+            "value": "c"
+        },{
+            "label": "External, internal and intimate portion",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "abdome",
+    "title": "Question 20",
+    "question": "Which of the following organs is the largest organ in the abdominal cavity?",
+    "answers": ["c"],
+    "options": [{
+            "label": "Liver",
+            "value": "a"
+        },{
+            "label": "Pancreas",
+            "value": "b"
+        },{
+            "label": "Large intestine",
+            "value": "c"
+        },{
+            "label": "Spleen",
+            "value": "d"
+        }
+    ]
+}]

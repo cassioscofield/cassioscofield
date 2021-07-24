@@ -1,0 +1,380 @@
+[{
+    "category": "torax",
+    "title": "Question 1",
+    "question": "The rib cage is composed respectively by:",
+    "answers": ["c"],
+    "options": [{
+            "label": "10 pairs of ribs, collarbones, and sternum.",
+            "value": "a"
+        },{
+            "label": "12 pairs of ribs, sternum, costal cartilages, clavicles and scapulas.",
+            "value": "b"
+        },{
+            "label": "12 pairs of ribs, sternum, costal cartilages and 12 thoracic vertebrae",
+            "value": "c"
+        },{
+            "label": "10 pairs of ribs, sternum, costal cartilages, clavicles and scapulas",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "torax",
+    "title": "Question 2",
+    "question": "Of the following options, which is not part of the rib cage functions:",
+    "answers": ["d"],
+    "options": [{
+            "label": "Protection of the contents of the thoracic cavity",
+            "value": "a"
+        },{
+            "label": "Mechanics of breathing",
+            "value": "b"
+        },{
+            "label": "Fix the cingulate of the upper limbs.",
+            "value": "c"
+        },{
+            "label": "Prevent the expansion of the chest cavity",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "torax",
+    "title": "Question 3",
+    "question": "The sternum consists of 3 parts, which are:",
+    "answers": ["a"],
+    "options": [{
+            "label": "manubrium, body and xiphoid process",
+            "value": "a"
+        },{
+            "label": "epiphyses and diaaphase",
+            "value": "b"
+        },{
+            "label": "manubrium, diaaphase and xiphoid process",
+            "value": "c"
+        },{
+            "label": "epiphyses and xiphoid process",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "torax",
+    "title": "Question 4",
+    "question": "Of the following options, which does not correspond to the muscles of the Thorax Wall:",
+    "answers": ["b"],
+    "options": [{
+            "label": "Upper posterior serratus, external intercostal and subcostal",
+            "value": "a"
+        },{
+            "label": "External Oblique, Internal Oblique and Deltoid",
+            "value": "b"
+        },{
+            "label": "Lower posterior serratus, internal intercostal and Transverse thoracic",
+            "value": "c"
+        },{
+            "label": "Intimate intercostal, rib lifter and subcostal",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "torax",
+    "title": "Question 5",
+    "question": "How many pairs of nerves is the chest wall reversed by?",
+    "answers": ["c"],
+    "options": [{
+            "label": "8 pairs of thoracic spinal nerves",
+            "value": "a"
+        },{
+            "label": "10 pairs of thoracic spinal nerves",
+            "value": "b"
+        },{
+            "label": "12 pairs of thoracic spinal nerves",
+            "value": "c"
+        },{
+            "label": "14 pairs of thoracic spinal nerves",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "torax",
+    "title": "Question 6",
+    "question": "Which arteries make up the arterial supply of the chest wall?",
+    "answers": ["c"],
+    "options": [{
+            "label": "Lungs, heart and thymus",
+            "value": "a"
+        },{
+            "label": "Trachea, esophagus and lungs",
+            "value": "b"
+        },{
+            "label": "Liver, spleen and duodenum",
+            "value": "c"
+        },{
+            "label": "Heart, trachea and thymus",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "torax",
+    "title": "Question 7",
+    "question": "Of the following options, which does not correspond to structures of the thoracic cavity:",
+    "answers": ["c"],
+    "options": [{
+        "label": "Lungs, heart and thymus",
+        "value": "a"
+    },{
+        "label": "Trachea, esophagus and lungs",
+        "value": "b"
+    },{
+        "label": "Liver, spleen and duodenum",
+        "value": "c"
+    },{
+        "label": "Heart, trachea and thymus",
+        "value": "d"
+    }]
+},{
+    "category": "torax",
+    "title": "Question 8",
+    "question": "The Lungs are made up of 3 faces, which are:",
+    "answers": ["d"],
+    "options": [{
+            "label": "Inner face, outer face and inner face",
+            "value": "a"
+        },{
+            "label": "Intercostal face, pectoral face and proximal face",
+            "value": "b"
+        },{
+            "label": "Pulmonary face, cardiac face and mediastinal face",
+            "value": "c"
+        },{
+            "label": "Costal face, mediastinal face and diaphragmatic face",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "torax",
+    "title": "Question 9",
+    "question": "The lungs have 3 margins, which are:",
+    "answers": ["b"],
+    "options": [{
+            "label": "Intercostal margin, cardiac margin and posterior margin",
+            "value": "a"
+        },{
+            "label": "Front margin, bottom margin and rear margin",
+            "value": "b"
+        },{
+            "label": "Pulmonary margin, cardiac margin and mediastinal margin",
+            "value": "c"
+        },{
+            "label": "Lower margin, upper margin and median margin",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "torax",
+    "title": "Question 10",
+    "question": "The right lung is divided into 3 parts, which are:",
+    "answers": ["d"],
+    "options": [{
+            "label": "Left lobe, right lobe and central lobe",
+            "value": "a"
+        },{
+            "label": "Anterior lobe, posterior lobe and internal lobe",
+            "value": "b"
+        },{
+            "label": "Upper lobe, central lobe and middle lobe",
+            "value": "c"
+        },{
+            "label": "Upper lobe, middle lobe and lower lobe",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "torax",
+    "title": "Question 11",
+    "question": "The ribs are classified into 3 main groups, namely:",
+    "answers": ["c"],
+    "options": [{
+            "label": "Real ribs, fake ribs and mixed ribs",
+            "value": "a"
+        },{
+            "label": "Anterior ribs, posterior ribs and lateral ribs",
+            "value": "b"
+        },{
+            "label": "Real ribs, fake ribs and floating ribs",
+            "value": "c"
+        },{
+            "label": "Posterior ribs, lateral ribs and mixed ribs",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "torax",
+    "title": "Question 12",
+    "question": "The pericardium is divided into 02 layers, which are:",
+    "answers": ["a"],
+    "options": [{
+            "label": "fibrous pericardium and serous pericardium",
+            "value": "a"
+        },{
+            "label": "superior pericardium and inferior pericardium",
+            "value": "b"
+        },{
+            "label": "anterior pericardium and posterior pericardium",
+            "value": "c"
+        },{
+            "label": "intimate pericardium and central pericardium",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "torax",
+    "title": "Question 13",
+    "question": "The heart is divided into 03 layers, which are:",
+    "answers": ["c"],
+    "options": [{
+            "label": "exocardium, intracardium and myocardium",
+            "value": "a"
+        },{
+            "label": "epicardium, intracardium and infracardium",
+            "value": "b"
+        },{
+            "label": "epicardium, myocardium and endocardium",
+            "value": "c"
+        },{
+            "label": "endocardium, intracardium and myocardium",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "torax",
+    "title": "Question 14",
+    "question": "The heart receives venous blood through:",
+    "answers": ["d"],
+    "options": [{
+            "label": "Superior vena cava and aorta",
+            "value": "a"
+        },{
+            "label": "Pulmonary veins and inferior vena cava",
+            "value": "b"
+        },{
+            "label": "Aorta and pulmonary arteries",
+            "value": "c"
+        },{
+            "label": "Superior vena cava and inferior vena cava",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "torax",
+    "title": "Question 15",
+    "question": "The heart is divided into four chambers, which are:",
+    "answers": ["c"],
+    "options": [{
+            "label": "His bundle, aortic valve, atrioventricular valve and pulmonary trunk valve",
+            "value": "a"
+        },{
+            "label": "Right and left chambers, and left and right ventricles",
+            "value": "b"
+        },{
+            "label": "Left and right atriums; Left and right ventricles",
+            "value": "c"
+        },{
+            "label": "Superior and inferior vena cava, pulmonary artery and aorta",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "torax",
+    "title": "Question 16",
+    "question": "The heart is divided into 03 faces, which are:",
+    "answers": ["d"],
+    "options": [{
+            "label": "Upper face, lower face, and medial face",
+            "value": "a"
+        },{
+            "label": "Front face, vertical face and horizontal face",
+            "value": "b"
+        },{
+            "label": "Anterior face (sternocostal), diaphragmatic face (lower) and central face",
+            "value": "c"
+        },{
+            "label": "Anterior (sternocostal), diaphragmatic (lower) and pulmonary (left)",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "torax",
+    "title": "Question 17",
+    "question": "Main artery responsible for the vascularization of the heart:",
+    "answers": ["b"],
+    "options": [{
+            "label": "Aorta",
+            "value": "a"
+        },{
+            "label": "Coronary arteries",
+            "value": "b"
+        },{
+            "label": "Pulmonary Artery",
+            "value": "c"
+        },{
+            "label": "Subclavian artery",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "torax",
+    "title": "Question 18",
+    "question": "What is the thickest layer of the heart?",
+    "answers": ["b"],
+    "options": [{
+            "label": "Endocardium",
+            "value": "a"
+        },{
+            "label": "Myocardium",
+            "value": "b"
+        },{
+            "label": "Epicardium",
+            "value": "c"
+        },{
+            "label": "Mesocardium",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "torax",
+    "title": "Question 19",
+    "question": "Which cardiac chamber is responsible for pumping blood to the body through the aorta artery?",
+    "answers": ["c"],
+    "options": [{
+            "label": "Left atrium",
+            "value": "a"
+        },{
+            "label": "Right atrium",
+            "value": "b"
+        },{
+            "label": "Left ventricle",
+            "value": "c"
+        },{
+            "label": "Right ventricle",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "torax",
+    "title": "Question 20",
+    "question": "(PUC-SP) \"Through I, blood II reaches the heart and leaves the heart through the III\".<br/>In the above excerpt, I, II and III can be filled, correctly and respectively, by:",
+    "answers": ["b"],
+    "options": [{
+            "label": "Pulmonary arteries, poor in oxygen and aortic vein.",
+            "value": "a"
+        },{
+            "label": "Pulmonary veins, rich in oxygen and aortic artery.",
+            "value": "b"
+        },{
+            "label": "Arteries and veins, rich in oxygen and aortic veins.",
+            "value": "c"
+        },{
+            "label": "Pulmonary arteries, rich in oxygen and aortic vein.",
+            "value": "d"
+        }
+    ]
+}]

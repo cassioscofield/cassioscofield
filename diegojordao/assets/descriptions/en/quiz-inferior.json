@@ -1,0 +1,382 @@
+[{
+    "category": "inferior",
+    "title": "Question 1",
+    "question": "The lower limbs are connected to the trunk by:",
+    "answers": ["d"],
+    "options": [{
+            "label": "Lumbar vertebrae and femur",
+            "value": "a"
+        },{
+            "label": "Femur and iliac crest",
+            "value": "b"
+        },{
+            "label": "Acetabular joint",
+            "value": "c"
+        },{
+            "label": "Cingulate of the lower limb",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "inferior",
+    "title": "Question 2",
+    "question": "The lower limbs are divided into 04 parts, which are:",
+    "answers": ["b"],
+    "options": [{
+            "label": "Hip, femur, tibia and tarsal bones",
+            "value": "a"
+        },{
+            "label": "Hip, thigh, leg and foot",
+            "value": "b"
+        },{
+            "label": "Basin, thigh, leg and foot",
+            "value": "c"
+        },{
+            "label": "Basin, femur, tibia and foot",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "inferior",
+    "title": "Question 3",
+    "question": "The cingulate of the lower limb is formed by:",
+    "answers": ["d"],
+    "options": [{
+            "label": "Through the femur and pubic symphysis",
+            "value": "a"
+        },{
+            "label": "By the femur and the bony pelvis",
+            "value": "b"
+        },{
+            "label": "02 hip bones (unique in the pubic symphysis) and the coccyx",
+            "value": "c"
+        },{
+            "label": "02 hip bones (unique in the pubic symphysis) and the sacrum",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "inferior",
+    "title": "Question 4",
+    "question": "The hip bone is formed by the fusion of the bones:",
+    "answers": ["b"],
+    "options": [{
+            "label": "Bone pelvis, acetabulum and pubis",
+            "value": "a"
+        },{
+            "label": "Ilium, ischium and pubis",
+            "value": "b"
+        },{
+            "label": "Ilio, acetabulum and pubis",
+            "value": "c"
+        },{
+            "label": "Bone pelvis, symphysis pubis and acetabulum",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "inferior",
+    "title": "Question 5",
+    "question": "Which femur is articulated in which hip structure?",
+    "answers": ["c"],
+    "options": [{
+            "label": "In the pubis",
+            "value": "a"
+        },{
+            "label": "In Ilio",
+            "value": "b"
+        },{
+            "label": "In the acetabulum",
+            "value": "c"
+        },{
+            "label": "Ischium",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "inferior",
+    "title": "Question 6",
+    "question": "Of the following structures, which is not present in the femur bone?",
+    "answers": ["a"],
+    "options": [{
+            "label": "Robust blades",
+            "value": "a"
+        },{
+            "label": "Minor trochanter",
+            "value": "b"
+        },{
+            "label": "Intertrochanteric line",
+            "value": "c"
+        },{
+            "label": "Pectineal line",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "inferior",
+    "title": "Question 7",
+    "question": "What are the bones that make up the leg?",
+    "answers": ["c"],
+    "options": [{
+            "label": "Femur and fibula",
+            "value": "a"
+        },{
+            "label": "Femur and Tibia",
+            "value": "b"
+        },{
+            "label": "Tibia and fibula",
+            "value": "c"
+        },{
+            "label": "Tibia and Acetabulum",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "inferior",
+    "title": "Question 8",
+    "question": "What is the location of the tibia bone?",
+    "answers": ["d"],
+    "options": [{
+            "label": "Located in the anterior and lateral portion of the leg",
+            "value": "a"
+        },{
+            "label": "Located in the posterior and medial portion of the leg",
+            "value": "b"
+        },{
+            "label": "Located in the posterior and lateral portion of the leg",
+            "value": "c"
+        },{
+            "label": "Located in the anterior and medial portion of the leg",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "inferior",
+    "title": "Question 9",
+    "question": "Where is the fibula bone located?",
+    "answers": ["a"],
+    "options": [{
+            "label": "Located in the posterior and lateral portion of the leg",
+            "value": "a"
+        },{
+            "label": "Located in the anterior and lateral portion of the leg",
+            "value": "b"
+        },{
+            "label": "Located in the posterior and medial portion of the leg",
+            "value": "c"
+        },{
+            "label": "Located in the anterior and medial portion of the leg",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "inferior",
+    "title": "Question 10",
+    "question": "The bones of the foot include:",
+    "answers": ["b"],
+    "options": [{
+            "label": "Carpus, metacarpal and phalanges",
+            "value": "a"
+        },{
+            "label": "Tarsus, metatarsus and phalanges",
+            "value": "b"
+        },{
+            "label": "Tarsus, metacarpal and phalanges",
+            "value": "c"
+        },{
+            "label": "Carpus, metatarsus and phalanges",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "inferior",
+    "title": "Question 11",
+    "question": "Tarsal bones consist of seven bones, which are:",
+    "answers": ["d"],
+    "options": [{
+            "label": "Tarsus, calcaneus, cuboid, navicular, talus and 2 cuneiform bones",
+            "value": "a"
+        },{
+            "label": "Calcaneal, navicular, cuboid, and 4 cuneiform bones",
+            "value": "b"
+        },{
+            "label": "Tarsus, metatarsus, cuboid and 3 cuneiform bones",
+            "value": "c"
+        },{
+            "label": "Calcaneus, talus, cuboid, navicular and 3 cuneiform bones",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "inferior",
+    "title": "Question 12",
+    "question": "What is the biggest and most resistant foot bone?",
+    "answers": ["c"],
+    "options": [{
+            "label": "Navicular",
+            "value": "a"
+        },{
+            "label": "Talus",
+            "value": "b"
+        },{
+            "label": "Calcaneal",
+            "value": "c"
+        },{
+            "label": "Cuboid",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "inferior",
+    "title": "Question 13",
+    "question": "The first toe is called:",
+    "answers": ["b"],
+    "options": [{
+            "label": "Halax",
+            "value": "a"
+        },{
+            "label": "Hallux",
+            "value": "b"
+        },{
+            "label": "Hix",
+            "value": "c"
+        },{
+            "label": "Hallox",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "inferior",
+    "title": "Question 14",
+    "question": "How many phalanxes make up the foot?",
+    "answers": ["c"],
+    "options": [{
+            "label": "10 phalanges",
+            "value": "a"
+        },{
+            "label": "12 phalanges",
+            "value": "b"
+        },{
+            "label": "14 phalanges",
+            "value": "c"
+        },{
+            "label": "16 phalanges",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "inferior",
+    "title": "Question 15",
+    "question": "Of the following fascias, which one does not belong to the lower limbs?",
+    "answers": ["d"],
+    "options": [{
+            "label": "Fascia lata",
+            "value": "a"
+        },{
+            "label": "Deep fascia",
+            "value": "b"
+        },{
+            "label": "Crural fascia",
+            "value": "c"
+        },{
+            "label": "Deltoid fascia",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "inferior",
+    "title": "Question 16",
+    "question": "What are the main superficial veins of the lower limbs?",
+    "answers": ["b"],
+    "options": [{
+            "label": "Femoral vein and dorsal digital veins",
+            "value": "a"
+        },{
+            "label": "Great saphenous vein and small saphenous vein",
+            "value": "b"
+        },{
+            "label": "Great saphenous vein and femoral vein",
+            "value": "c"
+        },{
+            "label": "Femoral vein and perforating veins",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "inferior",
+    "title": "Question 17",
+    "question": "Which of the following nerves does not correspond to the innervation of the lower limbs?",
+    "answers": ["d"],
+    "options": [{
+            "label": "Femoral nerve",
+            "value": "a"
+        },{
+            "label": "Obturator nerve",
+            "value": "b"
+        },{
+            "label": "Genitofemoral nerve",
+            "value": "c"
+        },{
+            "label": "Abducent nerve",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "inferior",
+    "title": "Question 18",
+    "question": "Which of the following muscles corresponds to the anterior thigh muscle?",
+    "answers": ["b"],
+    "options": [{
+            "label": "Long adductor muscle",
+            "value": "a"
+        },{
+            "label": "Sartorius muscle",
+            "value": "b"
+        },{
+            "label": "Gracilis muscle",
+            "value": "c"
+        },{
+            "label": "Magnus adductor muscle",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "inferior",
+    "title": "Question 19",
+    "question": "The femoral triangle is limited by:",
+    "answers": ["c"],
+    "options": [{
+            "label": "Coxofemoral ligament (superiorly), sartorius muscle (medially), and sartorius muscle (laterally)",
+            "value": "a"
+        },{
+            "label": "Inguinal ligament (superiorly), gracilis muscle (medially), and adductor magnus muscle (laterally)",
+            "value": "b"
+        },{
+            "label": "Inguinal ligament (superiorly), long adductor muscle (medially), and sartorius muscle (laterally)",
+            "value": "c"
+        },{
+            "label": "Coxofemoral ligament (superiorly), long adductor muscle (medially) and gracilis muscle (laterally)",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "inferior",
+    "title": "Question 20",
+    "question": "The main artery of the lower limb, and its origin, corresponds to the following alternative:",
+    "answers": ["c"],
+    "options": [{
+            "label": "Femoral artery. It originates from the external pudendal artery",
+            "value": "a"
+        },{
+            "label": "Femoral artery. It originates from the internal iliac artery",
+            "value": "b"
+        },{
+            "label": "Femoral artery. It originates from the external iliac artery",
+            "value": "c"
+        },{
+            "label": "Femoral artery. It originates from the obturator artery",
+            "value": "d"
+        }
+    ]
+}
+]

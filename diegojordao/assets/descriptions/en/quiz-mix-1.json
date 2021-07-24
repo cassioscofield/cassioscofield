@@ -1,0 +1,400 @@
+[{
+		"category": "mix-1",
+		"title": "Question 1",
+		"question": "What are the 4 types of imaginary anatomical planes:",
+		"answers": ["b"],
+		"options": [{
+				"label": "middle, meridian, superior and inferior",
+				"value": "a"
+			},{
+				"label": "median, sagittal, frontal and transverse",
+				"value": "b"
+			},{
+				"label": "medium, upper, frontal and transverse",
+				"value": "c"
+			},{
+				"label": "transverse, meridian, superior and inferior",
+				"value": "d"
+			}
+		]
+	},{
+		"category": "mix-1",
+		"title": "Question 2",
+		"question": "What is the correct description of anatomical position?",
+		"answers": ["a"],
+		"options": [{
+				"label": "Person standing with head, eyes and fingers facing forward, arms at the sides with palms facing forward, and lower limbs close together with feet parallel.",
+				"value": "a"
+			},{
+				"label": "Person lying down, looking at the horizon and hands open.",
+				"value": "b"
+			},{
+				"label": "Seated person, arms crossed and hands closed.",
+				"value": "c"
+			},{
+				"label": "None of the above.",
+				"value": "d"
+			}
+		]
+	},{
+		"category": "mix-1",
+		"title": "Question 3",
+		"question": "What is the best definition of fascia?",
+		"answers": ["b"],
+		"options": [{
+				"label": "Tarsal tendon pocket.",
+				"value": "a"
+			},{
+				"label": "Fascia are tissues that surround and condition, isolating deep structures of the body.",
+				"value": "b"
+			},{
+				"label": "Fascia are structures of the orbit.",
+				"value": "c"
+			},{
+				"label": "Carpal tendon pouch.",
+				"value": "d"
+			}
+		]
+	},{
+		"category": "mix-1",
+		"title": "Question 4",
+		"question": "What is the functional division of the skeletal system?",
+		"answers": ["d"],
+		"options": [{
+				"label": "Axial and sagittal.",
+				"value": "a"
+			},{
+				"label": "Appendicular and coronal.",
+				"value": "b"
+			},{
+				"label": "Appendicular and sagittal.",
+				"value": "c"
+			},{
+				"label": "Axial and appendicular.",
+				"value": "d"
+			}
+		]
+	},{
+		"category": "mix-1",
+		"title": "Question 5",
+		"question": "Which bones in the forearm?",
+		"answers": ["d"],
+		"options": [{
+				"label": "Radio and kneecap.",
+				"value": "a"
+			},{
+				"label": "Radio and tibia.",
+				"value": "b"
+			},{
+				"label": "Radio and fibula.",
+				"value": "c"
+			},{
+				"label": "Radio and ulna.",
+				"value": "d"
+			}
+		]
+	},{
+		"category": "mix-1",
+		"title": "Question 6",
+		"question": "Is a supernumerary bone a?",
+		"answers": ["c"],
+		"options": [{
+				"label": "Extra bone of the axial skeleton.",
+				"value": "a"
+			},{
+				"label": "Extra bone of the appendicular skeleton.",
+				"value": "b"
+			},{
+				"label": "Accessory bone arising from a supplementary ossification center.",
+				"value": "c"
+			},{
+				"label": "Mobile bone.",
+				"value": "d"
+			}
+		]
+	},{
+		"category": "mix-1",
+		"title": "Question 7",
+		"question": "Ginglymus joint:",
+		"answers": ["c"],
+		"options": [{
+				"label": "They are sealar joints.",
+				"value": "a"
+			},{
+				"label": "They are biaxial joints.",
+				"value": "b"
+			},{
+				"label": "They are uniaxial joints.",
+				"value": "c"
+			},{
+				"label": "They are flat joints.",
+				"value": "d"
+			}
+		]
+	},{
+		"category": "mix-1",
+		"title": "Question 8",
+		"question": "The main arteries of the celiac trunk are:",
+		"answers": ["d"],
+		"options": [{
+				"label": "Left gastric artery, right splenic artery, and common hepatic artery.",
+				"value": "a"
+			},{
+				"label": "Total gastric artery, splenic artery and common hepatic artery.",
+				"value": "b"
+			},{
+				"label": "Right gastric artery, splenic artery and common hepatic artery.",
+				"value": "c"
+			},{
+				"label": "Left gastric artery, splenic artery and common hepatic artery.",
+				"value": "d"
+			}
+		]
+	},{
+		"category": "mix-1",
+		"title": "Question 9",
+		"question": "lienal artery is the same as:",
+		"answers": ["a"],
+		"options": [{
+				"label": "Splenic artery",
+				"value": "a"
+			},{
+				"label": "Hepatic artery",
+				"value": "b"
+			},{
+				"label": "Pancreatic artery",
+				"value": "c"
+			},{
+				"label": "Renal artery",
+				"value": "d"
+			}
+		]
+	},{
+		"category": "mix-1",
+		"title": "Question 10",
+		"question": "The midgut artery is a:",
+		"answers": ["b"],
+		"options": [{
+				"label": "Celiac trunk",
+				"value": "a"
+			},{
+				"label": "Upper mesenteric",
+				"value": "b"
+			},{
+				"label": "Direct liver",
+				"value": "c"
+			},{
+				"label": "Splenic",
+				"value": "d"
+			},{
+				"label": "Inferior mesenteric",
+				"value": "e"
+			}
+		]
+	},{
+		"category": "mix-1",
+		"title": "Question 11",
+		"question": "(UNIR – Diploma revalidation test) These are the muscles that make up the anserino foot:",
+		"answers": ["c"],
+		"options": [{
+				"label": "Tibialis anterior, sartorius and fibular",
+				"value": "a"
+			},{
+				"label": "Blexor of the tarsus, gracilis and posterior tibialis",
+				"value": "b"
+			},{
+				"label": "Sartorius, gracile and semitendinosus",
+				"value": "c"
+			},{
+				"label": "Semitendinosus, tibialis anterior and peroneal",
+				"value": "d"
+			},{
+				"label": "Tarsal flexor, gracile and patellar",
+				"value": "e"
+			}
+		]
+	},{
+		"category": "mix-1",
+		"title": "Question 12",
+		"question": "(UNIR – Diploma revalidation test) - It is not part of the Sperm Funiculus:",
+		"answers": ["e"],
+		"options": [{
+				"label": "Duct deferens",
+				"value": "a"
+			},{
+				"label": "Pampiniform venous plexus",
+				"value": "b"
+			},{
+				"label": "Sympathetic nerve fibers",
+				"value": "c"
+			},{
+				"label": "Testicular artery",
+				"value": "d"
+			},{
+				"label": " Testicular nerve",
+				"value": "e"
+			}
+		]
+	},{
+		"category": "mix-1",
+		"title": "Question 13",
+		"question": "(UNIR – Diploma revalidation test) - The Soft Palate receives the insertion of 5 muscles that originate at the base of the skull. Not part of this muscle group:",
+		"answers": ["d"],
+		"options": [{
+				"label": "The soft palate lifter",
+				"value": "a"
+			},{
+				"label": "The tensor of the soft palate",
+				"value": "b"
+			},{
+				"label": "The muscle of the uvula",
+				"value": "c"
+			},{
+				"label": "The flexor of the soft palate",
+				"value": "d"
+			},{
+				"label": "The palatoglossus",
+				"value": "and"
+			}
+		]
+	},{
+		"category": "mix-1",
+		"title": "Question 14",
+		"question": "(UNIR - Diploma revalidation test) - The Left coronary artery supplies the following structures, except:",
+		"answers": ["b"],
+		"options": [{
+				"label": "The left atrium",
+				"value": "a"
+			},{
+				"label": "Whole left ventricle",
+				"value": "b"
+			},{
+				"label": "Part of the ventricular septum",
+				"value": "c"
+			},{
+				"label": "The sinoatrial node in 40% of people",
+				"value": "d"
+			},{
+				"label": "Part of the right ventricle",
+				"value": "and"
+			}
+		]
+	},{
+		"category": "mix-1",
+		"title": "Question 15",
+		"question": "(UNIR - Diploma revalidation test) - The mediastinum contains from 'front to back' (or in the Anteroposterior sense):",
+		"answers": ["a"],
+		"options": [{
+				"label": "The Thymus, Large Vessels, Vague and Phrenic Nerves, the Esophagus, the Thoracic Duct",
+				"value": "a"
+			},{
+				"label": "The Heart, the Trachea, the Esophagus, the Recurrent Laryngeal Nerve, the Spine",
+				"value": "b"
+			},{
+				"label": "The Right Ventricle, The Left Ventricle, The Esophagus, The Thoracic Duct, Prevertebral Muscles",
+				"value": "c"
+			},{
+				"label": "The Sternal Bone, The Trachea, The Heart, The Esophagus, The Thoracic Duct",
+				"value": "d"
+			},{
+				"label": "The Thymus, the Trachea, Cardiac Nerve Plexus, the Heart, the Esophagus",
+				"value": "e"
+			}
+		]
+	},{
+		"category": "mix-1",
+		"title": "Question 16",
+		"question": "(UFLA 2018) The pituitary gland participates in important hormonal regulation axes of metabolism. The skull bone in which the pituitary is housed is:",
+		"answers": ["d"],
+		"options": [{
+				"label": "Ethmoid",
+				"value": "a"
+			},{
+				"label": "Occipital",
+				"value": "b"
+			},{
+				"label": "Temporal",
+				"value": "c"
+			},{
+				"label": "Sphenoid",
+				"value": "d"
+			}
+		]
+	},{
+		"category": "mix-1",
+		"title": "Question 17",
+		"question": "(UFLA 2018) Considering these muscles present in the abdominal wall:<br/>1. External oblique.<br/>2. Internal oblique.<br/>3. Transversus of the abdomen.<br/>Tick ​​the alternative that lists them from most shallow to deepest:",
+		"answers": ["d"],
+		"options": [{
+				"label": "2, 3, 1",
+				"value": "a"
+			},{
+				"label": "2, 1, 3",
+				"value": "b"
+			},{
+				"label": "1, 3, 2",
+				"value": "c"
+			},{
+				"label": "1, 2, 3",
+				"value": "d"
+			}
+		]
+	},{
+		"category": "mix-1",
+		"title": "Question 18",
+		"question": "(UFLA 2018) The musculature of the lower limbs is responsible for knee joint movements. The muscles below act on knee flexion, EXCEPT:",
+		"answers": ["b"],
+		"options": [{
+				"label": "Grácil",
+				"value": "a"
+			},{
+				"label": "Vast medial",
+				"value": "b"
+			},{
+				"label": "Gastrocnemius",
+				"value": "c"
+			},{
+				"label": "Biceps femoris",
+				"value": "d"
+			}
+		]
+	},{
+		"category": "mix-1",
+		"title": "Question 19",
+		"question": "What is the odd little horseshoe bone that does not belong to the skull or face, is located in the neck region, below the mandible and above the thyroid cartilage of the larynx.",
+		"answers": ["d"],
+		"options": [{
+				"label": "sphenoid bone",
+				"value": "a"
+			},{
+				"label": "odd palatal bone",
+				"value": " b"
+			},{
+				"label": "ethmoid bone",
+				"value": " c"
+			},{
+				"label": "hyoid bone",
+				"value": " d"
+			}
+		]
+	},{
+		"category": "mix-1",
+		"title": "Question 20",
+		"question": "The largest and smallest bone in the body respectively:",
+		"answers": ["d"],
+		"options": [{
+				"label": "hammer bone and anvil",
+				"value": "a"
+			},{
+				"label": "palatine bone and femur",
+				"value": "b"
+			},{
+				"label": "femur and stapes",
+				"value": "c"
+			},{
+				"label": "femur and hammer",
+				"value": "d"
+			}
+		]
+	}
+]

@@ -50426,7 +50426,11 @@ ion-menu ion-list-header {
 }
 
 .list-md + ion-list ion-list-header {
-  padding-top: 16px;
+  padding-top: 4px;
+}
+
+.list-md {
+  padding-bottom: 8px;
 }
 
 .list-header-md {
@@ -50552,6 +50556,11 @@ ion-slide {
 
 .toolbar-title {
   text-overflow: ellipsis !important;
+}
+
+ion-label.label.label-md {
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
 
 page-home .level-button {

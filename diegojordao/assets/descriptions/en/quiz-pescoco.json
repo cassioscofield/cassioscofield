@@ -1,0 +1,361 @@
+[{
+	"category": "pescoco",
+	"title": "Question 1",
+	"question": "The skeleton of the neck is formed by:",
+	"answers": ["a"],
+	"options": [{
+		"label": "Cervical vertebrae, hyoid bone, external manubrium and clavicles",
+		"value": "a"
+	}, {
+		"label": "Cervical vertebrae, external manubrium, clavicles and scapulae",
+		"value": "b"
+	}, {
+		"label": "Cervical vertebrae, hyoid bone, external manubrium and scapulae",
+		"value": "c"
+	}, {
+		"label": "Cervical vertebrae, atlas, hyoid bone and clavicles",
+		"value": "d"
+	}]
+}, {
+	"category": "pescoco",
+	"title": "Question 2",
+	"question": "The mobile hyoid bone is located:",
+	"answers": ["b"],
+	"options": [{
+		"label": "Back of the neck, at the vertebral level of C2 (axis), at the angle between the mandible and the cricoid cartilage",
+		"value": "a"
+	}, {
+		"label": "Anterior part of the neck, at the C3 vertebral level, at the angle between the mandible and the thyroid cartilage",
+		"value": "b"
+	}, {
+		"label": "Back of the neck, at the vertebral level of C3, at the angle between the mandible and the cricoid cartilage",
+		"value": "c"
+	}, {
+		"label": "Anterior part of the neck, at the vertebral level of C2 (axis), at the angle between the mandible and the thyroid cartilage",
+		"value": "d"
+	}]
+}, {
+	"category": "pescoco",
+	"title": "Question 3",
+	"question": "There are 03 superficial and lateral neck muscles, they are:",
+	"answers": ["c"],
+	"options": [{
+		"label": "Mentual, sternocleidomastoid and trapezius",
+		"value": "a"
+	}, {
+		"label": "Mentual, trapezius and minor rhomboid",
+		"value": "b"
+	}, {
+		"label": "Platysma, sternocleidomastoid and trapezius",
+		"value": "c"
+	}, {
+		"label": "Platysma, sternocleidomastoid and minor rhomboid",
+		"value": "d"
+	}]
+}, {
+	"category": "pescoco",
+	"title": "Question 4",
+	"question": "The lateral cervical trigone is usually formed by the pre-vertebral fascia that extends over 04 muscles, which are:",
+	"answers": ["d"],
+	"options": [{
+		"label": "Sternocleidomastoid, scapular lifter, middle and posterior scalene",
+		"value": "a"
+	}, {
+		"label": "Sternocleidomastoid, scapular lifter, mentual and trapezius",
+		"value": "b"
+	}, {
+		"label": "Splenic head, scapular lifter, mental and trapezius",
+		"value": "c"
+	}, {
+		"label": "Head splenium, scapular lifter, middle and posterior scalene",
+		"value": "d"
+	}]
+}, {
+	"category": "pescoco",
+	"title": "Question 5",
+	"question": "Among the following structures, which is located in the occipital trigone?",
+	"answers": ["b"],
+	"options": [{
+		"label": "Subclavian vein",
+		"value": "a"
+	}, {
+		"label": "Accessory nerve",
+		"value": "b"
+	}, {
+		"label": "Submandibular gland",
+		"value": "c"
+	}, {
+		"label": "Internal jugular vein",
+		"value": "d"
+	}]
+}, {
+	"category": "pescoco",
+	"title": "Question 6",
+	"question": "Among the structures below, which is not located in the omoclavicular triangle?",
+	"answers": ["c"],
+	"options": [{
+		"label": "Subclavian artery (3rd part)",
+		"value": "a"
+	}, {
+		"label": "Suprascapular artery",
+		"value": "b"
+	}, {
+		"label": "Submandibular gland",
+		"value": "c"
+	}, {
+		"label": "Supraclavicular lymph nodes",
+		"value": "d"
+	}]
+}, {
+	"category": "pescoco",
+	"title": "Question 7",
+	"question": "Among the following structures, which is not located in the submandibular triangle?",
+	"answers": ["a"],
+	"options": [{
+		"label": "Internal jugular vein",
+		"value": "a"
+	}, {
+		"label": "Submandibular gland",
+		"value": "b"
+	}, {
+		"label": "Submandibular lymph nodes",
+		"value": "c"
+	}, {
+		"label": "Nerve for the mylohyoid muscle",
+		"value": "d"
+	}]
+}, {
+	"category": "pescoco",
+	"title": "Question 8",
+	"question": "Among the following structures, which is located in the submental triangle?",
+	"answers": ["d"],
+	"options": [{
+		"label": "Subclavian artery",
+		"value": "a"
+	}, {
+		"label": "Subclavian vein",
+		"value": "b"
+	}, {
+		"label": "Internal jugular vein",
+		"value": "c"
+	}, {
+		"label": "Submental lymph nodes",
+		"value": "d"
+	}]
+}, {
+	"category": "pescoco",
+	"title": "Question 9",
+	"question": "Among the following structures, which is not located in the carotid triangle?",
+	"answers": ["c"],
+	"options": [{
+		"label": "Thyroid gland",
+		"value": "a"
+	}, {
+		"label": "Vacant nerve",
+		"value": "b"
+	}, {
+		"label": "Milohyoid muscle",
+		"value": "c"
+	}, {
+		"label": "Branches of the cervical plexus",
+		"value": "d"
+	}]
+}, {
+	"category": "pescoco",
+	"title": "Question 10",
+	"question": "Among the following structures, which is not located in the muscle triangle?",
+	"answers": ["d"],
+	"options": [{
+		"label": "Parathyroid gland",
+		"value": "a"
+	}, {
+		"label": "Sternothyroid muscle",
+		"value": "b"
+	}, {
+		"label": "Sternohyoid muscle",
+		"value": "c"
+	}, {
+		"label": "Facial artery",
+		"value": "d"
+	}]
+}, {
+	"category": "pescoco",
+	"title": "Question 11",
+	"question": "The root of the neck is limited laterally, anteriorly and posteriorly by:",
+	"answers": ["a"],
+	"options": [{
+		"label": "the 1st pair of ribs and their costal cartilages, by the external manubrium and by the vertebral body t1",
+		"value": "a"
+	}, {
+		"label": "the 2nd pair of ribs and their costal cartilages, the external manubrium and the vertebral body t2",
+		"value": "b"
+	}, {
+		"label": "the 3rd pair of ribs and their costal cartilages, by the external manubrium, and by the vertebral body t3",
+		"value": "c"
+	}, {
+		"label": "the 4th pair of ribs and their costal cartilages, the external manubrium and the t4 vertebral body",
+		"value": "d"
+	}]
+}, {
+	"category": "pescoco",
+	"title": "Question 12",
+	"question": "Of the following arteries, which is not located at the root of the neck?",
+	"answers": ["c"],
+	"options": [{
+		"label": "Brachiocephalic trunk",
+		"value": "a"
+	}, {
+		"label": "Common carotid artery",
+		"value": "b"
+	}, {
+		"label": "Aortic artery",
+		"value": "c"
+	}, {
+		"label": "Subclavian artery",
+		"value": "d"
+	}]
+}, {
+	"category": "pescoco",
+	"title": "Question 13",
+	"question": "Of the following muscles, which is not related to neck movement?",
+	"answers": ["c"],
+	"options": [{
+		"label": "Head splenium",
+		"value": "a"
+	}, {
+		"label": "Posterior Scalene",
+		"value": "b"
+	}, {
+		"label": "Greater rhomboid",
+		"value": "c"
+	}, {
+		"label": "Long neck",
+		"value": "d"
+	}]
+}, {
+	"category": "pescoco",
+	"title": "Question 14",
+	"question": "There are two large veins that end at the root of the neck, they are:",
+	"answers": ["a"],
+	"options": [{
+		"label": "External jugular vein anterior jugular vein",
+		"value": "a"
+	}, {
+		"label": "Internal jugular vein and posterior jugular vein",
+		"value": "b"
+	}, {
+		"label": "External jugular vein and posterior jugular vein",
+		"value": "c"
+	}, {
+		"label": "Internal jugular vein and anterior jugular vein",
+		"value": "d"
+	}]
+}, {
+	"category": "pescoco",
+	"title": "Question 15",
+	"question": "Which of the following structures do not correspond to the viscera of the neck?",
+	"answers": ["b"],
+	"options": [{
+		"label": "Thyroid and parathyroid glands",
+		"value": "a"
+	}, {
+		"label": "Stomach and duodenum",
+		"value": "b"
+	}, {
+		"label": "Larynx and trachea",
+		"value": "c"
+	}, {
+		"label": "Pharynx and esophagus",
+		"value": "d"
+	}]
+}, {
+	"category": "pescoco",
+	"title": "Question 16",
+	"question": "The thyroid gland is located:",
+	"answers": ["d"],
+	"options": [{
+		"label": "It is located anteriorly to the sternothyroid and sternohyoid muscles, at the level of vertebrae C4 to T2. And its lobes are located postero-proximal to the larynx and trachea",
+		"value": "a"
+	}, {
+		"label": "It is located anteriorly to the sternothyroid and sternohyoid muscles, at the level of vertebrae C5 to T1. And its lobes are located posterolateral to the larynx and trachea",
+		"value": "b"
+	}, {
+		"label": "It is located deep in the sternothyroid and sternohyoid muscles, at the level of vertebrae C4 to T2. And its lobes are located antero-proximal to the larynx and trachea",
+		"value": "c"
+	}, {
+		"label": "It is located deep in the sternothyroid and sternohyoid muscles, at the level of vertebrae C5 to T1. And its lobes are located anterolateral to the larynx and trachea",
+		"value": "d"
+	}]
+}, {
+	"category": "pescoco",
+	"title": "Question 17",
+	"question": "Which of the following laryngeal muscles is responsible for stretching and tensioning the vocal fold?",
+	"answers": ["a"],
+	"options": [{
+		"label": "Cricothyroid muscle",
+		"value": "a"
+	}, {
+		"label": "Thyroarytenoid muscle",
+		"value": "b"
+	}, {
+		"label": "Vocal muscle",
+		"value": "c"
+	}, {
+		"label": "Arytenoid muscle",
+		"value": "d"
+	}]
+}, {
+	"category": "pescoco",
+	"title": "Question 18",
+	"question": "Of the following muscles, which one does not correspond to a pharynx muscle?",
+	"answers": ["d"],
+	"options": [{
+		"label": "Lower constrictor muscle",
+		"value": "a"
+	}, {
+		"label": "Palatopharyngeal muscle",
+		"value": "b"
+	}, {
+		"label": "Stylopharyngeal Muscle",
+		"value": "c"
+	}, {
+		"label": "Aitenoid muscle",
+		"value": "d"
+	}]
+}, {
+	"category": "pescoco",
+	"title": "Question 19",
+	"question": "The pharynx extends:",
+	"answers": ["c"],
+	"options": [{
+		"label": "From the apex of the mouth to the upper margin of the cricoid cartilage, posteriorly, and the upper margin of the C6 vertebra, anteriorly",
+		"value": "a"
+	}, {
+		"label": "From the apex of the mouth to the lower margin of the cricoid cartilage, anteriorly, and the upper vertebra C6, posteriorly",
+		"value": "b"
+	}, {
+		"label": "From the base of the skull to the lower margin of the cricoid cartilage, anteriorly, and the lower margin of the C6 vertebra, posteriorly",
+		"value": "c"
+	}, {
+		"label": "From the base of the skull to the lower margin of the cricoid cartilage, posteriorly, and the lower margin of the C6 vertebra, anteriorly",
+		"value": "d"
+	}]
+}, {
+	"category": "pescoco",
+	"title": "Question 20",
+	"question": "The cavity of the larynx is divided into three parts, which are:",
+	"answers": ["b"],
+	"options": [{
+		"label": "Upper portion, middle portion and lower portion",
+		"value": "a"
+	}, {
+		"label": "Larynx vestibule, laryngeal ventricle and infraglottic cavity",
+		"value": "b"
+	}, {
+		"label": "Apex, center and base",
+		"value": "c"
+	}, {
+		"label": "Larynx vestibule, laryngeal ventricle and oral cavity",
+		"value": "d"
+	}]
+}]

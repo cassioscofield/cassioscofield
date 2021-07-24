@@ -1,0 +1,388 @@
+[{
+    "category": "mix-2",
+    "title": "Question 1",
+    "question": "(FUNIVERSA 2015) Knowing the position of urinary organs and not injuring them during evisceration is necessary if the doctor wishes to dissect them for study. The ureter descends from the kidneys to the urinary bladder, located in the pelvis, in an anterior position and following the path of the",
+    "answers": ["d"],
+    "options": [{
+            "label": "Body of the lumbar vertebrae",
+            "value": "a"
+        },{
+            "label": "Intervertebral disc",
+            "value": "b"
+        },{
+            "label": "Rectabdominal muscle",
+            "value": "c"
+        },{
+            "label": "Psoas muscle",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "mix-2",
+    "title": "Question 2",
+    "question": "(FUNIVERSA 2015) According to Dangelo and Fattini in Basic Human Anatomy, “the simple observation of a human group immediately reveals morphological differences between the elements that make up the group”. Based on this information, check the alternative that presents the name of these differences.",
+    "answers": ["b"],
+    "options": [{
+            "label": "Morphological divisions",
+            "value": "a"
+        },{
+            "label": "Anatomical variations",
+            "value": "b"
+        },{
+            "label": "Elementary rarefactions",
+            "value": "c"
+        },{
+            "label": "Congenital malformations",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "mix-2",
+    "title": "Question 3",
+    "question": "(UFG 2015) There are ligaments found in the knee joint:",
+    "answers": ["c"],
+    "options": [{
+            "label": "Fibular collateral, medial retinaculum, annular radius.",
+            "value": "a"
+        },{
+            "label": "Meniscus-femoris, transverse knee, coracoacromial.",
+            "value": "b"
+        },{
+            "label": "Anterior cruciate, meniscus-femoral, tibial collateral",
+            "value": "c"
+        },{
+            "label": "Radial, patellar, posterior cruciate collateral",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "mix-2",
+    "title": "Question 4",
+    "question": "(UFG 2015) The structures of the nasal cavity are:",
+    "answers": ["c"],
+    "options": [{
+            "label": "Nasal bone, tubal torus, vocal fold.",
+            "value": "a"
+        },{
+            "label": "Vocal fold, nasal septum, alar cartilage",
+            "value": "b"
+        },{
+            "label": "Nasal shell, nasal septum, choanas",
+            "value": "c"
+        },{
+            "label": "Mento, alar cartilage, choanas.",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "mix-2",
+    "title": "Question 5",
+    "question": "(UFG 2015) When dissecting the forearm region, the following superficial veins are visualized: ",
+    "answers": ["d"],
+    "options": [{
+            "label": "Median forearm, brachial, axillary",
+            "value": "a"
+        },{
+            "label": "Median elbow, ulnar, basilica.",
+            "value": "b"
+        },{
+            "label": "Brachial, radial, cephalic",
+            "value": "c"
+        },{
+            "label": "Median forearm, head, basilica.",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "mix-2",
+    "title": "Question 6",
+    "question": "(UFG 2015) When removing the brain from the corpse with instruments, after sectioning the scalp and muscles, a horizontal semicircular and binaural cut of the skull is performed and the skullcap is removed. What is the anatomical structure seen just below the skullcap? ",
+    "answers": ["d"],
+    "options": [{
+            "label": "Brain",
+            "value": "a"
+        },{
+            "label": "Piá-mater.",
+            "value": "b"
+        },{
+            "label": "Bulb.",
+            "value": "c"
+        },{
+            "label": "Dura mater.",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "mix-2",
+    "title": "Question 7",
+    "question": "(UFG 2015) When removing the thoracic visceral block, the following organs are visualized: ",
+    "answers": ["a"],
+    "options": [{
+            "label": "Heart, lungs, thymus.",
+            "value": "a"
+        },{
+            "label": "Heart, lungs, spleen.",
+            "value": "b"
+        },{
+            "label": "Spleen, thymus, kidneys.",
+            "value": "c"
+        },{
+            "label": "Stomach, cecum, kidneys.",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "mix-2",
+    "title": "Question 8",
+    "question": "(UFG 2015) The bones of the tarsus are:",
+    "answers": ["b"],
+    "options": [{
+            "label": "Scaphoid, pyramidal, semilunar, capitate.",
+            "value": "a"
+        },{
+            "label": "Navicular, cuboid, stems, cuneiform.",
+            "value": "b"
+        },{
+            "label": "Cuboid, calcaneus, scaphoid, trapezoid",
+            "value": "c"
+        },{
+            "label": "Stalks, cuneiform, capitate, semilunar.",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "mix-2",
+    "title": "Question 9",
+    "question": "(UFG 2015) The nerves responsible for lower limb innervation are:",
+    "answers": ["a"],
+    "options": [{
+            "label": "Sciatic, common fibular, tibial.",
+            "value": "a"
+        },{
+            "label": "Femoral, ischial, iliohypogastric.",
+            "value": "b"
+        },{
+            "label": "Tibial, femoral, thoracodorsal.",
+            "value": "c"
+        },{
+            "label": "Common fibular, subcostal, pudendal.",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "mix-2",
+    "title": "Question 10",
+    "question": "(UFG 2015) The tunics that line the testicles are:",
+    "answers": ["d"],
+    "options": [{
+            "label": "Vaginal, peritoneous, external sperm.",
+            "value": "a"
+        },{
+            "label": "Dartos, white, internal sperm.",
+            "value": "b"
+        },{
+            "label": "Vaginal, dartos, internal sperm.",
+            "value": "c"
+        },{
+            "label": "Albugine, cremasteric, external sperm.",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "mix-2",
+    "title": "Question 11",
+    "question": "(FCM-MG 2020) The joints present between the bones of the upper limb allow movement between various axes and anatomical planes and are described according to the shape or type of material by which bones are joined.<br/>The joint classified as syndesmosis is found in the upper limb among the bones:",
+    "answers": ["b"],
+    "options": [{
+            "label": "Humerus and radius",
+            "value": "a"
+        },{
+            "label": "Ulna and radius",
+            "value": "b"
+        },{
+            "label": "Proximal phalanx and metacarpal",
+            "value": "c"
+        },{
+            "label": "Radius and carpal bones",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "mix-2",
+    "title": "Question 12",
+    "question": "(FCM-MG 2020) The organ related to the sense of hearing is the ear, which is subdivided into the ear outer ear, middle ear and inner ear, containing their respective components.<br/>The organ of Corti, which presents the hearing receptors, is located in the inner ear",
+    "answers": ["d"],
+    "options": [{
+            "label": "Bulb of the semicircular canal.",
+            "value": "a"
+        },{
+            "label": "Vestibule.",
+            "value": "b"
+        },{
+            "label": "Semicircular duct.",
+            "value": "c"
+        },{
+            "label": "Cochlear duct.",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "mix-2",
+    "title": "Question 13",
+    "question": "(FCM-MG 2020) Craniometric points are important bone reference points, used mainly in forensic medicine and cephalometric analysis.<br/>The nasion is a craniometric point that is located at the point:",
+    "answers": ["c"],
+    "options": [{
+            "label": "Inferior of the piriform opening at the base of the anterior nasal spine.",
+            "value": "a"
+        },{
+            "label": "Against the sagittal suture with the coronal suture.",
+            "value": "b"
+        },{
+            "label": "Against the internal suture and the fronto-nasal suture.",
+            "value": "c"
+        },{
+            "label": "Above the fronto-nasal suture between the superciliary arches.",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "mix-2",
+    "title": "Question 14",
+    "question": "(FCM-MG 2020) The femoral trigone is a subfascial space of triangular shape, which contains the femoral nerve, femoral artery and vein. It is a useful reference point for understanding the inguinal region.<br/>As for the limits of the femoral triangle, it is CORRECT to state that:",
+    "answers": ["a"],
+    "options": [{
+            "label": "The upper limit is formed by the inguinal ligament that forms the base of the femoral triangle.",
+            "value": "a"
+        },{
+            "label": "The trine floor is formed by the sartorius muscle and the long adductor muscle.",
+            "value": "b"
+        },{
+            "label": "The medial limit is formed by the iliopsoas and pectineal muscles",
+            "value": "c"
+        },{
+            "label": "The lateral limit is formed by the medial margin of the adductor magnus muscle.",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "mix-2",
+    "title": "Question 15",
+    "question": "(FCM-MG 2020) Often, novice students are frustrated because the bodies examined or dissected are not the same as the atlas or textbook. Some anatomical variations are important in clinical practice and especially in surgery.<br/>Regarding anatomical variations and their importance, check the CORRECT alternative.",
+    "answers": ["a"],
+    "options": [{
+            "label": "Anatomical variation generally has no effect on normal function.",
+            "value": "a"
+        },{
+            "label": "Approximately 0.1% of newborns have one or more abnormalities significant birth defects.",
+            "value": "b"
+        },{
+            "label": "The nerves have the largest anatomical variations and the veins, the smallest variations.",
+            "value": "c"
+        },{
+            "label": "There is no variation in the size, shape and mode of insertion of the muscles.",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "mix-2",
+    "title": "Question 16",
+    "question": "(FCM-MG 2020) The circulatory system carries fluid throughout the body. It is formed by the heart, blood vessels and lymph vessels.<br/>Tick ​​the CORRECT alternative on that system.",
+    "answers": ["d"],
+    "options": [{
+            "label": "Carbon dioxide is exchanged for oxygen in the pulmonary capillaries and the blood rich in oxygen is brought back through the pulmonary veins of the lungs to the right atrium of the heart.",
+            "value": "a"
+        },{
+            "label": "The left ventricle drives oxygen-rich blood, which arrives from the lungs to the body through the inferior and superior vena cava.",
+            "value": "b"
+        },{
+            "label": "The heart consists of a muscle pump with a left side and a right side that they work in a relay system, sending blood to the body and lungs.",
+            "value": "c"
+        },{
+            "label": "The circuit from the left ventricle to the right atrium is the systemic circulation.",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "mix-2",
+    "title": "Question 17",
+    "question": "(FCM-MG 2020) The eye is the organ of vision, formed by the eye bulb and the optic nerve. The orbit contains the eye bulb and accessory vision structures. About the eye and its function, check the CORRECT alternative.",
+    "answers": ["a"],
+    "options": [{
+            "label": "The eyelids protect the eye from injury, excessive lighting and maintain the cornea wet by spreading the tear fluid.",
+            "value": "a"
+        },{
+            "label": "The lacrimal bone is not one of the orbit-forming.",
+            "value": "b"
+        },{
+            "label": "The apex of the orbit in the minor wing of the sphenoid bone contains the ophthalmic canal.",
+            "value": "c"
+        },{
+            "label": "The iris, which is literally on the back of the lens, has several openings, the largest of them called pupil.",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "mix-2",
+    "title": "Question 18",
+    "question": "(FCM-MG 2020) Check the CORRECT alternative corresponding to the arteries responsible for all blood flow in the hand.",
+    "answers": ["b"],
+    "options": [{
+            "label": "Deep brachial artery and circumflex elbow artery.",
+            "value": "a"
+        },{
+            "label": "Ulnar artery and radial artery.",
+            "value": "b"
+        },{
+            "label": "Brachial artery and anterior interosseous artery.",
+            "value": "c"
+        },{
+            "label": "Common interosseous artery and brachial artery.",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "mix-2",
+    "title": "Question 19",
+    "question": "(FUNRIO 2015) The teaching of human anatomy can be done through the systemic approach, which considers the different organs of the human body organized into functional and integrated systems and devices. Check the option that correctly indicates the names of the organs or their portions, and the name of the organ system to which they belong.",
+    "answers": ["d"],
+    "options": [{
+            "label": "Respiratory system - bronchi, thymus and lungs.",
+            "value": "b"
+        },{
+            "label": "Digestive system - stomach, transverse colon, pharynx and larynx.",
+            "value": "b"
+        },{
+            "label": "Central nervous system - brain, cerebellum and nervous ganglia.",
+            "value": "c"
+        },{
+            "label": "Integumentary system - skin and its attachments.",
+            "value": "d"
+        },{
+            "label": "Endocrine system - spleen, thymus, duodenum, pancreas and liver.",
+            "value": "e"
+        }
+    ]
+},{
+    "category": "mix-2",
+    "title": "Question 20",
+    "question": "(IDECAN 2014) To study human anatomy it is necessary to know the so-called anatomical planes, as they are fundamental to better understand the human body and its components. Thus, the location and situation of the different organs of the body will be facilitated. There are the planes that cut (cut) and others that only delimit (tangent) the body. Section plans are EXCEPT:",
+    "answers": ["e"],
+    "options": [{
+            "label": "Transversal.",
+            "value": "a"
+        },{
+            "label": "Sagittarius.",
+            "value": "b"
+        },{
+            "label": "Previous.",
+            "value": "c"
+        },{
+            "label": "Average.",
+            "value": "d"
+        },{
+            "label": "Frontal.",
+            "value": "e"
+        }
+    ]
+}
+]
