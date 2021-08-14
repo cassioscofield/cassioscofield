@@ -1,0 +1,381 @@
+[{
+    "category": "pelve",
+    "title": "Pregunta 1",
+    "question": "La cadera se forma a partir de la fusión de 03 huesos, que son:",
+    "answers": ["b"],
+    "options": [{
+            "label": "Ilion, sacro y fémur",
+            "value": "a"
+        },{
+            "label": "Ilion, isquion y pubis",
+            "value": "b"
+        },{
+            "label": "Sacro, pubis y fémur",
+            "value": "c"
+        },{
+            "label": "Sacro, acetábulo y peroné",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "pelve",
+    "title": "Pregunta 2",
+    "question": "¿El sacro está formado por la fusión de cuántas vértebras?",
+    "answers": ["d"],
+    "options": [{
+            "label": "2 vértebras",
+            "value": "a"
+        },{
+            "label": "3 vértebras",
+            "value": "b"
+        },{
+            "label": "4 vértebras",
+            "value": "c"
+        },{
+            "label": "5 vértebras",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "pelve",
+    "title": "Pregunta 3",
+    "question": "¿El cóccix está formado por la fusión de cuántas vértebras?",
+    "answers": ["c"],
+    "options": [{
+            "label": "2 vértebras",
+            "value": "a"
+        },{
+            "label": "3 vértebras",
+            "value": "b"
+        },{
+            "label": "3-5 vértebras",
+            "value": "c"
+        },{
+            "label": "5 vértebras",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "pelve",
+    "title": "Pregunta 4",
+    "question": "En los adultos, ¿cuántos huesos forman la pelvis ósea?",
+    "answers": ["b"],
+    "options": [{
+            "label": "2 huesos",
+            "value": "a"
+        },{
+            "label": "4 huesos",
+            "value": "b"
+        },{
+            "label": "6 huesos",
+            "value": "c"
+        },{
+            "label": "8 huesos",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "pelve",
+    "title": "Pregunta 5",
+    "question": "La articulación sacrococcígea se encarga de conectar:",
+    "answers": ["a"],
+    "options": [{
+            "label": "Ápice del sacro en la base del cóccix",
+            "value": "a"
+        },{
+            "label": "Base del sacro en el ápice del cóccix",
+            "value": "b"
+        },{
+            "label": "Centro del sacro al costado del cóccix",
+            "value": "c"
+        },{
+            "label": "Sacro lateral en la base del cóccix",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "pelve",
+    "title": "Pregunta 6",
+    "question": "Los ligamentos sacroilíacos limitan el movimiento de la pelvis en:",
+    "answers": ["b"],
+    "options": [{
+            "label": "Aducción y flexión",
+            "value": "a"
+        },{
+            "label": "Rotación y deslizamiento",
+            "value": "b"
+        },{
+            "label": "Aducción y secuestro",
+            "value": "c"
+        },{
+            "label": "Rotación y abducción",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "pelve",
+    "title": "Pregunta 7",
+    "question": "A partir de los siguientes movimientos, no es posible ver la pelvis realizando:",
+    "answers": ["d"],
+    "options": [{
+            "label": "Retroversión",
+            "value": "a"
+        },{
+            "label": "Rotación",
+            "value": "b"
+        },{
+            "label": "Anteroversión",
+            "value": "c"
+        },{
+            "label": "Flexión",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "pelve",
+    "title": "Pregunta 8",
+    "question": "De los siguientes músculos, ¿cuál no forma parte de la pared pélvica?",
+    "answers": ["b"],
+    "options": [{
+            "label": "Músculo coccígeo",
+            "value": "a"
+        },{
+            "label": "Músculo deltoides",
+            "value": "b"
+        },{
+            "label": "Músculo obturador interno",
+            "value": "c"
+        },{
+            "label": "Músculo piriforme",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "pelve",
+    "title": "Pregunta 9",
+    "question": "De los nervios de abajo, ¿cuál no forma parte de la inervación pélvica?",
+    "answers": ["d"],
+    "options": [{
+            "label": "Nervio pudendo",
+            "value": "a"
+        },{
+            "label": "Nervio ciático",
+            "value": "b"
+        },{
+            "label": "Nervio esplácnico pélvico",
+            "value": "c"
+        },{
+            "label": "Nervio femoral",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "pelve",
+    "title": "Pregunta 10",
+    "question": "De las siguientes arterias, ¿cuál no forma parte de la vascularización pélvica?",
+    "answers": ["c"],
+    "options": [{
+            "label": "Arteria umbilical",
+            "value": "a"
+        },{
+            "label": "Arteria uterina",
+            "value": "b"
+        },{
+            "label": "Arteria mesentérica inferior",
+            "value": "c"
+        },{
+            "label": "Arteria obturatriz",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "pelve",
+    "title": "Pregunta 11",
+    "question": "De los órganos urinarios de abajo, ¿cuál no está presente en la cavidad pélvica?",
+    "answers": ["d"],
+    "options": [{
+            "label": "Uretra",
+            "value": "a"
+        },{
+            "label": "Vejiga urinaria",
+            "value": "b"
+        },{
+            "label": "Uréteres",
+            "value": "c"
+        },{
+            "label": "Riñones",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "pelve",
+    "title": "Pregunta 12",
+    "question": "La pelvis se divide en:",
+    "answers": ["b"],
+    "options": [{
+            "label": "Pelvis medial y pelvis central",
+            "value": "a"
+        },{
+            "label": "Pelvis mayor (falso) y pelvis menor (verdadero)",
+            "value": "b"
+        },{
+            "label": "Pelvis real y pelvis falsa",
+            "value": "c"
+        },{
+            "label": "Pelvis superior e inferior",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "pelve",
+    "title": "Pregunta 13",
+    "question": "¿Cuál es la ubicación del compartimiento del perineo?",
+    "answers": ["c"],
+    "options": [{
+            "label": "Por encima de la abertura superior de la pelvis",
+            "value": "a"
+        },{
+            "label": "Por debajo de la abertura de la pelvis superior",
+            "value": "b"
+        },{
+            "label": "Por debajo de la abertura de la pelvis inferior",
+            "value": "c"
+        },{
+            "label": "Por encima de la abertura de la pelvis inferior",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "pelve",
+    "title": "Pregunta 14",
+    "question": "de las siguientes estructuras osteofibrosas, ¿cuál no marca los límites del perineo?",
+    "answers": ["d"],
+    "options": [{
+            "label": "Tubérculos ciáticos",
+            "value": "a"
+        },{
+            "label": "Sínfisis púbica",
+            "value": "b"
+        },{
+            "label": "Ligamentos sacrotuberosos",
+            "value": "c"
+        },{
+            "label": "Esfínter externo del ano",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "pelve",
+    "title": "Pregunta 15",
+    "question": "el cuerpo del perineo es el lugar de convergencia de varios músculos, que son:",
+    "answers": ["a"],
+    "options": [{
+            "label": "Esfínter externo del ano que responde al bulbo y transverso superficial y profundo del perineo",
+            "value": "a"
+        },{
+            "label": "Contraventana interna, coccígea y piriforme",
+            "value": "b"
+        },{
+            "label": "Esfínter del ano coccígeo y externo sensible al bulbo",
+            "value": "c"
+        },{
+            "label": "Contraventana interna, bulbosa y piriforme",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "pelve",
+    "title": "Pregunta 16",
+    "question": "El canal anal está vascularizado por:",
+    "answers": ["d"],
+    "options": [{
+            "label": "Arteria rectal superior, arteria vesical y arteria rectal mediana",
+            "value": "a"
+        },{
+            "label": "Arteria vesical y arterias rectales",
+            "value": "b"
+        },{
+            "label": "Arteria vesical, arteria rectal medial y arteria uterina",
+            "value": "c"
+        },{
+            "label": "Arteria rectal superior, arterias rectales inferiores y arterias rectales medias",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "pelve",
+    "title": "Pregunta 17",
+    "question": "El canal anal se invierte por:",
+    "answers": ["b"],
+    "options": [{
+            "label": "Nervios rectales inferiores y nervio rectal superior",
+            "value": "a"
+        },{
+            "label": "Plexo hipogástrico inferior y nervios rectales inferiores",
+            "value": "b"
+        },{
+            "label": "Nervios rectales inferiores y nervio pudendo",
+            "value": "c"
+        },{
+            "label": "Plexo hipogástrico inferior y nervio pudendo",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "pelve",
+    "title": "Pregunta 18",
+    "question": "El perineo masculino incluye:",
+    "answers": ["c"],
+    "options": [{
+            "label": "Raíz del pene, testículos y escroto",
+            "value": "a"
+        },{
+            "label": "Canal anal, pene y testículos",
+            "value": "b"
+        },{
+            "label": "Canal anal, raíz del pene y escroto y parte de la uretra",
+            "value": "c"
+        },{
+            "label": "Raíz del pene, próstata y escroto",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "pelve",
+    "title": "Pregunta 19",
+    "question": "El perineo femenino está limitado por:",
+    "answers": ["b"],
+    "options": [{
+            "label": "Canal anal, hendidura interglútea y labios grandes",
+            "value": "a"
+        },{
+            "label": "Monte do pubis, superficies medial del muslo, surco infragluteal y hendidura interglútea",
+            "value": "b"
+        },{
+            "label": "Monte del pubis, canal anal y labios mayores",
+            "value": "c"
+        },{
+            "label": "Canal anal, montaje del pubis y hendidura interglútea",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "pelve",
+    "title": "Pregunta 20",
+    "question": "Los órganos genitales femeninos externos son, respectivamente:",
+    "answers": ["a"],
+    "options": [{
+            "label": "Monte de pubis, labios mayores, labios menores y clítoris",
+            "value": "a"
+        },{
+            "label": "Canal anal, canal vaginal, uretra y clítoris",
+            "value": "b"
+        },{
+            "label": "Canal vaginal, uretra y clítoris",
+            "value": "c"
+        },{
+            "label": "Monte de pubis, canal vaginal, labios pequeños y grandes y clítoris",
+            "value": "d"
+        }
+    ]
+}]

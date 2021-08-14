@@ -1,0 +1,381 @@
+[{
+    "category": "inferior",
+    "title": "Pregunta 1",
+    "question": "Las extremidades inferiores están conectadas al tronco mediante:",
+    "answers": ["d"],
+    "options": [{
+            "label": "Vértebras lumbares y fémur",
+            "value": "a"
+        },{
+            "label": "Fémur y cresta ilíaca",
+            "value": "b"
+        },{
+            "label": "Articulación acetabular",
+            "value": "c"
+        },{
+            "label": "Cingulado del miembro inferior",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "inferior",
+    "title": "Pregunta 2",
+    "question": "Los miembros inferiores se dividen en 04 partes, que son:",
+    "answers": ["b"],
+    "options": [{
+            "label": "Cadera, fémur, tibia y tarso",
+            "value": "a"
+        },{
+            "label": "Cadera, muslo, pierna y pie",
+            "value": "b"
+        },{
+            "label": "Cuenca, muslo, pierna y pie",
+            "value": "c"
+        },{
+            "label": "Cuenca, fémur, tibia y pie",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "inferior",
+    "title": "Pregunta 3",
+    "question": "El cíngulo del miembro inferior está formado por:",
+    "answers": ["d"],
+    "options": [{
+            "label": "A través del fémur y la sínfisis púbica",
+            "value": "a"
+        },{
+            "label": "Por el fémur y la pelvis ósea",
+            "value": "b"
+        },{
+            "label": "2 huesos de la cadera (únicos en la sínfisis púbica) y el cóccix",
+            "value": "c"
+        },{
+            "label": "2 huesos de la cadera (únicos en la sínfisis púbica) y el sacro",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "inferior",
+    "title": "Pregunta 4",
+    "question": "El hueso de la cadera está formado por la fusión de los huesos:",
+    "answers": ["b"],
+    "options": [{
+            "label": "Pelvis ósea, acetábulo y pubis",
+            "value": "a"
+        },{
+            "label": "Ilion, isquion y pubis",
+            "value": "b"
+        },{
+            "label": "Ilio, acetábulo y pubis",
+            "value": "c"
+        },{
+            "label": "Pelvis ósea, sínfisis del pubis y acetábulo",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "inferior",
+    "title": "Pregunta 5",
+    "question": "¿Qué fémur se articula en qué estructura de cadera?",
+    "answers": ["c"],
+    "options": [{
+            "label": "En el pubis",
+            "value": "a"
+        },{
+            "label": "En ilio",
+            "value": "b"
+        },{
+            "label": "En el acetábulo",
+            "value": "c"
+        },{
+            "label": "Isquion",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "inferior",
+    "title": "Pregunta 6",
+    "question": "De las siguientes estructuras, ¿cuál no está presente en el fémur?",
+    "answers": ["a"],
+    "options": [{
+            "label": "Palas robustas",
+            "value": "a"
+        },{
+            "label": "Trocánter menor",
+            "value": "b"
+        },{
+            "label": "Línea intertrocantérea",
+            "value": "c"
+        },{
+            "label": "Línea pectínea",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "inferior",
+    "title": "Pregunta 7",
+    "question": "¿Cuáles son los huesos que forman la pierna?",
+    "answers": ["c"],
+    "options": [{
+            "label": "Fémur y peroné",
+            "value": "a"
+        },{
+            "label": "Fémur y tibia",
+            "value": "b"
+        },{
+            "label": "Tibia y peroné",
+            "value": "c"
+        },{
+            "label": "Tibia y acetábulo",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "inferior",
+    "title": "Pregunta 8",
+    "question": "¿Cuál es la ubicación del hueso tibial?",
+    "answers": ["d"],
+    "options": [{
+            "label": "Ubicado en la porción anterior y lateral de la pierna.",
+            "value": "a"
+        },{
+            "label": "Ubicado en la porción posterior y medial de la pierna.",
+            "value": "b"
+        },{
+            "label": "Ubicado en la porción posterior y lateral de la pierna.",
+            "value": "c"
+        },{
+            "label": "Ubicado en la porción anterior y medial de la pierna.",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "inferior",
+    "title": "Pregunta 9",
+    "question": "¿Dónde está ubicado el hueso del peroné?",
+    "answers": ["a"],
+    "options": [{
+            "label": "Ubicado en la porción posterior y lateral de la pierna.",
+            "value": "a"
+        },{
+            "label": "Ubicado en la porción anterior y lateral de la pierna.",
+            "value": "b"
+        },{
+            "label": "Ubicado en la porción posterior y medial de la pierna.",
+            "value": "c"
+        },{
+            "label": "Ubicado en la porción anterior y medial de la pierna.",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "inferior",
+    "title": "Pregunta 10",
+    "question": "Los huesos del pie incluyen:",
+    "answers": ["b"],
+    "options": [{
+            "label": "Carpo, metacarpiano y falanges",
+            "value": "a"
+        },{
+            "label": "Tarso, metatarso y falanges",
+            "value": "b"
+        },{
+            "label": "Tarso, metacarpiano y falanges",
+            "value": "c"
+        },{
+            "label": "Carpo, metatarso y falanges",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "inferior",
+    "title": "Pregunta 11",
+    "question": "Los huesos del tarso constan de siete huesos, que son:",
+    "answers": ["d"],
+    "options": [{
+            "label": "Tarso, calcáneo, cuboides, escafoides, astrágalo y 02 huesos cuneiformes",
+            "value": "a"
+        },{
+            "label": "Calcáneo, escafoides, cuboides y 04 huesos cuneiformes",
+            "value": "b"
+        },{
+            "label": "Tarso, metatarso, astrágalo, cuboides y 03 huesos cuneiformes",
+            "value": "c"
+        },{
+            "label": "Calcáneo, astrágalo, cuboides, escafoides y 03 huesos cuneiformes",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "inferior",
+    "title": "Pregunta 12",
+    "question": "¿Cuál es el hueso del pie más grande y resistente?",
+    "answers": ["c"],
+    "options": [{
+            "label": "Navicular",
+            "value": "a"
+        },{
+            "label": "Astrágalo",
+            "value": "b"
+        },{
+            "label": "Calcáneo",
+            "value": "c"
+        },{
+            "label": "Cuboide",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "inferior",
+    "title": "Pregunta 13",
+    "question": "El primer dedo se llama:",
+    "answers": ["b"],
+    "options": [{
+            "label": "Halax",
+            "value": "a"
+        },{
+            "label": "Hallux",
+            "value": "b"
+        },{
+            "label": "Hix",
+            "value": "c"
+        },{
+            "label": "Hallox",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "inferior",
+    "title": "Pregunta 14",
+    "question": "¿Cuántas falanges componen el pie?",
+    "answers": ["c"],
+    "options": [{
+            "label": "10 falanges",
+            "value": "a"
+        },{
+            "label": "12 falanges",
+            "value": "b"
+        },{
+            "label": "14 falanges",
+            "value": "c"
+        },{
+            "label": "16 falanges",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "inferior",
+    "title": "Pregunta 15",
+    "question": "De las siguientes fascias, ¿cuál no pertenece a las extremidades inferiores?",
+    "answers": ["d"],
+    "options": [{
+            "label": "Fascia lata",
+            "value": "a"
+        },{
+            "label": "Fascia profunda",
+            "value": "b"
+        },{
+            "label": "Fascia crural",
+            "value": "c"
+        },{
+            "label": "Fascia deltoidea",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "inferior",
+    "title": "Pregunta 16",
+    "question": "¿Cuáles son las principales venas superficiales de los miembros inferiores?",
+    "answers": ["b"],
+    "options": [{
+            "label": "Vena femoral y venas digitales dorsales",
+            "value": "a"
+        },{
+            "label": "Gran vena safena y pequeña vena safena",
+            "value": "b"
+        },{
+            "label": "Gran vena safena y vena femoral",
+            "value": "c"
+        },{
+            "label": "Vena femoral y venas perforantes",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "inferior",
+    "title": "Pregunta 17",
+    "question": "¿Cuál de los siguientes nervios no corresponde a la inervación de los miembros inferiores?",
+    "answers": ["d"],
+    "options": [{
+            "label": "Nervio femoral",
+            "value": "a"
+        },{
+            "label": "Nervio obturador",
+            "value": "b"
+        },{
+            "label": "Nervio genitofemoral",
+            "value": "c"
+        },{
+            "label": "Nervio abducente",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "inferior",
+    "title": "Pregunta 18",
+    "question": "¿Cuál de los siguientes músculos corresponde al músculo anterior del muslo?",
+    "answers": ["b"],
+    "options": [{
+            "label": "Músculo aductor largo",
+            "value": "a"
+        },{
+            "label": "Músculo sartorio",
+            "value": "b"
+        },{
+            "label": "Músculo gracilis",
+            "value": "c"
+        },{
+            "label": "Músculo aductor mayor",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "inferior",
+    "title": "Pregunta 19",
+    "question": "El triángulo femoral está limitado por:",
+    "answers": ["c"],
+    "options": [{
+            "label": "Ligamento coxofemoral (superior), músculo sartorio (medialmente) y músculo sartorio (lateralmente)",
+            "value": "a"
+        },{
+            "label": "Ligamento inguinal (superior), músculo gracilis (medialmente) y músculo aductor mayor (lateralmente)",
+            "value": "b"
+        },{
+            "label": "Ligamento inguinal (superior), músculo aductor largo (medial) y músculo sartorio (lateral)",
+            "value": "c"
+        },{
+            "label": "Ligamento coxofemoral (superior), músculo aductor largo (medialmente) y músculo gracilis (lateral)",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "inferior",
+    "title": "Pregunta 20",
+    "question": "La arteria principal del miembro inferior, y su origen, corresponde a la siguiente alternativa:",
+    "answers": ["c"],
+    "options": [{
+            "label": "Arteria femoral. se origina en la arteria pudendo externa.",
+            "value": "a"
+        },{
+            "label": "Arteria femoral. se origina en la arteria ilíaca interna.",
+            "value": "b"
+        },{
+            "label": "Arteria femoral. se origina en la arteria ilíaca externa.",
+            "value": "c"
+        },{
+            "label": "Arteria femoral. se origina en la arteria obturatriz.",
+            "value": "d"
+        }
+    ]
+}]

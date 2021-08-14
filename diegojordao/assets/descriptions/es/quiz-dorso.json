@@ -1,0 +1,381 @@
+[{
+    "category": "dorso",
+    "title": "Pregunta 1",
+    "question": "La espalda está ubicada y delimitada por:",
+    "answers": ["b"],
+    "options": [{
+            "label": "Superficie anterior del tronco, debajo del cráneo y arriba del cóccix",
+            "value": "a"
+        },{
+            "label": "Cara posterior del tronco, debajo del cuello y arriba de las nalgas",
+            "value": "b"
+        },{
+            "label": "Superficie anterior del tronco, debajo del cuello y arriba del cóccix",
+            "value": "c"
+        },{
+            "label": "Cara posterior del tronco, debajo del cráneo y arriba de las nalgas",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "dorso",
+    "title": "Pregunta 2",
+    "question": "¿Cuál de las siguientes estructuras no se encuentra en la parte posterior?",
+    "answers": ["d"],
+    "options": [{
+            "label": "Columna vertebral",
+            "value": "a"
+        },{
+            "label": "Costillas",
+            "value": "b"
+        },{
+            "label": "Escápulas",
+            "value": "c"
+        },{
+            "label": "Clavículas",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "dorso",
+    "title": "Pregunta 3",
+    "question": "La columna vertebral se forma:",
+    "answers": ["d"],
+    "options": [{
+            "label": "Esqueleto axial y esqueleto apendicular",
+            "value": "a"
+        },{
+            "label": "Esqueleto apendicular y esqueleto de la espalda",
+            "value": "b"
+        },{
+            "label": "Esqueleto apendicular, esqueleto del cuello y esqueleto del cráneo",
+            "value": "c"
+        },{
+            "label": "Esqueleto del cuello y espalda, y la parte principal del esqueleto axial.",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "dorso",
+    "title": "Pregunta 4",
+    "question": "¿De cuántas vértebras está formado el cuerpo humano?",
+    "answers": ["a"],
+    "options": [{
+            "label": "33 vértebras, 24 de las cuales son presacra",
+            "value": "a"
+        },{
+            "label": "32 vértebras, 23 de las cuales son presacra",
+            "value": "b"
+        },{
+            "label": "31 vértebras, 22 de las cuales son presacra",
+            "value": "c"
+        },{
+            "label": "30 vértebras, 21 de las cuales son presacra",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "dorso",
+    "title": "Pregunta 5",
+    "question": "Una vértebra típica consta de:",
+    "answers": ["c"],
+    "options": [{
+            "label": "02 cuerpos vertebrales, 01 arco vertebral y 07 procesos",
+            "value": "a"
+        },{
+            "label": "01 cuerpo vertebral, 02 arcos vertebrales y 06 procesos",
+            "value": "b"
+        },{
+            "label": "01 cuerpo vertebral, 01 arco vertebral y 07 procesos",
+            "value": "c"
+        },{
+            "label": "02 cuerpos vertebrales, 01 arco vertebral y 05 procesos",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "dorso",
+    "title": "Pregunta 6",
+    "question": "Siete procesos se originan en el arco vertebral de una vértebra típica, a saber:",
+    "answers": ["b"],
+    "options": [{
+            "label": "02 procesos espinosos, 02 procesos transversales y 03 procesos articulares",
+            "value": "a"
+        },{
+            "label": "01 apófisis espinosas, 02 apófisis transversales y 04 apófisis articulares",
+            "value": "b"
+        },{
+            "label": "02 procesos espinosos, 01 proceso transversal y 04 procesos articulares",
+            "value": "c"
+        },{
+            "label": "01 proceso espinoso, 01 proceso transversal y 05 procesos articulares",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "dorso",
+    "title": "Pregunta 7",
+    "question": "La columna está formada por 24 vértebras presacrales, que son:",
+    "answers": ["d"],
+    "options": [{
+            "label": "06 cervicales, 11 torácicas y 07 lumbares",
+            "value": "a"
+        },{
+            "label": "07 cervicales, 10 torácicas y 07 lumbares",
+            "value": "b"
+        },{
+            "label": "06 cervicales, 12 torácicas y 06 lumbares",
+            "value": "c"
+        },{
+            "label": "07 cervicales, 12 torácicas y 05 lumbares",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "dorso",
+    "title": "Pregunta 8",
+    "question": "¿Cuál es la principal característica de las vértebras cervicales?",
+    "answers": ["a"],
+    "options": [{
+            "label": "Presencia del foramen en el proceso transversal",
+            "value": "a"
+        },{
+            "label": "Presencia del foramen en la apófisis espinosa",
+            "value": "b"
+        },{
+            "label": "Presencia del foramen en el proceso articular",
+            "value": "c"
+        },{
+            "label": "Presencia del foramen en el cuerpo",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "dorso",
+    "title": "Pregunta 9",
+    "question": "La primera y la segunda vértebra cervical se nombran, respectivamente:",
+    "answers": ["c"],
+    "options": [{
+            "label": "Axios y axis",
+            "value": "a"
+        },{
+            "label": "Atlas y atlos",
+            "value": "b"
+        },{
+            "label": "Atlas y axis",
+            "value": "c"
+        },{
+            "label": "Atlas y axios",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "dorso",
+    "title": "Pregunta 10",
+    "question": "La principal característica de las vértebras torácicas es:",
+    "answers": ["c"],
+    "options": [{
+            "label": "Presencia de fóveas intercostales",
+            "value": "a"
+        },{
+            "label": "Presencia de foramen en el proceso transversal",
+            "value": "b"
+        },{
+            "label": "Presencia de fóveas costeras",
+            "value": "c"
+        },{
+            "label": "Presencia de foramen en la apófisis espinosa",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "dorso",
+    "title": "Pregunta 11",
+    "question": "Las principales características de las vértebras lumbares son:",
+    "answers": ["c"],
+    "options": [{
+            "label": "Presencia de cuerpos cilíndricos, láminas delgadas y presencia de fóveas costales",
+            "value": "a"
+        },{
+            "label": "Presencia de cuerpos masivos, láminas robustas y presencia de fóveas costales",
+            "value": "b"
+        },{
+            "label": "Presencia de cuerpos macizos, láminas robustas y ausencia de fóveas costales",
+            "value": "c"
+        },{
+            "label": "Presencia de cuerpos cilíndricos, láminas delgadas y ausencia de fóveas costales",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "dorso",
+    "title": "Pregunta 12",
+    "question": "El sacro se caracteriza por ser:",
+    "answers": ["a"],
+    "options": [{
+            "label": "Un hueso cuneiforme grande, de forma triangular y normalmente compuesto en adultos por 05 vértebras sacras fusionadas",
+            "value": "a"
+        },{
+            "label": "Un hueso cuneiforme grande, de forma rectangular y normalmente compuesto por 06 vértebras sacras fusionadas en adultos",
+            "value": "b"
+        },{
+            "label": "Un hueso cuneiforme pequeño, de forma rectangular y normalmente compuesto en adultos por 06 vértebras sacras fusionadas",
+            "value": "c"
+        },{
+            "label": "Un hueso pequeño, cuneiforme, de forma triangular y normalmente compuesto en adultos por 05 vértebras sacras fusionadas",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "dorso",
+    "title": "Pregunta 13",
+    "question": "El cóccix se caracteriza por:",
+    "answers": ["c"],
+    "options": [{
+            "label": "Un hueso triangular grande, normalmente formado por 04 vértebras cuneiformes",
+            "value": "a"
+        },{
+            "label": "Un hueso grande y rectangular, normalmente formado por 04 vértebras rudimentarias.",
+            "value": "b"
+        },{
+            "label": "Un pequeño hueso triangular, normalmente formado por 04 vértebras rudimentarias.",
+            "value": "c"
+        },{
+            "label": "Un hueso pequeño y rectangular, normalmente formado por 04 vértebras cuneiformes",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "dorso",
+    "title": "Pregunta 14",
+    "question": "¿Cuál de las siguientes articulaciones no corresponde a articulaciones espinales?",
+    "answers": ["d"],
+    "options": [{
+            "label": "Articulaciones atlantoaxiales",
+            "value": "a"
+        },{
+            "label": "Articulaciones sacroilíacas",
+            "value": "b"
+        },{
+            "label": "Articulaciones costovertebrales",
+            "value": "c"
+        },{
+            "label": "Articulación esternocleidomastoidea",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "dorso",
+    "title": "Pregunta 15",
+    "question": "Los músculos de la espalda se clasifican en 03 grupos, que son:",
+    "answers": ["b"],
+    "options": [{
+            "label": "Grupo extrínseco, grupo intrínseco y grupo profundo",
+            "value": "a"
+        },{
+            "label": "Grupo superficial, grupo intermedio y grupo profundo",
+            "value": "b"
+        },{
+            "label": "Grupo superficial, grupo profundo y grupo intrínseco",
+            "value": "c"
+        },{
+            "label": "Grupo extrínseco, grupo intrínseco y grupo de superficie",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "dorso",
+    "title": "Pregunta 16",
+    "question": "De los siguientes músculos, que no corresponde al músculo de la región dorsal:",
+    "answers": ["a"],
+    "options": [{
+            "label": "M. cigomático",
+            "value": "a"
+        },{
+            "label": "M. glúteo mayor",
+            "value": "b"
+        },{
+            "label": "M. trapecio",
+            "value": "c"
+        },{
+            "label": "M. romboide",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "dorso",
+    "title": "Pregunta 17",
+    "question": "La médula espinal se agranda en 02 regiones para la inervación de los miembros, que son:",
+    "answers": ["d"],
+    "options": [{
+            "label": "Intumescencia craneal e intumescencia caudal",
+            "value": "a"
+        },{
+            "label": "Hinchazón superior e hinchazón inferior",
+            "value": "b"
+        },{
+            "label": "Intumescencia cervical e intumescencia caudal",
+            "value": "c"
+        },{
+            "label": "Intumescencia cervical e intumescencia lumbosacra",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "dorso",
+    "title": "Pregunta 18",
+    "question": "¿Cuál de los siguientes no corresponde al nervio responsable de la inervación dorsal?",
+    "answers": ["c"],
+    "options": [{
+            "label": "Nervio occipital mayor",
+            "value": "a"
+        },{
+            "label": "Nervio suboccipital",
+            "value": "b"
+        },{
+            "label": "Nervio hipogloso",
+            "value": "c"
+        },{
+            "label": "Ramas posteriores de c3-c0",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "dorso",
+    "title": "Pregunta 19",
+    "question": "¿Qué son las meninges espinales?",
+    "answers": ["a"],
+    "options": [{
+            "label": "Duramater, aracnoides y piamater",
+            "value": "a"
+        },{
+            "label": "Intramater, inframater y submater",
+            "value": "b"
+        },{
+            "label": "Duramater, fragilmater y piamater",
+            "value": "c"
+        },{
+            "label": "Intramater, inframater y supermater",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "dorso",
+    "title": "Pregunta 20",
+    "question": "La vascularización de la médula espinal se produce a través de las arterias:",
+    "answers": ["c"],
+    "options": [{
+            "label": "Arteria espinal superior y arteria espinal inferior",
+            "value": "a"
+        },{
+            "label": "Arteria espinal superior e incluso arterias espinales posteriores",
+            "value": "b"
+        },{
+            "label": "Arteria espinal anterior e incluso arterias espinales posteriores",
+            "value": "c"
+        },{
+            "label": "Arteria espinal anterior e incluso arterias espinales inferiores",
+            "value": "d"
+        }
+    ]
+}]

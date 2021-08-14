@@ -1,0 +1,381 @@
+[{
+    "category": "pescoco",
+    "title": "Pregunta 1",
+    "question": "El esqueleto del cuello está formado por:",
+    "answers": ["a"],
+    "options": [{
+            "label": "Vértebras cervicales, hueso hioides, manubrio externo y clavículas",
+            "value": "a"
+        },{
+            "label": "Vértebras cervicales, manubrio externo, clavículas y escápulas",
+            "value": "b"
+        },{
+            "label": "Vértebras cervicales, hueso hioides, manubrio externo y escápulas",
+            "value": "c"
+        },{
+            "label": "Vértebras cervicales, atlas, hueso hioides y clavículas",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "pescoco",
+    "title": "Pregunta 2",
+    "question": "El hueso hioides móvil se encuentra:",
+    "answers": ["b"],
+    "options": [{
+            "label": "Parte posterior del cuello, a nivel vertebral de C2 (ejes), en el ángulo entre la mandíbula y el cartílago cricoides",
+            "value": "a"
+        },{
+            "label": "Parte anterior del cuello, a nivel vertebral C3, en el ángulo entre la mandíbula y el cartílago tiroides",
+            "value": "b"
+        },{
+            "label": "Parte posterior del cuello, a nivel vertebral de C3, en el ángulo entre la mandíbula y el cartílago cricoides",
+            "value": "c"
+        },{
+            "label": "Parte anterior del cuello, a nivel vertebral de C2 (ejes), en el ángulo entre la mandíbula y el cartílago tiroides",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "pescoco",
+    "title": "Pregunta 3",
+    "question": "Hay 03 músculos del cuello superficiales y laterales, son:",
+    "answers": ["c"],
+    "options": [{
+            "label": "a) mentual, esternocleidomastoideo y trapecio",
+            "value": "a"
+        },{
+            "label": "Mentual, trapecio y romboide menor",
+            "value": "b"
+        },{
+            "label": "Platisma, esternocleidomastoideo y trapecio",
+            "value": "c"
+        },{
+            "label": "Platisma, esternocleidomastoideo y romboide menor",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "pescoco",
+    "title": "Pregunta 4",
+    "question": "El trígono cervical lateral suele estar formado por la fascia prevertebral que se extiende sobre 04 músculos, que son:",
+    "answers": ["d"],
+    "options": [{
+            "label": "Esternocleidomastoideo, elevador escapular, escaleno medio y posterior",
+            "value": "a"
+        },{
+            "label": "Esternocleidomastoideo, levantador escapular, mentual y trapecio",
+            "value": "b"
+        },{
+            "label": "Cabeza esplénica, elevador escapular, mentoniano y trapecio",
+            "value": "c"
+        },{
+            "label": "Cabeza esplenio, elevador escapular, escaleno medio y posterior",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "pescoco",
+    "title": "Pregunta 5",
+    "question": "Entre las siguientes estructuras, ¿cuál se ubica en el trígono occipital?",
+    "answers": ["b"],
+    "options": [{
+            "label": "Vena subclavia",
+            "value": "a"
+        },{
+            "label": "Nervio accesorio",
+            "value": "b"
+        },{
+            "label": "Glándula submandibular",
+            "value": "c"
+        },{
+            "label": "Vena yugular interna",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "pescoco",
+    "title": "Pregunta 6",
+    "question": "Entre las estructuras de abajo, ¿cuál no se encuentra en el triángulo omoclavicular?",
+    "answers": ["c"],
+    "options": [{
+            "label": "Arteria subclavia (3a parte)",
+            "value": "a"
+        },{
+            "label": "Arteria supraescapular",
+            "value": "b"
+        },{
+            "label": "Glándula submandibular",
+            "value": "c"
+        },{
+            "label": "Ganglios linfáticos supraclaviculares",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "pescoco",
+    "title": "Pregunta 7",
+    "question": "Entre las siguientes estructuras, ¿cuál no se encuentra en el triángulo submandibular?",
+    "answers": ["a"],
+    "options": [{
+            "label": "Vena yugular interna",
+            "value": "a"
+        },{
+            "label": "Glándula submandibular",
+            "value": "b"
+        },{
+            "label": "Ganglios linfáticos submandibulares",
+            "value": "c"
+        },{
+            "label": "Nervio del músculo milohioideo",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "pescoco",
+    "title": "Pregunta 8",
+    "question": "Entre las siguientes estructuras, ¿cuál se ubica en el triángulo submental?",
+    "answers": ["d"],
+    "options": [{
+            "label": "Arteria subclavia",
+            "value": "a"
+        },{
+            "label": "Vena subclavia",
+            "value": "b"
+        },{
+            "label": "Vena yugular interna",
+            "value": "c"
+        },{
+            "label": "Ganglios linfáticos submentonianos",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "pescoco",
+    "title": "Pregunta 9",
+    "question": "Entre las siguientes estructuras, ¿cuál no se encuentra en el triángulo carotídeo?",
+    "answers": ["c"],
+    "options": [{
+            "label": "Glándula tiroides",
+            "value": "a"
+        },{
+            "label": "Nervio vacante",
+            "value": "b"
+        },{
+            "label": "Músculo milohioideo",
+            "value": "c"
+        },{
+            "label": "Ramas del plexo cervical",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "pescoco",
+    "title": "Pregunta 10",
+    "question": "Entre las siguientes estructuras, ¿cuál no se encuentra en el triángulo muscular?",
+    "answers": ["d"],
+    "options": [{
+            "label": "Glándula paratiroidea",
+            "value": "a"
+        },{
+            "label": "Músculo esternotiroideo",
+            "value": "b"
+        },{
+            "label": "Músculo esternohioideo",
+            "value": "c"
+        },{
+            "label": "Arteria facial",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "pescoco",
+    "title": "Pregunta 11",
+    "question": "La raíz del cuello está limitada lateral, anterior y posteriormente por:",
+    "answers": ["a"],
+    "options": [{
+            "label": "Por el 1er par de costillas y sus cartílagos costales, por el manubrio externo y por el cuerpo vertebral t1",
+            "value": "a"
+        },{
+            "label": "El segundo par de costillas y sus cartílagos costales, el manubrio externo y el cuerpo vertebral t2",
+            "value": "b"
+        },{
+            "label": "Por el 3er par de costillas y sus cartílagos costales, por el manubrio externo y por el cuerpo vertebral t3",
+            "value": "c"
+        },{
+            "label": "El cuarto par de costillas y sus cartílagos costales, el manubrio externo y la copro vertebral t4.",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "pescoco",
+    "title": "Pregunta 12",
+    "question": "De las siguientes arterias, ¿cuál no se encuentra en la raíz del cuello?",
+    "answers": ["c"],
+    "options": [{
+            "label": "Tronco braquiocefálico",
+            "value": "a"
+        },{
+            "label": "Arteria carótida común",
+            "value": "b"
+        },{
+            "label": "Arteria aórtica",
+            "value": "c"
+        },{
+            "label": "Arteria subclavia",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "pescoco",
+    "title": "Pregunta 13",
+    "question": "De los siguientes músculos, ¿cuál no está relacionado con el movimiento del cuello?",
+    "answers": ["c"],
+    "options": [{
+            "label": "Esplenio de la cabeza",
+            "value": "a"
+        },{
+            "label": "Escaleno posterior",
+            "value": "b"
+        },{
+            "label": "Romboide mayor",
+            "value": "c"
+        },{
+            "label": "Cuello largo",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "pescoco",
+    "title": "Pregunta 14",
+    "question": "Hay dos grandes venas que terminan en la raíz del cuello, son:",
+    "answers": ["a"],
+    "options": [{
+            "label": "Vena yugular externa vena yugular anterior",
+            "value": "a"
+        },{
+            "label": "Vena yugular interna y vena yugular posterior",
+            "value": "b"
+        },{
+            "label": "Vena yugular externa y vena yugular posterior",
+            "value": "c"
+        },{
+            "label": "Vena yugular interna y vena yugular anterior",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "pescoco",
+    "title": "Pregunta 15",
+    "question": "¿Cuál de las siguientes estructuras no corresponde a las vísceras del cuello?",
+    "answers": ["b"],
+    "options": [{
+            "label": "Glándulas tiroides y paratiroides",
+            "value": "a"
+        },{
+            "label": "Estómago y duodeno",
+            "value": "b"
+        },{
+            "label": "Laringe y tráquea",
+            "value": "c"
+        },{
+            "label": "Faringe y esófago",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "pescoco",
+    "title": "Pregunta 16",
+    "question": "La glándula tiroides se encuentra:",
+    "answers": ["d"],
+    "options": [{
+            "label": "Se localiza por delante de los músculos esternotiroideo y esternohioideo, a nivel de las vértebras c4 a t2. y sus lóbulos se encuentran postero-proximales a la laringe y tráquea.",
+            "value": "a"
+        },{
+            "label": "Se localiza por delante de los músculos esternotiroideo y esternohioideo, al nivel de las vértebras c5 a t1. y sus lóbulos se encuentran posterolaterales a la laringe y la tráquea.",
+            "value": "b"
+        },{
+            "label": "Se localiza profundamente en los músculos esternotiroideo y esternohioideo, al nivel de las vértebras c4 a t2. y sus lóbulos se encuentran anteroproximales a la laringe y la tráquea.",
+            "value": "c"
+        },{
+            "label": "Se localiza profundamente en los músculos esternotiroideo y esternohioideo, al nivel de las vértebras c5 a t1. y sus lóbulos se encuentran anterolaterales a la laringe y la tráquea.",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "pescoco",
+    "title": "Pregunta 17",
+    "question": "¿Cuál de los siguientes músculos laríngeos se encarga de estirar y tensar las cuerdas vocales?",
+    "answers": ["a"],
+    "options": [{
+            "label": "Músculo cricotiroideo",
+            "value": "a"
+        },{
+            "label": "Músculo tiroaritenoideo",
+            "value": "b"
+        },{
+            "label": "Músculo vocal",
+            "value": "c"
+        },{
+            "label": "Músculo aritenoideo",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "pescoco",
+    "title": "Pregunta 18",
+    "question": "De los siguientes músculos, ¿cuál no corresponde a un músculo de la faringe?",
+    "answers": ["d"],
+    "options": [{
+            "label": "Músculo constrictor inferior",
+            "value": "a"
+        },{
+            "label": "Músculo palatofaríngeo",
+            "value": "b"
+        },{
+            "label": "Músculo estilofaríngeo",
+            "value": "c"
+        },{
+            "label": "Músculo aitenoideo",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "pescoco",
+    "title": "Pregunta 19",
+    "question": "La faringe se extiende:",
+    "answers": ["c"],
+    "options": [{
+            "label": "Desde el ápice de la boca hasta el margen superior del cartílago cricoides, posteriormente, y el margen superior de la vértebra c6, anteriormente",
+            "value": "a"
+        },{
+            "label": "Desde el ápice de la boca hasta el margen inferior del cartílago cricoides, anteriormente, y la vértebra superior c6, posteriormente",
+            "value": "b"
+        },{
+            "label": "Desde la base del cráneo hasta el margen inferior del cartílago cricoides, anteriormente, y el margen inferior de la vértebra c6, posteriormente.",
+            "value": "c"
+        },{
+            "label": "Desde la base del cráneo hasta el margen inferior del cartílago cricoides, posteriormente, y el margen inferior de la vértebra c6, anteriormente.",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "pescoco",
+    "title": "Pregunta 20",
+    "question": "La cavidad de la laringe se divide en tres partes, que son:",
+    "answers": ["b"],
+    "options": [{
+            "label": "Parte superior, parte media y parte inferior",
+            "value": "a"
+        },{
+            "label": "Vestíbulo laríngeo, ventrículo laríngeo y cavidad infraglótica",
+            "value": "b"
+        },{
+            "label": "Ápice, centro y base",
+            "value": "c"
+        },{
+            "label": "Vestíbulo laríngeo, ventrículo laríngeo y cavidad oral",
+            "value": "d"
+        }
+    ]
+}]

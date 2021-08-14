@@ -1,0 +1,382 @@
+[{
+    "category": "torax",
+    "title": "Pregunta 1",
+    "question": "La caja torácica está compuesta respectivamente por:",
+    "answers": ["c"],
+    "options": [{
+            "label": "10 pares de costillas, clavículas y esternón.",
+            "value": "a"
+        },{
+            "label": "12 pares de costillas, esternón, cartílagos costales, clavículas y escápulas.",
+            "value": "b"
+        },{
+            "label": "12 pares de costillas, esternón, cartílagos costales y 12 vértebras torácicas",
+            "value": "c"
+        },{
+            "label": "10 pares de costillas, esternón, cartílagos costales, clavículas y escápulas",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "torax",
+    "title": "Pregunta 2",
+    "question": "De las siguientes opciones, que no forma parte de las funciones de la caja torácica:",
+    "answers": ["d"],
+    "options": [{
+            "label": "Protección del contenido de la cavidad torácica",
+            "value": "a"
+        },{
+            "label": "Mecánica de la respiración",
+            "value": "b"
+        },{
+            "label": "Fijar el cíngulo de los miembros superiores.",
+            "value": "c"
+        },{
+            "label": "Evitar la expansión de la cavidad torácica.",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "torax",
+    "title": "Pregunta 3",
+    "question": "El esternón consta de 3 partes, que son:",
+    "answers": ["a"],
+    "options": [{
+            "label": "Manubrio, cuerpo y apófisis xifoides",
+            "value": "a"
+        },{
+            "label": "Epífisis y diafase",
+            "value": "b"
+        },{
+            "label": "Proceso de manubrio, diafase y xifoides",
+            "value": "c"
+        },{
+            "label": "Epífisis y apófisis xifoides",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "torax",
+    "title": "Pregunta 4",
+    "question": "De las seguintes opciones, que no corresponde a los músculos de la pared del tórax:",
+    "answers": ["b"],
+    "options": [{
+            "label": "Serrato posterior superior, intercostal externo y subcostal",
+            "value": "a"
+        },{
+            "label": "Oblicuo externo, oblicuo interno y deltoides",
+            "value": "b"
+        },{
+            "label": "Serrato posterior inteferior, intercostal interno y torácico transversal",
+            "value": "c"
+        },{
+            "label": "íntimo intercostal, levantador de costillas y subcostal",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "torax",
+    "title": "Pregunta 5",
+    "question": "¿Con cuántos pares de nervios se invierte la pared torácica?",
+    "answers": ["c"],
+    "options": [{
+            "label": "8 pares de nervios espinales torácicos",
+            "value": "a"
+        },{
+            "label": "10 pares de nervios espinales torácicos",
+            "value": "b"
+        },{
+            "label": "12 pares de nervios espinales torácicos",
+            "value": "c"
+        },{
+            "label": "14 pares de nervios espinales torácicos",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "torax",
+    "title": "Pregunta 6",
+    "question": "¿Qué arterias componen la irrigación arterial de la pared torácica?",
+    "answers": ["a"],
+    "options": [{
+            "label": "Intercostales porteriores, intercostales anteriores, torácico interino y subcostal",
+            "value": "a"
+        },{
+            "label": "Mesentérico superior, médula espinal anterior y subcostal",
+            "value": "b"
+        },{
+            "label": "Subclavia, aorta y interostal superior",
+            "value": "c"
+        },{
+            "label": "Subscostal, subclavia, mesentérico inteferior",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "torax",
+    "title": "Pregunta 7",
+    "question": "De las siguientes opciones, que no corresponde a estructuras de ela cavidad torácica:",
+    "answers": ["c"],
+    "options": [{
+            "label": "Pulmones, corazón y timo",
+            "value": "a"
+        },{
+            "label": "Tráquea, esófago y pulmones",
+            "value": "b"
+        },{
+            "label": "Hígado, bazo y duodeno",
+            "value": "c"
+        },{
+            "label": "Corazón, tráquea y timo",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "torax",
+    "title": "Pregunta 8",
+    "question": "Los pulmones están formados por 3 caras, que son:",
+    "answers": ["d"],
+    "options": [{
+            "label": "Cara interior, cara exterior, cara interior",
+            "value": "a"
+        },{
+            "label": "Cara intercostal, cara pectoral y cara proximal",
+            "value": "b"
+        },{
+            "label": "Cara pulmonar, cara cardiáca y cara mediastínica",
+            "value": "c"
+        },{
+            "label": "Cara costal, cara mediastínica y cara diafragmática",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "torax",
+    "title": "Pregunta 9",
+    "question": "Los Pulmones tienen 3 márgenes, que son:",
+    "answers": ["b"],
+    "options": [{
+            "label": "Margen intercostal, margen cardíaco y margen posterior",
+            "value": "a"
+        },{
+            "label": "Margen anterior, margen inferior y margen posterior",
+            "value": "b"
+        },{
+            "label": "Margen pulmonar, margen cardíaco y margen mediastínico",
+            "value": "c"
+        },{
+            "label": "Margen inferior, margen superior y margen mediano",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "torax",
+    "title": "Pregunta 10",
+    "question": "El pulmón derecho se divide en 3 partes, que son:",
+    "answers": ["d"],
+    "options": [{
+            "label": "Lóbulo izquierdo, lóbulo derecho y lóbulo central",
+            "value": "a"
+        },{
+            "label": "Lóbulo anterior, lóbulo posterior y lóbulo interior",
+            "value": "b"
+        },{
+            "label": "Lóbulo superior, lóbulo central y lóbulo medio",
+            "value": "c"
+        },{
+            "label": "Lóbulo superior, lóbulo médio y lóbulo inferior",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "torax",
+    "title": "Pregunta 11",
+    "question": "Las costillas se clasifican en tres grupos principales, a saber:",
+    "answers": ["c"],
+    "options": [{
+            "label": "Costillas reales, costillas falsas y costillas mixtas",
+            "value": "a"
+        },{
+            "label": "Costillas anteriores, costillas posteriores y costillas laterales",
+            "value": "b"
+        },{
+            "label": "Costillas reales, costillas falsas y costillas flotantes",
+            "value": "c"
+        },{
+            "label": "Costillas posteriores, costillas laterales y costillas mixtas",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "torax",
+    "title": "Pregunta 12",
+    "question": "El pericardio se divide en 2 capas, que son:",
+    "answers": ["a"],
+    "options": [{
+            "label": "Pericardio fibroso y pericardio seroso",
+            "value": "a"
+        },{
+            "label": "Pericardio superior y pericardio inferior",
+            "value": "b"
+        },{
+            "label": "Pericardio anterior y pericardio posterior",
+            "value": "c"
+        },{
+            "label": "Pericardio íntimo y pericardio central",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "torax",
+    "title": "Pregunta 13",
+    "question": "El corazón se divide en 03 capas, que son:",
+    "answers": ["c"],
+    "options": [{
+            "label": "Exocardio, intracardio y miocardio",
+            "value": "a"
+        },{
+            "label": "Epicardio, intracardio e infracardio",
+            "value": "b"
+        },{
+            "label": "Epicardio, miocardio y endocardio",
+            "value": "c"
+        },{
+            "label": "Endocardio, intracardio y miocardio",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "torax",
+    "title": "Pregunta 14",
+    "question": "El corazón recibe sangre venosa a través de:",
+    "answers": ["d"],
+    "options": [{
+            "label": "Vena cava superior y aorta",
+            "value": "a"
+        },{
+            "label": "Venas pulmonares y vena cava inferior",
+            "value": "b"
+        },{
+            "label": "Aorta y arteriais pulmonares",
+            "value": "c"
+        },{
+            "label": "Vena cava superior y vena cava inferior",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "torax",
+    "title": "Pregunta 15",
+    "question": "El corazón se divide en cuatro cámaras, que son:",
+    "answers": ["c"],
+    "options": [{
+            "label": "Haz his, válvula aórtica, válvula auricoventricular y válvula de tronco pulmonar",
+            "value": "a"
+        },{
+            "label": "Cámaras derecha y izquerda y ventrículos izquierdo y derecho",
+            "value": "b"
+        },{
+            "label": "Auróculas izquierda y derecha; Ventrículos izquierdo y derecho",
+            "value": "c"
+        },{
+            "label": "Vena cava superior y inferior, arteria pulmonar y aorta",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "torax",
+    "title": "Pregunta 16",
+    "question": "El corazón se divide en 3 caras, que son:",
+    "answers": ["d"],
+    "options": [{
+            "label": "Cara superior, cara inferior y cara medial",
+            "value": "a"
+        },{
+            "label": "Cara frontal, cara vertical y cara horizonal",
+            "value": "b"
+        },{
+            "label": "Cara anterior (esternocostal), cara diafragmática (inferior) y cara central",
+            "value": "c"
+        },{
+            "label": "Anterior (esternocostal), diafragmática (inferior) y pulmonar (izquierda)",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "torax",
+    "title": "Pregunta 17",
+    "question": "Arteria principal responsable de la vascularización del corazón:",
+    "answers": ["b"],
+    "options": [{
+            "label": "Aorta",
+            "value": "a"
+        },{
+            "label": "Arterias coronarias",
+            "value": "b"
+        },{
+            "label": "Arteria pulmonar",
+            "value": "c"
+        },{
+            "label": "Arteria subclavia",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "torax",
+    "title": "Pregunta 18",
+    "question": "¿Cuál es la capa más gruesa del corazón?",
+    "answers": ["b"],
+    "options": [{
+            "label": "Endocardio",
+            "value": "a"
+        },{
+            "label": "Miocardio",
+            "value": "b"
+        },{
+            "label": "Epicardio",
+            "value": "c"
+        },{
+            "label": "Mesocardio",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "torax",
+    "title": "Pregunta 19",
+    "question": "¿Qué cámara cardíaca es responsable de bombear sangre al cuerpo a través de la arteria aorta?",
+    "answers": ["c"],
+    "options": [{
+            "label": "Aurícula izquierda",
+            "value": "a"
+        },{
+            "label": "Aurícula derecha",
+            "value": "b"
+        },{
+            "label": "Ventrículo izquierdo",
+            "value": "c"
+        },{
+            "label": "Ventrículo derecho",
+            "value": "d"
+        }
+    ]
+},{
+    "category": "torax",
+    "title": "Pregunta 20",
+    "question": "PUC-SP - Por (I), la segre (II) llega al corazón y sale del corazon por el (III).<br/><br/>En el estracto anterior, (I), (II) y (III) se pueden completar, correctamente y respectivamente, mediante:",
+    "answers": ["b"],
+    "options": [{
+            "label": "Arterias pulmonares, pobres en oxígeno y vena aórtica.",
+            "value": "a"
+        },{
+            "label": "Venas pulmonares, ricas em oxígeno y arteria aórtica.",
+            "value": "b"
+        },{
+            "label": "Arterias y venas, ricas en oxígeno y venas aórticas.",
+            "value": "c"
+        },{
+            "label": "Arterias pulmonares, ricas en oxígeno y vena aórtica.",
+            "value": "d"
+        }
+    ]
+}
+]
