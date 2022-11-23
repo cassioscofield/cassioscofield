@@ -39,6 +39,10 @@ I'm a very curious and enthusiastic individual, always focused on learning new s
 
 #### Articles/Posts
 
+- [Engineering chapter meeting: what, who, why and how?](https://www.linkedin.com/pulse/engineering-chapter-meeting-what-hwho-why-how-c%C3%A1ssio-scofield/) - 08/2022
+
+- [Web optimization with web vitals](https://www.linkedin.com/pulse/web-vitals-e-otimiza%C3%A7%C3%A3o-de-p%C3%A1ginas-c%C3%A1ssio-scofield/) - 03/2022
+
 - [Meaninful HTTP codes](https://www.linkedin.com/pulse/c%25C3%25B3digos-http-com-prop%25C3%25B3sito-c%25C3%25A1ssio-scofield/?trackingId=RnSBuCTxSuG8R76%2F3CnmIw%3D%3D) - 07/2021
 
 - [Monitoring in the micro-services era](https://www.linkedin.com/pulse/monitoring-observability-micro-services-era-c%C3%A1ssio-scofield/) - 06/2021
