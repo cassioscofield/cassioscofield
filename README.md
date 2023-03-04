@@ -39,6 +39,8 @@ I'm a very curious and enthusiastic individual, always focused on learning new s
 
 #### Articles/Posts
 
+- [SQL LIKE vs MATCH - Commom use cases](https://www.linkedin.com/pulse/sql-like-vs-match-casos-de-uso-c%25C3%25A1ssio-scofield/?trackingId=3Z9odxgsH0NfTm2%2B1DEkow%3D%3D) - 02/2023
+
 - [Engineering chapter meeting: what, who, why and how?](https://www.linkedin.com/pulse/engineering-chapter-meeting-what-hwho-why-how-c%C3%A1ssio-scofield/) - 08/2022
 
 - [Web optimization with web vitals](https://www.linkedin.com/pulse/web-vitals-e-otimiza%C3%A7%C3%A3o-de-p%C3%A1ginas-c%C3%A1ssio-scofield/) - 03/2022
