@@ -39,6 +39,10 @@ I'm a very curious and enthusiastic individual, always focused on learning new s
 
 #### Articles/Posts
 
+- [The importance of cache for web performance and scale](https://www.linkedin.com/pulse/importance-cache-web-performance-scale-c%25C3%25A1ssio-scofield/?trackingId=H9zXQeeqTay%2FMH9jorrHtA%3D%3D) - 04/2023
+- 
+- [We all love a free cloud server](https://www.linkedin.com/pulse/we-all-love-free-cloud-server-c%25C3%25A1ssio-scofield/?trackingId=5JjidqrIRXGDGFY%2B5pEWCQ%3D%3D) - 03/2023
+
 - [SQL LIKE vs MATCH - Commom use cases](https://www.linkedin.com/pulse/sql-like-vs-match-casos-de-uso-c%25C3%25A1ssio-scofield/?trackingId=3Z9odxgsH0NfTm2%2B1DEkow%3D%3D) - 02/2023
 
 - [Engineering chapter meeting: what, who, why and how?](https://www.linkedin.com/pulse/engineering-chapter-meeting-what-hwho-why-how-c%C3%A1ssio-scofield/) - 08/2022
