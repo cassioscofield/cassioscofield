@@ -39,6 +39,8 @@ I'm a very curious and enthusiastic individual, always focused on learning new s
 
 #### Articles/Posts
 
+- [Which cloud provider is cheaper?]([https://www.linkedin.com/pulse/importance-cache-web-performance-scale-c%25C3%25A1ssio-scofield/?trackingId=H9zXQeeqTay%2FMH9jorrHtA%3D%3D](https://www.linkedin.com/pulse/which-cloud-provider-cheaper-c%25C3%25A1ssio-scofield/)) - 05/2023
+  
 - [The importance of cache for web performance and scale](https://www.linkedin.com/pulse/importance-cache-web-performance-scale-c%25C3%25A1ssio-scofield/?trackingId=H9zXQeeqTay%2FMH9jorrHtA%3D%3D) - 04/2023
 
 - [We all love a free cloud server](https://www.linkedin.com/pulse/we-all-love-free-cloud-server-c%25C3%25A1ssio-scofield/?trackingId=5JjidqrIRXGDGFY%2B5pEWCQ%3D%3D) - 03/2023
