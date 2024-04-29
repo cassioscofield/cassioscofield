@@ -14,8 +14,7 @@ I'm a very curious and enthusiastic individual, always focused on learning new s
 [<img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://en.wikipedia.org/wiki/Node.js)
 [<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://en.wikipedia.org/wiki/HTML)
 [<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://en.wikipedia.org/wiki/CSS)
-[<img align="left" alt="CSS3" width="40px" src="https://icons-for-free.com/iconfiles/png/128/vscode+icons+type+typescript+official-1324451509037108090.png" />](https://en.wikipedia.org/wiki/TypeScript)
-
+[<img align="left" alt="Typescript" width="40px" src="https://github.com/cassioscofield/cassioscofield/assets/3845827/a8276276-6d49-4512-b45b-9cc2f9ef4ce3" />](https://en.wikipedia.org/wiki/TypeScript)
 
 <br/><br/>
   
@@ -26,8 +25,8 @@ I'm a very curious and enthusiastic individual, always focused on learning new s
 [<img align="left" alt="MongoDB" width="40px" src="https://dashboard.absam.io/img/mongo_db.png" />](https://en.wikipedia.org/wiki/MongoDB)
 [<img align="left" alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />](https://en.wikipedia.org/wiki/PostgreSQL)
 [<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
-[<img align="left" alt="Jenkins" width="40px" src="https://img.icons8.com/color/50/000000/jenkins.png" />](https://en.wikipedia.org/wiki/Jenkins_(software))
 [<img align="left" alt="Docker" width="40px" src="https://img.icons8.com/color/452/docker.png" />](https://en.wikipedia.org/wiki/Docker_(software))
+[<img align="left" alt="SQLite" width="40px" src="https://github.com/cassioscofield/cassioscofield/assets/3845827/b4126b76-dcdd-43fe-94da-92b21246346b" />](https://en.wikipedia.org/wiki/SQLite)
 
 <br/><br/>
   
