@@ -9,10 +9,10 @@ I'm a very curious and enthusiastic individual, always focused on learning new s
 
 #### Languages  
 
-[<img align="left" alt="Typescript" width="40px" src="https://github.com/cassioscofield/cassioscofield/assets/3845827/a8276276-6d49-4512-b45b-9cc2f9ef4ce3" />](https://en.wikipedia.org/wiki/TypeScript)
-[<img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />](https://en.wikipedia.org/wiki/Java_(programming_language))
-[<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://en.wikipedia.org/wiki/JavaScript)
-[<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://en.wikipedia.org/wiki/HTML)
+[<img align="left" alt="Typescript" width="40px" style="margin: 10px" src="https://github.com/cassioscofield/cassioscofield/assets/3845827/a8276276-6d49-4512-b45b-9cc2f9ef4ce3" />](https://en.wikipedia.org/wiki/TypeScript)
+[<img align="left" alt="Java" width="40px" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />](https://en.wikipedia.org/wiki/Java_(programming_language))
+[<img align="left" alt="JavaScript" width="40px" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://en.wikipedia.org/wiki/JavaScript)
+[<img align="left" alt="HTML5" width="40px" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://en.wikipedia.org/wiki/HTML)
 [<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://en.wikipedia.org/wiki/CSS)
 
 <br/><br/>
@@ -20,21 +20,21 @@ I'm a very curious and enthusiastic individual, always focused on learning new s
   
 #### Tools  
 
-[<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />](https://en.wikipedia.org/wiki/MySQL)
-[<img align="left" alt="MongoDB" width="40px" src="https://dashboard.absam.io/img/mongo_db.png" />](https://en.wikipedia.org/wiki/MongoDB)
-[<img align="left" alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />](https://en.wikipedia.org/wiki/PostgreSQL)
-[<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
-[<img align="left" alt="SQLite" width="40px" src="https://github.com/cassioscofield/cassioscofield/assets/3845827/b4126b76-dcdd-43fe-94da-92b21246346b" />](https://en.wikipedia.org/wiki/SQLite)
+[<img align="left" alt="MySQL" width="40px" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />](https://en.wikipedia.org/wiki/MySQL)
+[<img align="left" alt="MongoDB" width="40px" style="margin: 10px" src="https://dashboard.absam.io/img/mongo_db.png" />](https://en.wikipedia.org/wiki/MongoDB)
+[<img align="left" alt="PostgreSQL" width="40px" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />](https://en.wikipedia.org/wiki/PostgreSQL)
+[<img align="left" alt="Visual Studio Code" width="40px" style="margin: 10px" src="https://github.com/cassioscofield/cassioscofield/assets/3845827/97920123-328f-4634-add2-24fa3d0b2be0" />](https://en.wikipedia.org/wiki/Redis)
+[<img align="left" alt="SQLite" width="40px" style="margin: 10px" src="https://github.com/cassioscofield/cassioscofield/assets/3845827/b4126b76-dcdd-43fe-94da-92b21246346b" />](https://en.wikipedia.org/wiki/SQLite)
 
 <br/><br/>
 
 #### Platforms  
 
-[<img align="left" alt="AWS" width="40px" src="https://github.com/cassioscofield/cassioscofield/assets/3845827/da7de55f-de68-4659-a7c1-e82bf8f94daa" />](https://en.wikipedia.org/wiki/Amazon_Web_Services)
-[<img align="left" alt="Kubernetes" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1280px-Kubernetes_logo_without_workmark.svg.png" />](https://en.wikipedia.org/wiki/Kubernetes)
-[<img align="left" alt="Fly.io" width="40px" src="https://github.com/cassioscofield/cassioscofield/assets/3845827/952b15e1-d639-4ddc-927e-e4e4cf04ae74" />](https://fly.io/)
-[<img align="left" alt="Firebase" width="40px" src="https://github.com/cassioscofield/cassioscofield/assets/3845827/e6bc7b88-e501-4057-8ff8-ae94c56ffd5c" />](https://en.wikipedia.org/wiki/Firebase)
-[<img align="left" alt="Docker" width="40px" src="https://img.icons8.com/color/452/docker.png" />](https://en.wikipedia.org/wiki/Docker_(software))
+[<img align="left" alt="AWS" width="40px" style="margin: 10px" src="https://github.com/cassioscofield/cassioscofield/assets/3845827/da7de55f-de68-4659-a7c1-e82bf8f94daa" />](https://en.wikipedia.org/wiki/Amazon_Web_Services)
+[<img align="left" alt="Kubernetes" width="40px" style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1280px-Kubernetes_logo_without_workmark.svg.png" />](https://en.wikipedia.org/wiki/Kubernetes)
+[<img align="left" alt="Fly.io" width="40px" style="margin: 10px" src="https://github.com/cassioscofield/cassioscofield/assets/3845827/952b15e1-d639-4ddc-927e-e4e4cf04ae74" />](https://fly.io/)
+[<img align="left" alt="Firebase" width="40px" style="margin: 10px" src="https://github.com/cassioscofield/cassioscofield/assets/3845827/e6bc7b88-e501-4057-8ff8-ae94c56ffd5c" />](https://en.wikipedia.org/wiki/Firebase)
+[<img align="left" alt="Docker" width="40px" style="margin: 10px" src="https://img.icons8.com/color/452/docker.png" />](https://en.wikipedia.org/wiki/Docker_(software))
 
 
 <br/><br/>
