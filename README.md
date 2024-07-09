@@ -47,6 +47,8 @@ I'm a very curious and enthusiastic individual, always focused on learning new s
 
 #### Articles/Posts
 
+- [Identifying Application Bottlenecks: Key Questions and Strategies](https://www.linkedin.com/pulse/identifying-application-bottlenecks-key-questions-c%C3%A1ssio-scofield-p2vsf?utm_source=share) - 07/2024
+
 - [Which cloud provider is cheaper?](https://www.linkedin.com/pulse/which-cloud-provider-cheaper-c%25C3%25A1ssio-scofield/) - 05/2023
   
 - [The importance of cache for web performance and scale](https://www.linkedin.com/pulse/importance-cache-web-performance-scale-c%25C3%25A1ssio-scofield/?trackingId=H9zXQeeqTay%2FMH9jorrHtA%3D%3D) - 04/2023
