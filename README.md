@@ -47,6 +47,8 @@ I'm a very curious and enthusiastic individual, always focused on learning new s
 
 #### Articles/Posts
 
+- [How and When to Scale an App Infrastructure](https://www.linkedin.com/pulse/how-when-scale-app-infrastructure-c%C3%A1ssio-scofield-jwqdc?utm_source=share) - 07/2024
+
 - [Identifying Application Bottlenecks: Key Questions and Strategies](https://www.linkedin.com/pulse/identifying-application-bottlenecks-key-questions-c%C3%A1ssio-scofield-p2vsf?utm_source=share) - 07/2024
 
 - [Which cloud provider is cheaper?](https://www.linkedin.com/pulse/which-cloud-provider-cheaper-c%25C3%25A1ssio-scofield/) - 05/2023
