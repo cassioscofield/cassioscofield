@@ -18,7 +18,7 @@ I'm a very curious and enthusiastic individual, always focused on learning new s
 <br/><br/>
   
   
-#### Tools  
+#### Database Tools  
 
 [<img align="left" alt="MySQL" width="40px" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />](https://en.wikipedia.org/wiki/MySQL)
 [<img align="left" alt="MongoDB" width="40px" style="margin: 10px" src="https://dashboard.absam.io/img/mongo_db.png" />](https://en.wikipedia.org/wiki/MongoDB)
@@ -28,7 +28,7 @@ I'm a very curious and enthusiastic individual, always focused on learning new s
 
 <br/><br/>
 
-#### Platforms  
+#### Platforms Tools
 
 [<img align="left" alt="AWS" width="40px" style="margin: 10px" src="https://github.com/cassioscofield/cassioscofield/assets/3845827/da7de55f-de68-4659-a7c1-e82bf8f94daa" />](https://en.wikipedia.org/wiki/Amazon_Web_Services)
 [<img align="left" alt="Kubernetes" width="40px" style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1280px-Kubernetes_logo_without_workmark.svg.png" />](https://en.wikipedia.org/wiki/Kubernetes)
@@ -36,6 +36,15 @@ I'm a very curious and enthusiastic individual, always focused on learning new s
 [<img align="left" alt="Firebase" width="40px" style="margin: 10px" src="https://github.com/cassioscofield/cassioscofield/assets/3845827/e6bc7b88-e501-4057-8ff8-ae94c56ffd5c" />](https://en.wikipedia.org/wiki/Firebase)
 [<img align="left" alt="Docker" width="40px" style="margin: 10px" src="https://img.icons8.com/color/452/docker.png" />](https://en.wikipedia.org/wiki/Docker_(software))
 
+<br/><br/>
+
+#### Monitoring Tools
+
+[<img align="left" alt="Cloudwatch" width="40px" style="margin: 10px" src="https://github.com/user-attachments/assets/623b9837-06af-4b9b-b392-51882a3a50b6" />](https://aws.amazon.com/pt/cloudwatch/)
+[<img align="left" alt="Grafana" width="40px" style="margin: 10px" src="https://github.com/user-attachments/assets/1cee05ef-2f25-46e3-87b9-3e2d0e3dbc8a" />](https://en.wikipedia.org/wiki/Grafana)
+[<img align="left" alt="Kibana" width="40px" style="margin: 10px" src="https://github.com/user-attachments/assets/6bd3c82e-9c0a-40ed-bcb6-7a6dc02bf4f7" />](https://en.wikipedia.org/wiki/Kibana)
+[<img align="left" alt="Sentry" width="40px" style="margin: 10px" src="https://github.com/user-attachments/assets/61a8c5ba-0119-495b-b0ba-6952faf58483" />](https://en.wikipedia.org/wiki/Sentry)
+[<img align="left" alt="Better Uptime" width="40px" style="margin: 10px" src="https://github.com/user-attachments/assets/8607c08e-fbca-4e2a-a869-f3977e59eb4f" />](https://betterstack.com/uptime)
 
 <br/><br/>
 
