@@ -56,6 +56,8 @@ I'm a very curious and enthusiastic individual, always focused on learning new s
 
 #### Articles/Posts
 
+- [Comprehensive Guide to Applications Monitoring and Metrics](https://www.linkedin.com/pulse/comprehensive-guide-applications-monitoring-metrics-c%C3%A1ssio-scofield-vr1jf/?trackingId=pzex%2Fja2SCiH%2BMke3GXMHA%3D%3D) - 08/2024
+
 - [How and When to Scale an App Infrastructure](https://www.linkedin.com/pulse/how-when-scale-app-infrastructure-c%C3%A1ssio-scofield-jwqdc?utm_source=share) - 07/2024
 
 - [Identifying Application Bottlenecks: Key Questions and Strategies](https://www.linkedin.com/pulse/identifying-application-bottlenecks-key-questions-c%C3%A1ssio-scofield-p2vsf?utm_source=share) - 07/2024
