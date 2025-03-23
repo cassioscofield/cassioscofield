@@ -1,8 +1,8 @@
 #### Bio
 
-Hi, I'm Cássio Scofield, full-stack mobile developer and software architect, currently working as technical leader at [PEBMED](https://whitebook.pebmed.com.br/planos "PEBMED Whitebook Website"), a startup focused on mobile applications for healthcare professionals.
+Hi, I'm Cássio Scofield, full-stack software developer and software architect, currently acting as CTO at [Investo](https://investoetf.com), an investment firm focused of exchange traded funds.
 
-Throughout my career I had the experience of working on multiple projects ranging from banking and telecom, as a technical consultant for [IBM](https://www.ibm.com/ "IBM"), and from healthcare to manufacturing as mobile/IoT engineering researcher at [GE](https://www.ge.com/ "General Electric"), acquiring skills on web and mobile development, agile methodologies, prototyping, web-APIs and databases modeling, and UI design.
+Throughout my career I had the experience of working on multiple projects ranging from banking and telecom, as a technical consultant for [IBM](https://www.ibm.com/ "IBM"), and from healthcare to manufacturing as mobile/IoT engineering researcher at [GE](https://www.ge.com/ "General Electric"), acquiring skills on web and mobile development, agile methodologies, prototyping, web-APIs and databases modeling, and UX design.
 
 I'm a very curious and enthusiastic individual, always focused on learning new skills (technical and non-technical) to apply in my projects, trying to use the best technologies and techniques at hand to increase team productivity in day-to-day tasks, ensure collaboration and communication between teams, as well as delivering the best products and solutions to the customer.
 
