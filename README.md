@@ -54,7 +54,13 @@ I'm a very curious and enthusiastic individual, always focused on learning new s
 [Linkedin](https://www.linkedin.com/in/cassioscofield/ "Linkedin Profile")  | [GitHub](https://github.com/cassioscofield/ "Linkedin Profile") | [Medium](https://cassioscofield.medium.com/ "Medium Profile") | [Facebook](https://www.facebook.com/cassioscofield "Facebook Profile")
 
 
-#### Articles/Posts
+#### Articles
+
+- [The spec is back | Coding in the age of AI](https://www.linkedin.com/pulse/spec-back-coding-age-ai-c%C3%A1ssio-scofield-fsjoe/?trackingId=G%2B6EoOQ50UlNr0ipmUoybg%3D%3D) - 05/2026
+
+- [Perhaps this boolean should be something else](https://www.linkedin.com/pulse/talvez-esse-booleano-devesse-ser-outra-coisa-c%C3%A1ssio-scofield-yamgf/?trackingId=vejhao3Fj0OCwyEIn%2FvEdw%3D%3D) - 08/2025
+
+- [Just one word: Metrics](https://www.linkedin.com/pulse/just-one-word-metrics-c%C3%A1ssio-scofield-twsgf/?trackingId=WUjqUFQQXBuQRTlRFuw69Q%3D%3D) - 01/2025
 
 - [Comprehensive Guide to Applications Monitoring and Metrics](https://www.linkedin.com/pulse/comprehensive-guide-applications-monitoring-metrics-c%C3%A1ssio-scofield-vr1jf/?trackingId=pzex%2Fja2SCiH%2BMke3GXMHA%3D%3D) - 08/2024
 
